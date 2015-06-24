@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-   <?php include "includes/header.php" ?>
-
-</head>
-
+<?php include "includes/header.php" ?>
 <body>
 
     <!-- Navigation -->

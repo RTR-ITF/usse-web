@@ -1,18 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-   <?php include "includes/header.php" ?>
-
-</head>
+<?php include "includes/header.php" ?>
 
 <body>
 
     <!-- Navigation -->
     
-    <?php include "nav-bar.php" ?>
-    <?php include "slider-home.php" ?>
+    <?php include "includes/nav-bar.php" ?>
+    <?php include "includes/slider-home.php" ?>
 
 
 

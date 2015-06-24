@@ -1,20 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-    <?php include "includes/header.php" ?>
-
-</head>
+<?php include "includes/header.php" ?>
 
 <body>
 
     <!-- Navigation -->
-<<<<<<< HEAD
         <?php include "includes/nav-bar.php" ?>
-=======
-        <?php include "nav-bar.php" ?>
->>>>>>> 694909f2dd43e16090d8a4c8ada31222fddf8294
 
 
     <!-- Page Content -->
