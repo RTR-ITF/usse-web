@@ -1,7 +1,6 @@
 <?php include "includes/header.php" ?>
 
 <body>
-
     <!-- Navigation -->
         <?php include "includes/nav-bar.php" ?>
 

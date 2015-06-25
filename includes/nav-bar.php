@@ -8,7 +8,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">Start Bootstrap</a>
+                <a class="navbar-brand" href="index.php">
+                 <img src="company-logo/uss-logo.png"  style="width:100px;  height: auto;">
+                 <h3 style="padding : right"> U.S.S. Engineering (PVT) LTD</h3>
+                 </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -40,7 +43,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="dropdown active">
+                    <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Clients <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
@@ -63,3 +66,6 @@
         </div>
         <!-- /.container -->
     </nav>
+    <div id="headerback">
+
+    </div>
