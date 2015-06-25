@@ -8,13 +8,25 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">
-                 <img src="company-logo/uss-logo.png"  style="width:100px;  height: auto;">
-                 <h3 style="padding : right"> U.S.S. Engineering (PVT) LTD</h3>
-                 </a>
+
             </div>
+
+            <a class="navbar-brand" href="index.php">
+
+                
+                    <div id="logo">
+                 <img src="company-logo/uss-logo.png"  style="width:100px;  height: auto;">
+                  </div> <div id="company_name">
+                 <h3 style="padding : right"> U.S.S. Engineering (PVT) LTD</h3>
+                  </div>
+                
+                 </a>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+
+
+
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="about.php">About us</a>
@@ -61,6 +73,10 @@
                         <a href="contact.php">Contact us</a>
                     </li>
                 </ul>
+
+
+
+                
             </div>
             <!-- /.navbar-collapse -->
         </div>
