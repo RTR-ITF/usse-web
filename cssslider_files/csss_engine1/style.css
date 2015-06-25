@@ -545,11 +545,12 @@
 .csslider1 > .cs_arrowprev > label,
 .csslider1 > .cs_arrownext > label {
   padding: 17px;
-  height: 23px;
-  width: 23px;
+  height: 30px;
+  width: 30px;
   margin-top: -28px;
   margin-left: -28px;
-  background-color: #000000;
+  background-color: rgba(0,0,0,0);
+
 }
 .csslider1 > .cs_arrowprev > label,
 .csslider1 > .cs_arrownext > label,
@@ -569,12 +570,12 @@
 .csslider1 > .cs_arrowprev > label span,
 .csslider1 > .cs_arrownext > label span {
   display: block;
-  color: #3A4A5A;
+  color: black;
 }
 .csslider1 > .cs_arrowprev > label span:after,
 .csslider1 > .cs_arrownext > label span:after {
   display: block;
-  font: 21px "cs-ctrl-basic";
+  font: 45px "cs-ctrl-basic";
   line-height: 23px;
   text-align: center;
 }
@@ -595,7 +596,7 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_arrownext > label span:after {
 
 .csslider1 > .cs_arrowprev:hover > label,
 .csslider1 > .cs_arrownext:hover > label {
-  background-color: #e5f6fe;
+  color: #ffffff;
 }
 
 .csslider1 > .cs_arrownext:hover > label span {
@@ -739,9 +740,13 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_play_pause > label span:after {
   border-radius: 50%;
   margin: 0 5px;
   padding: 9px;
-  background: #CBECFD;
+  background: rgba(0,0,0,0.6);
 }
 
+.csslider1 > .cs_bullets > label :hover{
+
+  background: #000000;
+}
 
 .csslider1 > .cs_bullets > label > .cs_thumb {
   border: 3px solid #CBECFD;
@@ -873,7 +878,7 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_play_pause > label span:after {
 }
 
 .csslider1 > .cs_description > label > span {
-  color: #3A4A5A;
+  color: #9d9d9d;
   position: relative;
   padding: 13px;
   border-radius: 10px;
@@ -933,7 +938,7 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_play_pause > label span:after {
   transform: translateY(0);
 }
 .csslider1 > .cs_description > label > .cs_title {
-  background-color: #CBECFD;
+  background-color: rgba(0,0,51,0.4);
   margin: -5px 10px;
   opacity: 0;
   visibility: hidden;

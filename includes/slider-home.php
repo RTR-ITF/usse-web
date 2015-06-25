@@ -28,22 +28,14 @@
             <li class="num5 img slide"> <img src="cssslider_files/csss_images1/steel2.jpg" alt="steel2" title="steel2"></li>
         </ul><div class="cs_engine"><a href="http://cssslider.com">responsive slider wordpress</a> by cssSlider.com v2.0</div>
         <div class="cs_description">
-            <label class="num0"><span class="cs_title"><span class="cs_wrapper">construction1</span></span></label>
+            <label class="num0"><span class="cs_title"><h4><span class="cs_wrapper">construction1</span></h4></span></label>
             <label class="num1"><span class="cs_title"><span class="cs_wrapper">construction2</span></span></label>
             <label class="num2"><span class="cs_title"><span class="cs_wrapper">luxury</span></span></label>
             <label class="num3"><span class="cs_title"><span class="cs_wrapper">luxury2</span></span></label>
             <label class="num4"><span class="cs_title"><span class="cs_wrapper">steel1</span></span></label>
             <label class="num5"><span class="cs_title"><span class="cs_wrapper">steel2</span></span></label>
         </div>
-        <div class="cs_play_pause">
-            <label class="cs_play" for="cs_play1"><span><i></i><b></b></span></label>
-            <label class="cs_pause num0" for="cs_pause1_0"><span><i></i><b></b></span></label>
-            <label class="cs_pause num1" for="cs_pause1_1"><span><i></i><b></b></span></label>
-            <label class="cs_pause num2" for="cs_pause1_2"><span><i></i><b></b></span></label>
-            <label class="cs_pause num3" for="cs_pause1_3"><span><i></i><b></b></span></label>
-            <label class="cs_pause num4" for="cs_pause1_4"><span><i></i><b></b></span></label>
-            <label class="cs_pause num5" for="cs_pause1_5"><span><i></i><b></b></span></label>
-            </div>
+
         <div class="cs_arrowprev">
             <label class="num0" for="cs_slide1_0"><span><i></i><b></b></span></label>
             <label class="num1" for="cs_slide1_1"><span><i></i><b></b></span></label>

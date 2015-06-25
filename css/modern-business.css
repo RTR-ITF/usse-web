@@ -210,8 +210,3 @@ height: auto;
     }
 }
 
-/* slider buttons */
-.csslider1 > .cs_arrowprev > label, .csslider1 > .cs_arrownext > label {
-    border-radius:0px;
-    
-}
