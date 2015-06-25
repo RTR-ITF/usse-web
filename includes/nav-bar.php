@@ -15,9 +15,10 @@
 
                 
                     <div id="logo">
-                 <img src="company-logo/uss-logo.png"  style="width:100px;  height: auto;">
+                 <img src="company-logo/uss-logo.png">
                   </div> <div id="company_name">
-                 <h3 style="padding : right"> U.S.S. Engineering (PVT) LTD</h3>
+                      <h3 style="padding : right"> U.S.S. Engineering </h3>
+                      <h4>(PVT) LTD</h4>
                   </div>
                 
                  </a>
@@ -61,7 +62,7 @@
                             <li>
                                 <a href="prnicipal-clients.php">Principal Clients</a>
                             </li>
-                            <li class="active">
+                            <li>
                                 <a href="other-clients.php">Other Clients</a>
                             </li>
                         </ul>
