@@ -37,22 +37,19 @@
                             <li>
                                 <a href="portfolio-4-col.php">4 Column Portfolio</a>
                             </li>
-                            <!-- <li>
+                            <li>
                                 <a href="portfolio-item.php">Single Portfolio Item</a>
-                            </li> -->
+                            </li>
                         </ul>
                     </li>
                     <li class="dropdown active">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <b class="caret"></b></a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Clients <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="blog-home-1.php">Blog Home 1</a>
+                                <a href="prnicipal-clients.php">Principal Clients</a>
                             </li>
                             <li class="active">
-                                <a href="blog-home-2.php">Blog Home 2</a>
-                            </li>
-                            <li>
-                                <a href="blog-post.php">Blog Post</a>
+                                <a href="other-clients.php">Other Clients</a>
                             </li>
                         </ul>
                     </li>
