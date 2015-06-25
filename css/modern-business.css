@@ -96,7 +96,6 @@ footer {
 }
 .navbar {
     min-height:100px !important;
-    color: transparent;
     border: 0px;
 }
 
@@ -115,7 +114,7 @@ background: -ms-linear-gradient(top,  rgba(0,0,51,1) 0%,rgba(0,0,51,1) 50%,rgba(
 background: linear-gradient(to bottom,  rgba(0,0,51,1) 0%,rgba(0,0,51,1) 50%,rgba(249,249,249,0) 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000033', endColorstr='#00f9f9f9',GradientType=0 ); /* IE6-9 */
 
- 
+
 }
 #headerback{
     height: 50px;
@@ -128,7 +127,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000033', end
 
 /* Set image Size default*/
  #logo>img{
-width:100px;  
+width:100px;
 height: auto;
 }
 
@@ -149,7 +148,7 @@ height: auto;
     #company_name{
       position: fixed;
         top:0px;
-        left:130px;  
+        left:130px;
     }
 }
 
@@ -171,7 +170,7 @@ height: auto;
     #company_name{
       position: fixed;
         top:0px;
-        left:100px;  
+        left:100px;
     }
 }
 
@@ -206,12 +205,6 @@ height: auto;
     #company_name{
       position: fixed;
         top:0px;
-        left:100px;  
+        left:100px;
     }
-}
-
-/* slider buttons */
-.csslider1 > .cs_arrowprev > label, .csslider1 > .cs_arrownext > label {
-    border-radius:0px;
-    
 }
