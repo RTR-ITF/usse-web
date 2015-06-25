@@ -180,7 +180,7 @@ height: auto;
 
 /* Mobile View Smallest */
 @media screen and (max-width: 767px){
-    
+
     .navbar-nav>li {
         background-color: rgba(0,0,0,0.5);
       }
@@ -208,4 +208,10 @@ height: auto;
         top:0px;
         left:100px;  
     }
+}
+
+/* slider buttons */
+.csslider1 > .cs_arrowprev > label, .csslider1 > .cs_arrownext > label {
+    border-radius:0px;
+    
 }

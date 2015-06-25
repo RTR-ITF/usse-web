@@ -549,10 +549,7 @@
   width: 23px;
   margin-top: -28px;
   margin-left: -28px;
-
-  background-color: #CBECFD;
-
-  border-radius: 50%;
+  background-color: #000000;
 }
 .csslider1 > .cs_arrowprev > label,
 .csslider1 > .cs_arrownext > label,
