@@ -43,11 +43,11 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-check"></i> What we have done</h4>
+                        <h4><i class="fa fa-fw fa-check"></i> What have we done</h4>
                     </div>
                     <div class="panel-body">
                         <p> Major Achievements of the company are described </p>
-                        <a href="#" class="btn btn-default"> More on our products.</a>
+                        <a href="news-events.php" class="btn btn-default"> More on our products.</a>
                     </div>
                 </div>
             </div>
