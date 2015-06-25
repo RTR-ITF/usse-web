@@ -126,44 +126,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000033', end
     top : 0px;
 }
 
-/* Mobile View Smallest */
-@media screen and (max-width: 768px){
-    .navbar-collapse{
-
-  width: 150px;
-  float: right;
-    }
-
-          #logo{
-        position: fixed;
-        top:0px;
-        left:0px;
-    }
-    #company_name{
-      position: fixed;
-        top:100px;
-        left:100px;  
-    }
+/* Set image Size default*/
+ #logo>img{
+width:100px;  
+height: auto;
 }
 
-
-/* Tab View */
-@media (max-width: 992px){
-    .navbar-nav>li {
-      margin-top: 40px;
-      }
-
-      #logo{
-        position: fixed;
-        top:0px;
-        left:0px;
-    }
-    #company_name{
-      position: fixed;
-        top:100px;
-        left:10px;  
-    }
-}
 
 
 /* Desktop View */
@@ -175,13 +143,69 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000033', end
 
       #logo{
         position: fixed;
-        top:0px;
-        left:0px;
+        top:5px;
+        left:15px;
     }
     #company_name{
       position: fixed;
         top:0px;
-        left:200px;  
+        left:130px;  
     }
 }
 
+
+
+/* Tab View */
+@media (max-width: 992px){
+
+      #logo{
+        position: fixed;
+        top:5px;
+        left:15px;
+    }
+    #logo>img{
+        width:75px;
+    }
+
+
+    #company_name{
+      position: fixed;
+        top:0px;
+        left:100px;  
+    }
+}
+
+
+
+
+/* Mobile View Smallest */
+@media screen and (max-width: 767px){
+    
+    .navbar-nav>li {
+        background-color: rgba(0,0,0,0.5);
+      }
+    .navbar-collapse{
+  float: right;
+    }
+
+
+    .navbar-collapse.in {
+  overflow-y: visible;
+}
+
+        #logo{
+        position: fixed;
+        top:5px;
+        left:15px;
+    }
+
+    #logo>img{
+        width:50px;
+    }
+
+    #company_name{
+      position: fixed;
+        top:0px;
+        left:100px;  
+    }
+}
