@@ -36,7 +36,7 @@
                         <a href="services.php">Services</a>
                     </li>
 
-                    <li class="dropdown">
+                    <li class="dropdown" id="fullscreen">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
                         <div class="dropdown-menu">
                         <button type="button" class="xclose w3DropdownClose" onclick="hideDropdownMenu()" title="Close"><span>×</span></button>
@@ -91,19 +91,11 @@
                         </div>
                         </div>
                     </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Clients <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="principal-clients.php">Principal Clients</a>
-                            </li>
-                            <li>
-                                <a href="other-clients.php">Other Clients</a>
-                            </li>
-                        </ul>
+                    <li>
+                        <a href="principal-clients.php">Clients</a>
                     </li>
                     <li>
-                        <a href="news-events.php">New & Events</a>
+                        <a href="news-events.php">News & Events</a>
                     </li>
                      <li>
                         <a href="contact.php">Contact us</a>
