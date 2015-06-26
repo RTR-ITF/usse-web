@@ -13,7 +13,7 @@
         <br>
         <br>
         <h1>  The recently published Projects</h1> 
-        <h1>  Current bigh projects</h1> 
+        <h1>  Current big projects</h1> 
         <h1>  Related news are captured and described here</h1> 
 
 
