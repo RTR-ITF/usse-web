@@ -9,18 +9,9 @@
     <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
-        <div class="well">
-                    <h4>Search</h4>
-                    <div class="input-group">
-                        <input type="text" class="form-control">
-                        <span class="input-group-btn">
-                            <button class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
-                        </span>
-                    </div>
-                    <!-- /.input-group -->
-                </div>
-        <div id ="Content"> 
-            <ul>
+
+        <div class="row"> 
+            <ul class="page-header">
                 <li>
                     <a  role="button" data-toggle="collapse" href="#collapsePClients" aria-expanded="false" aria-controls="collapseExample">
                       Principal Clients
