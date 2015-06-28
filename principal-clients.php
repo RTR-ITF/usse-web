@@ -11,29 +11,29 @@
         <!-- Page Heading/Breadcrumbs -->
 
         <div class="row"> 
-            <ul class="page-header">
-                <li>
+            <ul  class="page-header list-group">
+                <li class="list-group-item">
                     <a  role="button" data-toggle="collapse" href="#collapsePClients" aria-expanded="false" aria-controls="collapseExample">
                       Principal Clients
                     </a>
-                     <ul class ="collapse" id="collapsePClients">
-                        <li>
+                     <ul class ="collapse " id="collapsePClients">
+                        <li >
                             <a href="#PClient1"> Client 1</a>
                         </li>
-                        <li>
+                        <li >
                             <a href="#PClient2"> Client 2</a>
                         </li>
                 </ul>
                 </li>
-                <li>
+                <li class="list-group-item">
                     <a  role="button" data-toggle="collapse" href="#collapseOClients" aria-expanded="false" aria-controls="collapseExample">
                       Other Clients
                     </a>
-                     <ul class ="collapse" id="collapseOClients">
-                        <li>
+                     <ul class ="collapse " id="collapseOClients">
+                        <li >
                             <a href="#OClient1"> Client 1</a>
                         </li>
-                        <li>
+                        <li >
                             <a href="#OClient2"> Client 2</a>
                         </li>
                 </ul>
@@ -162,7 +162,9 @@
                 <p> Description about the project that has beem done or doing currently</p> 
                 <a class="btn btn-primary" href="#">Read More <i class="fa fa-angle-right"></i></a>
 
-                <hr>                
+                <hr>  
+
+                </div>              
 
 
     <?php include "includes/footer.php" ?>

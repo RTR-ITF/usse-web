@@ -1,11 +1,19 @@
             
 
         <!-- Footer -->
-        <footer>
+        <div  id="footer">
 		     
-		                <p>Footer for the page is diplayed here</p>
+		                 <div class="navbar navbar-default navbar-bottom">
+                            <div >
+                              <p class="navbar-text pull-left">copyright © 2015 
+                                   <a href="#" target="_blank"> USS Engineering(Pvt)Ltd. </a> All rights reserved.
+                              </p>
+
+                            </div>
+
+                        </div>
 		         
-		</footer>
+		</div>
 
     <!-- /.container -->
 
