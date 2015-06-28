@@ -96,6 +96,7 @@
             
             
         </div>
+        </div>
         <!-- /.row -->
 
         <!-- Our Customers -->
