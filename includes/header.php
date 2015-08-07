@@ -21,7 +21,7 @@
     <!-- Custom CSS -->
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="css/styles_kasun.css" rel="stylesheet">
-	<link rel="stylesheet" href="http://css-spinners.com/css/spinner/throbber.css" type="text/css">
+	<!-- <link rel="stylesheet" href="http://css-spinners.com/css/spinner/throbber.css" type="text/css">-->
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
