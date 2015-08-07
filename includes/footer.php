@@ -26,6 +26,7 @@
 	<script >
      $(window).load(function() {
      $('#loading').hide();
+	 document.getElementById("slider").style.display = "block";
   });
 </script>
 
