@@ -4,9 +4,16 @@
         <link rel="stylesheet" href="cssslider_files/csss_engine1/style.css">
         <!--[if IE]><link rel="stylesheet" href="cssslider_files/csss_engine1/ie.css"><![endif]-->
         <!--[if lte IE 9]><script type="text/javascript" src="cssslider_files/csss_engine1/ie.js"></script><![endif]-->
-<div id="loading" class="loader">Loading...</div>
-
-         <div id="slider" style="display: none;" class="csslider1 autoplay " >
+		<div class="throbber-loader" id="loading">
+  Loading…
+</div>
+<script language="javascript" type="text/javascript">
+     $(window).load(function() {
+     $('#loading').hide();
+	 alert("al");
+  });
+</script>
+         <div class="csslider1 autoplay ">
         <input name="cs_anchor1" id="cs_slide1_0" type="radio" class="cs_anchor slide">
         <input name="cs_anchor1" id="cs_slide1_1" type="radio" class="cs_anchor slide">
         <input name="cs_anchor1" id="cs_slide1_2" type="radio" class="cs_anchor slide">
@@ -56,11 +63,11 @@
         </div>
         <div class="cs_bullets">
             <label class="num0" for="cs_slide1_0"> <span class="cs_point"></span>
-                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/construction1.jpg" alt="construction1" title="construction1">  </span></label>
+                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/construction1.jpg" alt="construction1" title="construction1"></span></label>
             <label class="num1" for="cs_slide1_1"> <span class="cs_point"></span>
                 <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/construction2.jpg" alt="construction2" title="construction2"></span></label>
             <label class="num2" for="cs_slide1_2"> <span class="cs_point"></span>
-                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/luxury.jpg" alt="luxury" title="luxury "></span></label>
+                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/luxury.jpg" alt="luxury" title="luxury"></span></label>
             <label class="num3" for="cs_slide1_3"> <span class="cs_point"></span>
                 <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/luxury2.jpg" alt="luxury2" title="luxury2"></span></label>
             <label class="num4" for="cs_slide1_4"> <span class="cs_point"></span>
