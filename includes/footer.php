@@ -22,6 +22,12 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+	
+	<script >
+     $(window).load(function() {
+     $('#loading').hide();
+  });
+</script>
 
     <!-- Script to Activate the Carousel -->
     <script>

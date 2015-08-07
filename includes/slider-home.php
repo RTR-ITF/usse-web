@@ -4,6 +4,15 @@
         <link rel="stylesheet" href="cssslider_files/csss_engine1/style.css">
         <!--[if IE]><link rel="stylesheet" href="cssslider_files/csss_engine1/ie.css"><![endif]-->
         <!--[if lte IE 9]><script type="text/javascript" src="cssslider_files/csss_engine1/ie.js"></script><![endif]-->
+		<div class="throbber-loader" id="loading">
+  Loading…
+</div>
+<script language="javascript" type="text/javascript">
+     $(window).load(function() {
+     $('#loading').hide();
+	 alert("al");
+  });
+</script>
          <div class="csslider1 autoplay ">
         <input name="cs_anchor1" id="cs_slide1_0" type="radio" class="cs_anchor slide">
         <input name="cs_anchor1" id="cs_slide1_1" type="radio" class="cs_anchor slide">
