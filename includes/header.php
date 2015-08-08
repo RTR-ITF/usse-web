@@ -17,6 +17,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/slimmenu.css" type="text/css">
 
     <!-- Custom CSS -->
     <link href="css/modern-business.css" rel="stylesheet">

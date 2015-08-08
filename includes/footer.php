@@ -22,6 +22,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.slimmenu.js"></script>
 	
 	<script >
      $(window).load(function() {
@@ -34,6 +35,21 @@
     <script>
     $('.carousel').carousel({
         interval: 5000 //changes the speed
-    })
+    });
+	
+	</script>
+	
+	<script>
+	$('#navigation').slimmenu(
+{
+    resizeWidth: '800',
+    collapserTitle: 'Main Menu',
+    animSpeed: 'medium',
+    easingEffect: null,
+    indentChildren: false,
+    childrenIndenter: '&nbsp;'
+});
+
+
     </script>
  
