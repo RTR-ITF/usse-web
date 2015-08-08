@@ -1,5 +1,5 @@
  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-        <div class="container">
+        <div >
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -23,7 +23,7 @@
 
                  </a>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="span10">
+            <div class="span8">
 
 	<div class="menu-collapser" style="display: none;">Main Menu<div class="collapse-button"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></div></div>
 

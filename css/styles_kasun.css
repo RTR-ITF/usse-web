@@ -35,6 +35,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00fcfcfc', e
   }
   
   
+  
+.navbar-inverse .navbar-brand  {
+    color: #FFFFFF;
+}
+  
 .loader {
   margin: 200px auto;
   font-size: 10px;
