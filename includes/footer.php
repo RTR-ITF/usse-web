@@ -42,7 +42,7 @@
 	<script>
 	$('#navigation').slimmenu(
 {
-    resizeWidth: '800',
+    resizeWidth: '1000',
     collapserTitle: 'Main Menu',
     animSpeed: 'medium',
     easingEffect: null,

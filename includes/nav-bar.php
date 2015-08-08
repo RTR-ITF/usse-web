@@ -1,22 +1,14 @@
  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div >
             <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-
-            </div>
 
             <a class="navbar-brand" href="index.php">
 
 
                     <div id="logo">
                  <img src="company-logo/uss-logo.png">
-                  </div> <div id="company_name">
+                  </div> 
+				  <div id="company_name">
                       <h3 style="padding : right"> U.S.S. Engineering </h3>
                       <h4>(PVT) LTD</h4>
                   </div>
@@ -25,7 +17,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="span8">
 
-	<div class="menu-collapser" style="display: none;">Main Menu<div class="collapse-button"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></div></div>
+
 
 
                 <ul id="navigation" class="slimmenu right-to-left">
@@ -47,8 +39,8 @@
 											<li>
 												<a href="#">Slim Menu 1.1.2</a>
 												<ul style="display: none;">
-													<li><a href="#">Slim Menu 1.1.2.1</a></li>
-													<li><a href="#">Slim Menu 1.1.2.2</a></li>
+													<li><a href="#">Slim Menu </a></li>
+													<li><a href="#">Slim Menu </a></li>
 												</ul>
 											<span class="sub-collapser"><i></i></span></li>
 										</ul>

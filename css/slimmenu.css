@@ -2,7 +2,7 @@
 
 .menu-collapser {
     position: relative;
-    background-color: rgba(5,150,250,0.2);
+    background-color: rgba(5,150,250,0);
     color: #FFF;
     text-shadow: 0 1px 0 rgba(0,0,0,0.5);
     width: 100%;
@@ -80,10 +80,10 @@ ul.slimmenu li a {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-weight: 400;
-    transition: background-color 0.5s ease-out;
-    -o-transition: background-color 0.5s ease-out;
-    -moz-transition: background-color 0.5s ease-out;
-    -webkit-transition: background-color 0.5s ease-out;
+    transition: background-color 0.5s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+    -o-transition: background-color 0.5s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+    -moz-transition: background-color 0.5s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+    -webkit-transition: background-color 0.5s cubic-bezier(0.445, 0.05, 0.55, 0.95);
 }
 ul.slimmenu li a:hover {
     background-color: rgba(5,150,250,0.2);
