@@ -21,14 +21,12 @@
 
 
                 <ul id="navigation" class="slimmenu right-to-left">
-                    <li >
-                        <a href="about.php">About us</a>
-									
+                     <li>
+                        <a href="contact.php">Contact us</a>
                     </li>
                     <li>
-                        <a href="services.php">Product & Services</a>
+                        <a href="news-events.php">News & Events</a>
                     </li>
-
                     <li>
                         <a href="principal-clients.php">Clients</a>
 						<ul style="display: block; height: 1px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
@@ -50,11 +48,12 @@
 								<span class="sub-collapser expanded"><i></i></span>
                     </li>
                     <li>
-                        <a href="news-events.php">News & Events</a>
+                        <a href="services.php">Product & Services</a>
                     </li>
-                     <li>
-                        <a href="contact.php">Contact us</a>
+                    <li >
+                        <a href="about.php">About us</a>									
                     </li>
+
                 </ul>
 
 

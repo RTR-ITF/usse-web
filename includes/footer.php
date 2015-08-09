@@ -43,9 +43,9 @@
 	$('#navigation').slimmenu(
 {
     resizeWidth: '1000',
-    collapserTitle: 'Main Menu',
+    collapserTitle: '',
     animSpeed: 'medium',
-    easingEffect: null,
+    easingEffect: 'linear',
     indentChildren: false,
     childrenIndenter: '&nbsp;'
 });
