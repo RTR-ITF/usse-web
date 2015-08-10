@@ -6,7 +6,7 @@
 
 
                     <div id="logo">
-                 <img src="company-logo/uss-logo.png">
+                 <img src="company-logo/logo_new.png">
                   </div> 
 				  <div id="company_name">
                       <h3 style="padding : right"> U.S.S. Engineering </h3>
