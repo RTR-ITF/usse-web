@@ -2,6 +2,7 @@
 </div>
 </div>
 </div>
+<a href="#" class="scrollup"><img src="company-logo/top.png"></a>
         <!-- Footer -->
 		<footer class="footer-distributed">
 
@@ -23,24 +24,29 @@
 					<a href="#">Contact</a>
 				</p>
 
-				<p class="footer-company-name">Company Name &copy; 2015</p>
+				<p class="footer-company-name">copyright &copy 2015 USS Engineering(Pvt)Ltd. All rights reserved.</p>
 			</div>
 
 			<div class="footer-center">
 
 				<div>
 					<i class="fa fa-map-marker"></i>
-					<p><span>21 Revolution Street</span> Paris, France</p>
+					<p><span>397, Galahitiyawa South</span> Ganemulla, Sri Lanka</p>
 				</div>
 
 				<div>
 					<i class="fa fa-phone"></i>
-					<p>+1 555 123456</p>
+					<p><span>+94 (0)773581892<br> +94 (0)332260066</span></p>
+				</div>
+				
+				<div>
+					<i class="fa fa-fax"></i>
+					<p><span>+94 (0)332260321</span></p>
 				</div>
 
 				<div>
 					<i class="fa fa-envelope"></i>
-					<p><a href="mailto:support@company.com">support@company.com</a></p>
+					<p><a href="mailto:info@ussengineering.com?Subject=Enquiry from U.S.S Engineering web site" class="email">info@ussengineering.com</a></p>
 				</div>
 
 			</div>
@@ -55,9 +61,9 @@
 				<div class="footer-icons">
 
 					<a href="#"><i class="fa fa-facebook"></i></a>
+					<a href="#"><i class="fa fa-google-plus"></i></a>
 					<a href="#"><i class="fa fa-twitter"></i></a>
 					<a href="#"><i class="fa fa-linkedin"></i></a>
-					<a href="#"><i class="fa fa-github"></i></a>
 
 				</div>
 
@@ -74,31 +80,8 @@
     <script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery.slimmenu.js"></script>
 	
-	<script >
-		 $(window).load(function() {
-		 $('#loading').hide();
-		 document.getElementById("slider").style.display = "block";
-		});
-	</script>
+	<script src="js/uss_web.js"></script>
 
-    <!-- Script to Activate the Carousel -->
-    <script>
-    $('.carousel').carousel({
-        interval: 5000 //changes the speed
-    });
-	
-	</script>
-	
-	<script>
-		$('#navigation').slimmenu(
-		{
-			resizeWidth: '1000',
-			collapserTitle: '',
-			animSpeed: 'medium',
-			easingEffect: 'linear',
-			indentChildren: false,
-			childrenIndenter: '&nbsp;'
-		});
 
-    </script>
+
  
