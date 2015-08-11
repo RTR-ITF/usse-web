@@ -12,7 +12,7 @@
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Services
+                <h1 class="page-header">Our Work for the Nation
                     <small>Subheading</small>
                 </h1>
             </div>
@@ -31,7 +31,7 @@
         <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Services Panels</h2>
+                <h2 class="page-header">The Products</h2>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
@@ -42,8 +42,89 @@
                         </span>
                     </div>
                     <div class="panel-body">
-                        <h4>Service One</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <h4>Steel Hardware Products</h4>
+                        <p style="text-align: justify">
+                        We manufacture an assortment exquite steel hardware products, which are widely acclaimed for their superior 
+                        quality and hi-tech desings. These items are high demand within many Government Institutions such as CEB, SLT,
+                        and LECO. We are unique in our capability of manufacturing all types of steel hardware products as per ay specifications </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Steel Fabrication</h4>
+                        <p style="text-align: justify">
+                            At USS Engineering Steel Fabrication unitm we are fully committed to accomplishment of every project undertaken 
+                            by us, thus guaranteeing customer satisfaction. We are proud of and are honoured by the trust placed in us by 
+                            our customers. Our hallmark of success in steel fabrication in Sri Lanka, is attributable to our experience, 
+                            engineering expertise and versatility.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Concrete Products</h4>
+                        <p style="text-align: justify">
+                        Our RC Concrete Poles manufacturing unit is playing a major role. We are the first choice of CEB, LECO and SLT. During
+                        past 2 decades we have delivered  concrete poles with suoerior quality and we have our own manfacturing yards islandwide
+                        with attractive prices. And all our concrete poles are customized and made to order. 
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>LED Bulbs</h4>
+                        <p style="text-align: justify">
+                            TOMA LIGHT our new product for Sri Lanka. This LED tube lights are currently producing in Japan and we are the agent 
+                            and distributors of this product. And in near furture we planned to install a manufaturing plant of this product.                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+        </div> <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">Services</h2>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Buildings</h4>
+                        <p style="text-align: justify">
+                            We construct sophisticated, elegent structures to the highest standard. Our emphasis is on accuracy, quality and customer
+                            satisfaction. Since our past services to the building construction, today we are highly respected by our clientele. We are
+                            fully geared to take on the requirements of our clients, with integrity, passion for architecture and high standards, in 
+                            order to realize their projects' potential. 
+                        </p>
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
@@ -57,8 +138,11 @@
                         </span>
                     </div>
                     <div class="panel-body">
-                        <h4>Service Two</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <h4>Highways</h4>
+                        <p style="text-align: justify">
+                            Earth work, Structural work - Culverts, Bridges, Line drains, Causeways, Irrigation structures
+                            Asphalt Laying, DBST Laying, Road Making and Installation of Sign Boards etc.
+                        </p>
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
@@ -72,8 +156,123 @@
                         </span>
                     </div>
                     <div class="panel-body">
-                        <h4>Service Three</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <h4>Power Transmission Lines</h4>
+                        <p style="text-align: justify">
+                         Laying 132kV and 33kV in various parts of the Island.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Water Supply & Drainage</h4>
+                        <p style="text-align: justify">
+                        Pipe Laying, Construction of Dams and Water treatment plants, Construction of reservoirs, Constructions 
+                        of Sewerage and Drainage lines are our major water supply services.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Telecommunication Engineering & Construction Work</h4>
+                        <p style="text-align: justify">
+                         In Colombo  we have established our Telecommunication Division in 2003. We are fully geared now to undertake
+                         any type of telecommunication project in any part of the country. ALso we now rank as a Reputed Registered Unit
+                         Rate Contractor of SLT, and successfully accomplished the "Deyata Kirula" Government Project at Buttala.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Electrical Engieering & Construction</h4>
+                        <p style="text-align: justify">
+                        With the guide of experienced professionals our organization has engineered a variety of notable projects 
+                        for the Government and the private sector. We undertake any project upon careful assessment of the client's 
+                        rewuirement, in order to deliver the best solution.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Design and Consultancy Services</h4>
+                        <p style="text-align: justify">
+                        With the vast experience our consultants we have newly opened our consultancy division to assist 
+                        any project in the fields of water, wastewater and electricity. Our consultants offer services and 
+                        methodologies designed to address technological needs, ranging from strategic planning to rapid implementation
+                        and accomplishment of projects.
+                        </p>
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">Import & Supplies</h2>
+            </div>
+             <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Railway Items</h4>
+                        <p style="text-align: justify">
+                        Rolls, Brake pads, Connectors, Insulators, Sleeper pads, Rubber pads, Fish plates, Junction fish plates and Rail Clips
+                        are out main supplies to the railway.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Electrical Accessories</h4>
+                        <p style="text-align: justify">
+                        Transformers, Surge Arrestors, Porcelain Insulators, Electrical overload  protection accessories
+                        Cut-outs, Connectors, Pin connectors, Solar Panels, Fuses are major supplies which are imported.
+                        </p>
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
@@ -83,183 +282,65 @@
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
                         </span>
                     </div>
                     <div class="panel-body">
-                        <h4>Service Four</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                        <h4>Water Treatment and Supplies</h4>
+                        <p style="text-align: justify">
+                        Water meters, Chemicals (Aluminium Sulphate), PAC, Hydrated Lime, Bleaching powder, HDPE/DI pipes, Valves, Pumps
+                        ,Filters, Gun metal ferrules, Water Meter Test Bench, Chlorine gas,GI pipes are the supplied under water treatment 
+                        items division.
+                        </p>
                         <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
-        </div>
-
-        <!-- Service Tabs -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">Service Tabs</h2>
-            </div>
-            <div class="col-lg-12">
-
-                <ul id="myTab" class="nav nav-tabs nav-justified">
-                    <li class="active"><a href="#service-one" data-toggle="tab"><i class="fa fa-tree"></i> Service One</a>
-                    </li>
-                    <li class=""><a href="#service-two" data-toggle="tab"><i class="fa fa-car"></i> Service Two</a>
-                    </li>
-                    <li class=""><a href="#service-three" data-toggle="tab"><i class="fa fa-support"></i> Service Three</a>
-                    </li>
-                    <li class=""><a href="#service-four" data-toggle="tab"><i class="fa fa-database"></i> Service Four</a>
-                    </li>
-                </ul>
-
-                <div id="myTabContent" class="tab-content">
-                    <div class="tab-pane fade active in" id="service-one">
-                        <h4>Service One</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae repudiandae fugiat illo cupiditate excepturi esse officiis consectetur, laudantium qui voluptatem. Ad necessitatibus velit, accusantium expedita debitis impedit rerum totam id. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quibusdam recusandae illum, nesciunt, architecto, saepe facere, voluptas eum incidunt dolores magni itaque autem neque velit in. At quia quaerat asperiores.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae repudiandae fugiat illo cupiditate excepturi esse officiis consectetur, laudantium qui voluptatem. Ad necessitatibus velit, accusantium expedita debitis impedit rerum totam id. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quibusdam recusandae illum, nesciunt, architecto, saepe facere, voluptas eum incidunt dolores magni itaque autem neque velit in. At quia quaerat asperiores.</p>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                        </span>
                     </div>
-                    <div class="tab-pane fade" id="service-two">
-                        <h4>Service Two</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae repudiandae fugiat illo cupiditate excepturi esse officiis consectetur, laudantium qui voluptatem. Ad necessitatibus velit, accusantium expedita debitis impedit rerum totam id. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quibusdam recusandae illum, nesciunt, architecto, saepe facere, voluptas eum incidunt dolores magni itaque autem neque velit in. At quia quaerat asperiores.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae repudiandae fugiat illo cupiditate excepturi esse officiis consectetur, laudantium qui voluptatem. Ad necessitatibus velit, accusantium expedita debitis impedit rerum totam id. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quibusdam recusandae illum, nesciunt, architecto, saepe facere, voluptas eum incidunt dolores magni itaque autem neque velit in. At quia quaerat asperiores.</p>
-                    </div>
-                    <div class="tab-pane fade" id="service-three">
-                        <h4>Service Three</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae repudiandae fugiat illo cupiditate excepturi esse officiis consectetur, laudantium qui voluptatem. Ad necessitatibus velit, accusantium expedita debitis impedit rerum totam id. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quibusdam recusandae illum, nesciunt, architecto, saepe facere, voluptas eum incidunt dolores magni itaque autem neque velit in. At quia quaerat asperiores.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae repudiandae fugiat illo cupiditate excepturi esse officiis consectetur, laudantium qui voluptatem. Ad necessitatibus velit, accusantium expedita debitis impedit rerum totam id. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quibusdam recusandae illum, nesciunt, architecto, saepe facere, voluptas eum incidunt dolores magni itaque autem neque velit in. At quia quaerat asperiores.</p>
-                    </div>
-                    <div class="tab-pane fade" id="service-four">
-                        <h4>Service Four</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae repudiandae fugiat illo cupiditate excepturi esse officiis consectetur, laudantium qui voluptatem. Ad necessitatibus velit, accusantium expedita debitis impedit rerum totam id. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quibusdam recusandae illum, nesciunt, architecto, saepe facere, voluptas eum incidunt dolores magni itaque autem neque velit in. At quia quaerat asperiores.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae repudiandae fugiat illo cupiditate excepturi esse officiis consectetur, laudantium qui voluptatem. Ad necessitatibus velit, accusantium expedita debitis impedit rerum totam id. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus quibusdam recusandae illum, nesciunt, architecto, saepe facere, voluptas eum incidunt dolores magni itaque autem neque velit in. At quia quaerat asperiores.</p>
+                    <div class="panel-body">
+                        <h4>Steel Items</h4>
+                        <p style="text-align: justify">
+                        We supply steel for Steel Towers, GI pipes, Clamps and Brackets, Plastics Security seals, Electricity meter Seals,
+                        Telephone Units, Ladder, Bolt Seals, Sealing Straps.
+                        </p>
+                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
-
             </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Electrical & Telecom Cables</h4>
+                        <p style="text-align: justify">
+                        High/Low voltage underground or power cables, ACSR (Lynx, Racoon), AAC & AAAC conductors, Multi pair telephone cables,
+                        Co-axial xables and Fiber opticals are imported and supplied Islandwide.
+                        </p>
+                        <a href="#" class="btn btn-primary">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            
         </div>
+        <!-- Service Tabs -->
 
         <!-- Service List -->
         <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">Service List</h2>
-            </div>
-            <div class="col-md-4">
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service One</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-car fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Two</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Three</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-database fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Four</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-bomb fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Five</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-bank fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Six</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Seven</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-space-shuttle fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Eight</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-                <div class="media">
-                    <div class="pull-left">
-                        <span class="fa-stack fa-2x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-recycle fa-stack-1x fa-inverse"></i>
-                        </span> 
-                    </div>
-                    <div class="media-body">
-                        <h4 class="media-heading">Service Nine</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-                    </div>
-                </div>
-            </div>
+
         </div>
+
         <!-- /.row -->
 
         <hr>

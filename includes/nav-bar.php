@@ -37,7 +37,7 @@
                     </li>
 
                     <li>
-                        <a href="principal-clients.php">Clients</a>
+                        <a href="clients.php">Clients</a>
                     </li>
                     <li>
                         <a href="news-events.php">News & Events</a>
