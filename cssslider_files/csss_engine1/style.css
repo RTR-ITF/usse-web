@@ -844,8 +844,13 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_arrownext > label span:after {
   -webkit-transform: translateY(0);
   transform: translateY(0);
 }
+
+
+.csslider1 > .cs_description > label {
+font-weight: 100;
+}
 .csslider1 > .cs_description > label > .cs_title {
-  background-color: rgba(0, 0, 51, 0.6);
+  background-color: rgba(0, 0, 51, 0.5);
   margin: -5px 10px;
   opacity: 0;
   visibility: hidden;
