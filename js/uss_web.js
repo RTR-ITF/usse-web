@@ -12,6 +12,7 @@
 					$('.scrollup').fadeOut();
 				}
 			});
+			
 
 			$('.scrollup').click(function () {
 				$("html, body").animate({
@@ -36,3 +37,5 @@
 		 $('.carousel').carousel({
         interval: 5000 //changes the speed
     });
+	
+	
