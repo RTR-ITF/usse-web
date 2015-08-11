@@ -4,77 +4,70 @@
         <link rel="stylesheet" href="cssslider_files/csss_engine1/style.css">
         <!--[if IE]><link rel="stylesheet" href="cssslider_files/csss_engine1/ie.css"><![endif]-->
         <!--[if lte IE 9]><script type="text/javascript" src="cssslider_files/csss_engine1/ie.js"></script><![endif]-->
-		<div class="throbber-loader" id="loading">
-  Loading…
-</div>
-<script language="javascript" type="text/javascript">
-     $(window).load(function() {
-     $('#loading').hide();
-	 alert("al");
-  });
-</script>
-         <div class="csslider1 autoplay ">
-        <input name="cs_anchor1" id="cs_slide1_0" type="radio" class="cs_anchor slide">
-        <input name="cs_anchor1" id="cs_slide1_1" type="radio" class="cs_anchor slide">
-        <input name="cs_anchor1" id="cs_slide1_2" type="radio" class="cs_anchor slide">
-        <input name="cs_anchor1" id="cs_slide1_3" type="radio" class="cs_anchor slide">
-        <input name="cs_anchor1" id="cs_slide1_4" type="radio" class="cs_anchor slide">
-        <input name="cs_anchor1" id="cs_slide1_5" type="radio" class="cs_anchor slide">
-        <input name="cs_anchor1" id="cs_play1" type="radio" class="cs_anchor" checked="">
-        <input name="cs_anchor1" id="cs_pause1_0" type="radio" class="cs_anchor pause">
-        <input name="cs_anchor1" id="cs_pause1_1" type="radio" class="cs_anchor pause">
-        <input name="cs_anchor1" id="cs_pause1_2" type="radio" class="cs_anchor pause">
-        <input name="cs_anchor1" id="cs_pause1_3" type="radio" class="cs_anchor pause">
-        <input name="cs_anchor1" id="cs_pause1_4" type="radio" class="cs_anchor pause">
-        <input name="cs_anchor1" id="cs_pause1_5" type="radio" class="cs_anchor pause">
-        <ul>
-            <li class="cs_skeleton"><img src="cssslider_files/csss_images1/construction1.jpg" style="width: 100%;"></li>
-            <li class="num0 img slide"> <img src="cssslider_files/csss_images1/construction1.jpg" alt="construction1" title="construction1"></li>
-            <li class="num1 img slide"> <img src="cssslider_files/csss_images1/construction2.jpg" alt="construction2" title="construction2"></li>
-            <li class="num2 img slide"> <img src="cssslider_files/csss_images1/luxury.jpg" alt="luxury" title="luxury"></li>
-            <li class="num3 img slide"> <img src="cssslider_files/csss_images1/luxury2.jpg" alt="luxury2" title="luxury2"></li>
-            <li class="num4 img slide"> <img src="cssslider_files/csss_images1/steel1.jpg" alt="steel1" title="steel1"></li>
-            <li class="num5 img slide"> <img src="cssslider_files/csss_images1/steel2.jpg" alt="steel2" title="steel2"></li>
-        </ul><div class="cs_engine"><a href="http://cssslider.com">responsive slider wordpress</a> by cssSlider.com v2.0</div>
-        <div class="cs_description">
-            <label class="num0"><span class="cs_title"><h4><span class="cs_wrapper">construction1</span></h4></span></label>
-            <label class="num1"><span class="cs_title"><span class="cs_wrapper">construction2</span></span></label>
-            <label class="num2"><span class="cs_title"><span class="cs_wrapper">luxury</span></span></label>
-            <label class="num3"><span class="cs_title"><span class="cs_wrapper">luxury2</span></span></label>
-            <label class="num4"><span class="cs_title"><span class="cs_wrapper">steel1</span></span></label>
-            <label class="num5"><span class="cs_title"><span class="cs_wrapper">steel2</span></span></label>
-        </div>
+<div id="loading" class="loader">Loading...</div>
 
-        <div class="cs_arrowprev">
-            <label class="num0" for="cs_slide1_0"><span><i></i><b></b></span></label>
-            <label class="num1" for="cs_slide1_1"><span><i></i><b></b></span></label>
-            <label class="num2" for="cs_slide1_2"><span><i></i><b></b></span></label>
-            <label class="num3" for="cs_slide1_3"><span><i></i><b></b></span></label>
-            <label class="num4" for="cs_slide1_4"><span><i></i><b></b></span></label>
-            <label class="num5" for="cs_slide1_5"><span><i></i><b></b></span></label>
-        </div>
-        <div class="cs_arrownext">
-            <label class="num0" for="cs_slide1_0"><span><i></i><b></b></span></label>
-            <label class="num1" for="cs_slide1_1"><span><i></i><b></b></span></label>
-            <label class="num2" for="cs_slide1_2"><span><i></i><b></b></span></label>
-            <label class="num3" for="cs_slide1_3"><span><i></i><b></b></span></label>
-            <label class="num4" for="cs_slide1_4"><span><i></i><b></b></span></label>
-            <label class="num5" for="cs_slide1_5"><span><i></i><b></b></span></label>
-        </div>
-        <div class="cs_bullets">
-            <label class="num0" for="cs_slide1_0"> <span class="cs_point"></span>
-                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/construction1.jpg" alt="construction1" title="construction1"></span></label>
-            <label class="num1" for="cs_slide1_1"> <span class="cs_point"></span>
-                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/construction2.jpg" alt="construction2" title="construction2"></span></label>
-            <label class="num2" for="cs_slide1_2"> <span class="cs_point"></span>
-                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/luxury.jpg" alt="luxury" title="luxury"></span></label>
-            <label class="num3" for="cs_slide1_3"> <span class="cs_point"></span>
-                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/luxury2.jpg" alt="luxury2" title="luxury2"></span></label>
-            <label class="num4" for="cs_slide1_4"> <span class="cs_point"></span>
-                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/steel1.jpg" alt="steel1" title="steel1"></span></label>
-            <label class="num5" for="cs_slide1_5"> <span class="cs_point"></span>
-                <span class="cs_thumb"><img src="cssslider_files/csss_tooltips1/steel2.jpg" alt="steel2" title="steel2"></span></label>
-        </div>
-        </div>
-        <!-- End cssSlider.com -->
+		<script type="text/javascript" src="cssslider_files/csss_engine1/gestures.js"></script> <div id='slider' class='csslider1 autoplay '>
+		<input name="cs_anchor1" id='cs_slide1_0' type="radio" class='cs_anchor slide' >
+		<input name="cs_anchor1" id='cs_slide1_1' type="radio" class='cs_anchor slide' >
+		<input name="cs_anchor1" id='cs_slide1_2' type="radio" class='cs_anchor slide' >
+		<input name="cs_anchor1" id='cs_slide1_3' type="radio" class='cs_anchor slide' >
+		<input name="cs_anchor1" id='cs_slide1_4' type="radio" class='cs_anchor slide' >
+		<input name="cs_anchor1" id='cs_slide1_5' type="radio" class='cs_anchor slide' >
+		<input name="cs_anchor1" id='cs_play1' type="radio" class='cs_anchor' checked>
+		<input name="cs_anchor1" id='cs_pause1_0' type="radio" class='cs_anchor pause'>
+		<input name="cs_anchor1" id='cs_pause1_1' type="radio" class='cs_anchor pause'>
+		<input name="cs_anchor1" id='cs_pause1_2' type="radio" class='cs_anchor pause'>
+		<input name="cs_anchor1" id='cs_pause1_3' type="radio" class='cs_anchor pause'>
+		<input name="cs_anchor1" id='cs_pause1_4' type="radio" class='cs_anchor pause'>
+		<input name="cs_anchor1" id='cs_pause1_5' type="radio" class='cs_anchor pause'>
+		<ul>
+			<li class="cs_skeleton"><img src="cssslider_files/csss_images1/image2.jpg" style="width: 100%;"></li>
+			<li class='num0 img slide'>  <a href="www.image2.com" ><img src='cssslider_files/csss_images1/image2.jpg' alt='image2' title='image2' /> </a> </li>
+			<li class='num1 img slide'>  <a href="www.image3.com" ><img src='cssslider_files/csss_images1/image3.jpg' alt='image3' title='image3' /> </a> </li>
+			<li class='num2 img slide'>  <a href="www.image4.com" ><img src='cssslider_files/csss_images1/image4.jpg' alt='image4' title='image4' /> </a> </li>
+			<li class='num3 img slide'>  <a href="www.imag5.com" ><img src='cssslider_files/csss_images1/image5.jpg' alt='image5' title='image5' /> </a> </li>
+			<li class='num4 img slide'>  <a href="www.image6.com" ><img src='cssslider_files/csss_images1/image6.jpg' alt='image6' title='image6' /> </a> </li>
+			<li class='num5 img slide'>  <a href="www.image1.com" ><img src='cssslider_files/csss_images1/image1.jpg' alt='image1' title='image1' /> </a> </li>
+		</ul><div class="cs_engine"><a href="http://cssslider.com">wordpress responsive slider</a> by cssSlider.com v2.0</div>
+		<div class='cs_description'>
+			<label class='num0'><span class="cs_title"><span class="cs_wrapper">regrg<br><a href="www.image2.com" >image2</a></span></span></label>
+			<label class='num1'><span class="cs_title"><span class="cs_wrapper">image3</span></span></label>
+			<label class='num2'><span class="cs_title"><span class="cs_wrapper">image4</span></span></label>
+			<label class='num3'><span class="cs_title"><span class="cs_wrapper">image5</span></span></label>
+			<label class='num4'><span class="cs_title"><span class="cs_wrapper">image6</span></span></label>
+			<label class='num5'><span class="cs_title"><span class="cs_wrapper">image1</span></span></label>
+		</div>
+		
+		<div class='cs_arrowprev'>
+			<label class='num0' for='cs_slide1_0'><span><i></i><b></b></span></label>
+			<label class='num1' for='cs_slide1_1'><span><i></i><b></b></span></label>
+			<label class='num2' for='cs_slide1_2'><span><i></i><b></b></span></label>
+			<label class='num3' for='cs_slide1_3'><span><i></i><b></b></span></label>
+			<label class='num4' for='cs_slide1_4'><span><i></i><b></b></span></label>
+			<label class='num5' for='cs_slide1_5'><span><i></i><b></b></span></label>
+		</div>
+		<div class='cs_arrownext'>
+			<label class='num0' for='cs_slide1_0'><span><i></i><b></b></span></label>
+			<label class='num1' for='cs_slide1_1'><span><i></i><b></b></span></label>
+			<label class='num2' for='cs_slide1_2'><span><i></i><b></b></span></label>
+			<label class='num3' for='cs_slide1_3'><span><i></i><b></b></span></label>
+			<label class='num4' for='cs_slide1_4'><span><i></i><b></b></span></label>
+			<label class='num5' for='cs_slide1_5'><span><i></i><b></b></span></label>
+		</div>
+		<div class='cs_bullets'>
+			<label class='num0' for='cs_slide1_0'> <span class='cs_point'></span>
+				<span class='cs_thumb'><img src='cssslider_files/csss_tooltips1/image2.jpg' alt='image2' title='image2' /></span></label>
+			<label class='num1' for='cs_slide1_1'> <span class='cs_point'></span>
+				<span class='cs_thumb'><img src='cssslider_files/csss_tooltips1/image3.jpg' alt='image3' title='image3' /></span></label>
+			<label class='num2' for='cs_slide1_2'> <span class='cs_point'></span>
+				<span class='cs_thumb'><img src='cssslider_files/csss_tooltips1/image4.jpg' alt='image4' title='image4' /></span></label>
+			<label class='num3' for='cs_slide1_3'> <span class='cs_point'></span>
+				<span class='cs_thumb'><img src='cssslider_files/csss_tooltips1/image5.jpg' alt='image5' title='image5' /></span></label>
+			<label class='num4' for='cs_slide1_4'> <span class='cs_point'></span>
+				<span class='cs_thumb'><img src='cssslider_files/csss_tooltips1/image6.jpg' alt='image6' title='image6' /></span></label>
+			<label class='num5' for='cs_slide1_5'> <span class='cs_point'></span>
+				<span class='cs_thumb'><img src='cssslider_files/csss_tooltips1/image1.jpg' alt='image1' title='image1' /></span></label>
+		</div>
+		</div>
+		<!-- End cssSlider.com -->
 

@@ -1,5 +1,6 @@
 
 /* ------------- General ------------- */
+@import url(https://fonts.googleapis.com/css?family=Roboto&subset=latin,cyrillic-ext,latin-ext,cyrillic,greek-ext,greek,vietnamese);
 @font-face {
 	font-family: "cs-ctrl-basic";
 	src: url("cs-ctrl-basic.eot");
@@ -14,8 +15,8 @@
 .csslider1 {
   display: inline-block;
   position: relative;
+  max-width: 1366px;
   
-  height: 480px;
   
 
   width: 100%;
@@ -38,7 +39,7 @@
   line-height: 0;
   margin: 0 auto;
   padding: 0;
-  height: 480px;
+  
   overflow: hidden;
   white-space: nowrap;
 }
@@ -173,33 +174,33 @@
 
 .csslider1 > #cs_play1:checked ~ .cs_arrowprev > label.num5,
 .csslider1 > #cs_play1:checked ~ .cs_arrownext > label.num1 {
-  -webkit-animation: arrow 71400ms infinite -2000ms;
-  animation: arrow 71400ms infinite -2000ms;
+  -webkit-animation: arrow 28200ms infinite -1300ms;
+  animation: arrow 28200ms infinite -1300ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_arrowprev > label.num0,
 .csslider1 > #cs_play1:checked ~ .cs_arrownext > label.num2 {
-  -webkit-animation: arrow 71400ms infinite 9900ms;
-  animation: arrow 71400ms infinite 9900ms;
+  -webkit-animation: arrow 28200ms infinite 3400ms;
+  animation: arrow 28200ms infinite 3400ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_arrowprev > label.num1,
 .csslider1 > #cs_play1:checked ~ .cs_arrownext > label.num3 {
-  -webkit-animation: arrow 71400ms infinite 21800ms;
-  animation: arrow 71400ms infinite 21800ms;
+  -webkit-animation: arrow 28200ms infinite 8100ms;
+  animation: arrow 28200ms infinite 8100ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_arrowprev > label.num2,
 .csslider1 > #cs_play1:checked ~ .cs_arrownext > label.num4 {
-  -webkit-animation: arrow 71400ms infinite 33700ms;
-  animation: arrow 71400ms infinite 33700ms;
+  -webkit-animation: arrow 28200ms infinite 12800ms;
+  animation: arrow 28200ms infinite 12800ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_arrowprev > label.num3,
 .csslider1 > #cs_play1:checked ~ .cs_arrownext > label.num5 {
-  -webkit-animation: arrow 71400ms infinite 45600ms;
-  animation: arrow 71400ms infinite 45600ms;
+  -webkit-animation: arrow 28200ms infinite 17500ms;
+  animation: arrow 28200ms infinite 17500ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_arrowprev > label.num4,
 .csslider1 > #cs_play1:checked ~ .cs_arrownext > label.num0 {
-  -webkit-animation: arrow 71400ms infinite 57500ms;
-  animation: arrow 71400ms infinite 57500ms;
+  -webkit-animation: arrow 28200ms infinite 22200ms;
+  animation: arrow 28200ms infinite 22200ms;
 }
 
 
@@ -239,7 +240,7 @@
   opacity: 0;
   z-index: 1;
   line-height: 0;
-  left: -60px;
+  left: -68px;
   top: -48px;
 }
 .csslider1 > .cs_bullets > label > .cs_thumb > img {
@@ -275,88 +276,59 @@
 }
 /* ------------- /General Description ------------- */
 
-/* ------------- General Play Pause ------------- */
-.csslider1 > .cs_play_pause {
+/* ------------- General Gestures ------------- */
+.csslider1.cs_handle {
+  cursor: -webkit-grab;
+  cursor: -moz-grab;
+  cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAABwSURBVEjH7ZJBEsAgCAMT/v/n9NCOSqe2oD2yNx1JggB4BCEFWyFASP2KMQE7ywWhe/tTRGCGogLk02tFctiW/SUgaMyQG4PdPzDn31rQbMb8FiAXgvsEJNax1yVlVGAjA93apP3HFhZTGIqiKH7iADB6HxPlHdNVAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE0LTA3LTA3VDEzOjQ5OjEwKzAyOjAwm7WiFAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNC0wNy0wN1QxMzo0OToxMCswMjowMOroGqgAAAAASUVORK5CYII="), move;
+}
+.csslider1.cs_handle.cs_grab {
+  cursor: -webkit-grabbing;
+  cursor: -moz-grabbing;
+  cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAABaSURBVEjH7ZMxCkAhDEOT8u9/5TpJ+xWkFse8IYutJgEB8RCHL1qCc90BEFnT6QH7mwgFHBUf8wJyS1TDLuc3vmighx37LZdIth3E5hKj9n6O0HRh+oJCiFcMxRUUDxR1CTMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTQtMDctMDdUMTM6NDk6MzgrMDI6MDDqf+sOAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE0LTA3LTA3VDEzOjQ5OjM4KzAyOjAwmyJTsgAAAABJRU5ErkJggg=="), move;
+}
+
+
+.csslider1 .cs_gestures {
+  visibility: hidden;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  z-index: 5;
+  font-size: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  opacity: 0;
+
+  -webkit-transition: visibility .3s linear, opacity .3s linear;
+  transition: visibility .3s linear, opacity .3s linear;
 }
-.csslider1 > .cs_play_pause > label {
+.csslider1 .cs_gestures.cs_show {
+  visibility: visible;
+  opacity: 1;
+}
+.csslider1 .cs_gestures.cs_show img {
+  width: 16.666666666666668%;
+}
+.csslider1 .cs_gestures.cs_show .cs_first_img {
   position: absolute;
-  cursor: pointer;
+  left: -16.666666666666668%;
+  top: 0;
 }
-.csslider1 > #cs_play1:checked ~ .cs_play_pause > .cs_pause,
-.csslider1 > .slide:checked ~ .cs_play_pause > .cs_play,
-.csslider1 > .pause:checked ~ .cs_play_pause > .cs_play {
-  display: block;
-  z-index: 5;
-}
-.csslider1 > #cs_play1:checked ~ .cs_play_pause > .cs_play,
-.csslider1 > .slide:checked ~ .cs_play_pause > .cs_pause,
-.csslider1 > .pause:checked ~ .cs_play_pause > .cs_pause {
-  display: none;
-  z-index: -1;
+.csslider1 .cs_gestures.cs_show .cs_last_img {
+  position: absolute;
+  left: 100%;
+  top: 0;
 }
 
-
-
-@-webkit-keyframes pauseChange {
-  0%, 16.656666666666666% { opacity: 1; z-index: 5; }
-  16.666666666666668%, 100%  { opacity: 0; z-index: -1; }
+.csslider1 .cs_gestures > div {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 600%;
 }
-@keyframes pauseChange {
-  0%, 16.656666666666666% { opacity: 1; z-index: 5; }
-  16.666666666666668%, 100%  { opacity: 0; z-index: -1; }
-}
-
-
-.csslider1 > #cs_play1:checked ~ .cs_play_pause > .cs_pause.num0 {
-  opacity: 0;
-  z-index: -1;
-  -webkit-animation: pauseChange 71400ms infinite -2000ms;
-  animation: pauseChange 71400ms infinite -2000ms;
-}
-.csslider1 > #cs_play1:checked ~ .cs_play_pause > .cs_pause.num1 {
-  opacity: 0;
-  z-index: -1;
-  -webkit-animation: pauseChange 71400ms infinite 9900ms;
-  animation: pauseChange 71400ms infinite 9900ms;
-}
-.csslider1 > #cs_play1:checked ~ .cs_play_pause > .cs_pause.num2 {
-  opacity: 0;
-  z-index: -1;
-  -webkit-animation: pauseChange 71400ms infinite 21800ms;
-  animation: pauseChange 71400ms infinite 21800ms;
-}
-.csslider1 > #cs_play1:checked ~ .cs_play_pause > .cs_pause.num3 {
-  opacity: 0;
-  z-index: -1;
-  -webkit-animation: pauseChange 71400ms infinite 33700ms;
-  animation: pauseChange 71400ms infinite 33700ms;
-}
-.csslider1 > #cs_play1:checked ~ .cs_play_pause > .cs_pause.num4 {
-  opacity: 0;
-  z-index: -1;
-  -webkit-animation: pauseChange 71400ms infinite 45600ms;
-  animation: pauseChange 71400ms infinite 45600ms;
-}
-.csslider1 > #cs_play1:checked ~ .cs_play_pause > .cs_pause.num5 {
-  opacity: 0;
-  z-index: -1;
-  -webkit-animation: pauseChange 71400ms infinite 57500ms;
-  animation: pauseChange 71400ms infinite 57500ms;
-}
-
-
-.csslider1 > .slide:checked ~ .cs_play_pause > .cs_pause,
-.csslider1 > .pause:checked ~ .cs_play_pause > .cs_pause {
-  -webkit-animation: none;
-  animation: none;
-}
-
-
-/* ------------- /General Play Pause ------------- */
+/* ------------- /General Gestures ------------- */
 
 /* ------------- Effect ------------- */
 
@@ -370,57 +342,57 @@
   z-index: 1;
   
   -webkit-transition:
-    opacity 2000ms ease,
-    -webkit-transform 35700ms cubic-bezier(0.840, 0.970, 0.855, 1.000);
+    opacity 1300ms ease,
+    -webkit-transform 14100ms cubic-bezier(0.840, 0.970, 0.855, 1.000);
   transition:
-    opacity 2000ms ease,
-    -webkit-transform 35700ms cubic-bezier(0.840, 0.970, 0.855, 1.000),
-    transform 35700ms cubic-bezier(0.840, 0.970, 0.855, 1.000);
+    opacity 1300ms ease,
+    -webkit-transform 14100ms cubic-bezier(0.840, 0.970, 0.855, 1.000),
+    transform 14100ms cubic-bezier(0.840, 0.970, 0.855, 1.000);
 }
 
 .csslider1 > ul > .slide.num0 {
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
   
       -webkit-transform-origin: 100% 0;
       transform-origin: 100% 0;
   
 }
 .csslider1 > ul > .slide.num1 {
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
   
       -webkit-transform-origin: 0 0;
       transform-origin: 0 0;
       
 }
 .csslider1 > ul > .slide.num2 {
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
   
       -webkit-transform-origin: 100% 100%;
       transform-origin: 100% 100%;
       
 }
 .csslider1 > ul > .slide.num3 {
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
   
       -webkit-transform-origin: 0 100%;
       transform-origin: 0 100%;
       
 }
 .csslider1 > ul > .slide.num4 {
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
   
       -webkit-transform-origin: 100% 0;
       transform-origin: 100% 0;
   
 }
 .csslider1 > ul > .slide.num5 {
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
   
       -webkit-transform-origin: 0 0;
       transform-origin: 0 0;
@@ -451,11 +423,11 @@
     -webkit-transform: scale(1);
     transform: scale(1);
   }
-  2.801120448179272%, 16.666666666666668% { opacity: 1 }
-  19.46778711484594%, 83.33333333333333% {
+  4.609929078014185%, 16.666666666666668% { opacity: 1 }
+  21.276595744680854%, 83.33333333333333% {
     opacity: 0;
-    -webkit-transform: scale(1.3);
-    transform: scale(1.3);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
   }
   16.66766666666667%, 100%  { z-index: 1; }
 }
@@ -466,39 +438,39 @@
     -webkit-transform: scale(1);
     transform: scale(1);
   }
-  2.801120448179272%, 16.666666666666668% { opacity: 1 }
-  19.46778711484594%, 83.33333333333333% {
+  4.609929078014185%, 16.666666666666668% { opacity: 1 }
+  21.276595744680854%, 83.33333333333333% {
     opacity: 0;
-    -webkit-transform: scale(1.3);
-    transform: scale(1.3);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
   }
   16.66766666666667%, 100%  { z-index: 1; }
 }
 
 
 .csslider1 > #cs_play1:checked ~ ul > .slide.num0 {
-  -webkit-animation: kenburns1 71400ms infinite -2000ms linear;
-  animation: kenburns1 71400ms infinite -2000ms linear;
+  -webkit-animation: kenburns1 28200ms infinite -1300ms linear;
+  animation: kenburns1 28200ms infinite -1300ms linear;
 }
 .csslider1 > #cs_play1:checked ~ ul > .slide.num1 {
-  -webkit-animation: kenburns1 71400ms infinite 9900ms linear;
-  animation: kenburns1 71400ms infinite 9900ms linear;
+  -webkit-animation: kenburns1 28200ms infinite 3400ms linear;
+  animation: kenburns1 28200ms infinite 3400ms linear;
 }
 .csslider1 > #cs_play1:checked ~ ul > .slide.num2 {
-  -webkit-animation: kenburns1 71400ms infinite 21800ms linear;
-  animation: kenburns1 71400ms infinite 21800ms linear;
+  -webkit-animation: kenburns1 28200ms infinite 8100ms linear;
+  animation: kenburns1 28200ms infinite 8100ms linear;
 }
 .csslider1 > #cs_play1:checked ~ ul > .slide.num3 {
-  -webkit-animation: kenburns1 71400ms infinite 33700ms linear;
-  animation: kenburns1 71400ms infinite 33700ms linear;
+  -webkit-animation: kenburns1 28200ms infinite 12800ms linear;
+  animation: kenburns1 28200ms infinite 12800ms linear;
 }
 .csslider1 > #cs_play1:checked ~ ul > .slide.num4 {
-  -webkit-animation: kenburns1 71400ms infinite 45600ms linear;
-  animation: kenburns1 71400ms infinite 45600ms linear;
+  -webkit-animation: kenburns1 28200ms infinite 17500ms linear;
+  animation: kenburns1 28200ms infinite 17500ms linear;
 }
 .csslider1 > #cs_play1:checked ~ ul > .slide.num5 {
-  -webkit-animation: kenburns1 71400ms infinite 57500ms linear;
-  animation: kenburns1 71400ms infinite 57500ms linear;
+  -webkit-animation: kenburns1 28200ms infinite 22200ms linear;
+  animation: kenburns1 28200ms infinite 22200ms linear;
 }
 
 
@@ -545,12 +517,13 @@
 .csslider1 > .cs_arrowprev > label,
 .csslider1 > .cs_arrownext > label {
   padding: 17px;
-  height: 30px;
-  width: 30px;
+  height: 23px;
+  width: 23px;
   margin-top: -28px;
   margin-left: -28px;
-  background-color: rgba(0,0,0,0);
 
+
+  border-radius: 50%;
 }
 .csslider1 > .cs_arrowprev > label,
 .csslider1 > .cs_arrownext > label,
@@ -570,12 +543,11 @@
 .csslider1 > .cs_arrowprev > label span,
 .csslider1 > .cs_arrownext > label span {
   display: block;
-  color: black;
 }
 .csslider1 > .cs_arrowprev > label span:after,
 .csslider1 > .cs_arrownext > label span:after {
   display: block;
-  font: 45px "cs-ctrl-basic";
+  font: 50px "cs-ctrl-basic";
   line-height: 23px;
   text-align: center;
 }
@@ -596,7 +568,6 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_arrownext > label span:after {
 
 .csslider1 > .cs_arrowprev:hover > label,
 .csslider1 > .cs_arrownext:hover > label {
-  color: #ffffff;
 }
 
 .csslider1 > .cs_arrownext:hover > label span {
@@ -670,67 +641,6 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_arrownext > label span:after {
 }
 /* ------------- /Template Arrows ------------- */
 
-/* ------------- Template Play Pause ------------- */
-.csslider1 > .cs_play_pause > label{
-  text-decoration: none;
-  padding: 17px;
-  height: 23px;
-  width: 23px;
-
-  margin-top: -28px;
-  margin-left: -28px;
-
-  background-color: #CBECFD;
-
-  border-radius: 50%;
-}
-.csslider1 > .cs_play_pause > label,
-.csslider1 > .cs_play_pause > label span:after {
-  -webkit-transition: background-color 0.4s ease, color 0.4s ease;
-  transition: background-color 0.4s ease, color 0.4s ease;
-}
-.csslider1 > .cs_play_pause > label span {
-  display: block;
-  color: #3A4A5A;
-}
-.csslider1 > .cs_play_pause > label span:after{
-  display: block;
-  font: 15px "cs-ctrl-basic";
-  line-height: 25px;
-  text-align: center;
-}
-/* IE10+ hack */
-_:-ms-input-placeholder, :root .csslider1 > .cs_play_pause > label span:after {
-  line-height: 28px;
-}
-.csslider1 > .cs_play_pause > .cs_play span:after {
-  content: '\e802';
-}
-.csslider1 > .cs_play_pause > .cs_pause span:after {
-  content: '\e803';
-}
-
-.csslider1 > .cs_play_pause:hover > label {
-  background-color: #e5f6fe;
-}
-.csslider1 > .cs_play_pause:hover > label span {
-  color: #000;
-  -wibkit-animation: playPause .7s infinite ease-in-out;
-  animation: playPause .7s infinite ease-in-out;
-}
-
-@-webkit-keyframes playPause {
-  0%, 100% { -webkit-transform: translateY(0px); transform: translateY(0px); }
-  25% { -webkit-transform: translateY(2px); transform: translateY(2px); }
-  75% { -webkit-transform: translateY(-2px); transform: translateY(-2px); }
-}
-@keyframes playPause {
-  0%, 100% { -webkit-transform: translateY(0px); transform: translateY(0px); }
-  25% { -webkit-transform: translateY(2px); transform: translateY(2px); }
-  75% { -webkit-transform: translateY(-2px); transform: translateY(-2px); }
-}
-/* ------------- /Template Play Pause ------------- */
-
 /* ------------- Template Bullets ------------- */
 .csslider1 > .cs_bullets {
   bottom: 5px;
@@ -740,16 +650,12 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_play_pause > label span:after {
   border-radius: 50%;
   margin: 0 5px;
   padding: 9px;
-  background: rgba(0,0,0,0.6);
+  background: #000033;
 }
 
-.csslider1 > .cs_bullets > label :hover{
-
-  background: #000000;
-}
 
 .csslider1 > .cs_bullets > label > .cs_thumb {
-  border: 3px solid #CBECFD;
+  border: 3px solid #000033;
   margin-top: -150%;
   margin-left: 3px;
   -webkit-transition: all 0.3s;
@@ -766,7 +672,7 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_play_pause > label span:after {
   border-left: 7px solid transparent;
   border-right: 7px solid transparent;
   
-  border-top: 7px solid #CBECFD;
+  border-top: 7px solid #000033;
 }
 .csslider1 > .cs_bullets > label:hover > .cs_thumb {
   margin-top: -12px;
@@ -818,33 +724,33 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_play_pause > label span:after {
 
 .csslider1 > #cs_play1:checked ~ .cs_bullets > label.num0 > .cs_point,
 .csslider1 > #cs_pause1:checked ~ .cs_bullets > label.num0 > .cs_point {
-  -webkit-animation: bullet 71400ms infinite -2000ms;
-  animation: bullet 71400ms infinite -2000ms;
+  -webkit-animation: bullet 28200ms infinite -1300ms;
+  animation: bullet 28200ms infinite -1300ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_bullets > label.num1 > .cs_point,
 .csslider1 > #cs_pause1:checked ~ .cs_bullets > label.num1 > .cs_point {
-  -webkit-animation: bullet 71400ms infinite 9900ms;
-  animation: bullet 71400ms infinite 9900ms;
+  -webkit-animation: bullet 28200ms infinite 3400ms;
+  animation: bullet 28200ms infinite 3400ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_bullets > label.num2 > .cs_point,
 .csslider1 > #cs_pause1:checked ~ .cs_bullets > label.num2 > .cs_point {
-  -webkit-animation: bullet 71400ms infinite 21800ms;
-  animation: bullet 71400ms infinite 21800ms;
+  -webkit-animation: bullet 28200ms infinite 8100ms;
+  animation: bullet 28200ms infinite 8100ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_bullets > label.num3 > .cs_point,
 .csslider1 > #cs_pause1:checked ~ .cs_bullets > label.num3 > .cs_point {
-  -webkit-animation: bullet 71400ms infinite 33700ms;
-  animation: bullet 71400ms infinite 33700ms;
+  -webkit-animation: bullet 28200ms infinite 12800ms;
+  animation: bullet 28200ms infinite 12800ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_bullets > label.num4 > .cs_point,
 .csslider1 > #cs_pause1:checked ~ .cs_bullets > label.num4 > .cs_point {
-  -webkit-animation: bullet 71400ms infinite 45600ms;
-  animation: bullet 71400ms infinite 45600ms;
+  -webkit-animation: bullet 28200ms infinite 17500ms;
+  animation: bullet 28200ms infinite 17500ms;
 }
 .csslider1 > #cs_play1:checked ~ .cs_bullets > label.num5 > .cs_point,
 .csslider1 > #cs_pause1:checked ~ .cs_bullets > label.num5 > .cs_point {
-  -webkit-animation: bullet 71400ms infinite 57500ms;
-  animation: bullet 71400ms infinite 57500ms;
+  -webkit-animation: bullet 28200ms infinite 22200ms;
+  animation: bullet 28200ms infinite 22200ms;
 }
 
 
@@ -869,19 +775,20 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_play_pause > label span:after {
 
 
 .csslider1 > .cs_description > label {
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 20px;
+  font-family: "Roboto",sans-serif;
   line-height: normal;
+  text-align: right;
   bottom: 50px;
+  right: 10px;
   top: auto;
-  left: 10px;
+  left: auto;
 }
 
 .csslider1 > .cs_description > label > span {
-  color: #9d9d9d;
+  color: #FFFFFF;
   position: relative;
   padding: 13px;
-  border-radius: 10px;
+  border-radius: 2px;
 
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -937,353 +844,245 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_play_pause > label span:after {
   -webkit-transform: translateY(0);
   transform: translateY(0);
 }
+
+
+.csslider1 > .cs_description > label {
+font-weight: 100;
+}
 .csslider1 > .cs_description > label > .cs_title {
-  background-color: rgba(0,0,51,0.4);
+  background-color: rgba(0, 0, 51, 0.5);
   margin: -5px 10px;
   opacity: 0;
   visibility: hidden;
   z-index: 2;
-  -webkit-transform: translateY(-100px);
-  transform: translateY(-100px);
 
   -webkit-transition:
-    950ms opacity 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms -webkit-transform 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms visibility 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+    950ms opacity 390ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms -webkit-transform 390ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms visibility 390ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
   transition:
-    950ms opacity 600ms cubic-bezier(0.680, -0.50, 0.265, 1.550),
-    950ms -webkit-transform 600ms cubic-bezier(0.60, -0.550, 0.265, 1.550),
-    950ms transform 600ms cubic-bezier(0.680, -0.50, 0.265, 1.550),
-    950ms visibility 600ms cubic-bezier(0.680, -0.50, 0.265, 1.550);
+    950ms opacity 390ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms -webkit-transform 390ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms transform 390ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms visibility 390ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
 }
 .csslider1 > .cs_description > label > .cs_descr {
-  background-color: #e5f6fe;
+  background-color: #808099;
   text-align: left;
   font-size: 0.8em;
   margin: -5px 20px;
   opacity: 0;
   visibility: hidden;
   z-index: 1;
-  -webkit-transform: translateY(100px);
-  transform: translateY(100px);
 
   -webkit-transition:
-    950ms opacity 850ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms -webkit-transform 850ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms visibility 850ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+    950ms opacity 640ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms -webkit-transform 640ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms visibility 640ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
   transition:
-    950ms opacity 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms -webkit-transform 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms transform 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms visibility 600ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+    950ms opacity 640ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms -webkit-transform 640ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms transform 640ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms visibility 640ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
 }
 
 
 .csslider1 > .cs_description > label > .cs_title > .cs_wrapper {
   opacity: 0;
-  -webkit-transform: translateY(-100px);
-  transform: translateY(-100px);
 
   -webkit-transition:
-    950ms opacity 750ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms -webkit-transform 750ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+    950ms opacity 540ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms -webkit-transform 540ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
   transition:
-    950ms opacity 750ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms -webkit-transform 750ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms transform 750ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+    950ms opacity 540ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms -webkit-transform 540ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms transform 540ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
 }
 .csslider1 > .cs_description > label > .cs_descr > .cs_wrapper {
   opacity: 0;
-  -webkit-transform: translateY(100px);
-  transform: translateY(100px);
 
   -webkit-transition:
-    950ms opacity 1000ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms -webkit-transform 1000ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+    950ms opacity 790ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms -webkit-transform 790ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
   transition:
-    950ms opacity 1000ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms -webkit-transform 1000ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
-    950ms transform 1000ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+    950ms opacity 790ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms -webkit-transform 790ms cubic-bezier(0.680, -0.550, 0.265, 1.550),
+    950ms transform 790ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
 }
 
 
 
 
 @-webkit-keyframes cs_title {
-  0.4656862745098039%, 16.190980392156863%  {
+  1.179078014184397%, 15.47758865248227%  {
     opacity: 1;
     z-index: 2;
     visibility: visible;
-    -webkit-transform: translateY(10px);
-    transform: translateY(10px);
   }
-  0.665266106442577%, 15.991400560224092%  {
+  1.6843971631205674%, 14.9722695035461%  {
     opacity: 1;
     z-index: 2;
     visibility: visible;
-    -webkit-transform: translateY(0px);
-    transform: translateY(0px);
   }
-  17.331932773109244%  {
+  18.351063829787236%  {
     opacity: 0;
     z-index: 2;
     visibility: hidden;
-    -webkit-transform: translateY(-100px);
-    transform: translateY(-100px);
   }
-  17.341932773109246%, 100%  { z-index: 0; }
+  18.361063829787238%, 100%  { z-index: 0; }
 }
 @keyframes cs_title {
-  0.4656862745098039%, 16.190980392156863%  {
+  1.179078014184397%, 15.47758865248227%  {
     opacity: 1;
     z-index: 2;
     visibility: visible;
-    -webkit-transform: translateY(10px);
-    transform: translateY(10px);
   }
-  0.665266106442577%, 15.991400560224092%  {
+  1.6843971631205674%, 14.9722695035461%  {
     opacity: 1;
     z-index: 2;
     visibility: visible;
-    -webkit-transform: translateY(0px);
-    transform: translateY(0px);
   }
-  17.331932773109244%  {
+  18.351063829787236%  {
     opacity: 0;
     z-index: 2;
     visibility: hidden;
-    -webkit-transform: translateY(-100px);
-    transform: translateY(-100px);
   }
-  17.341932773109246%, 100%  { z-index: 0; }
+  18.361063829787238%, 100%  { z-index: 0; }
 }
 
 
-@-webkit-keyframes cs_descr {
-  0.4656862745098039%, 16.190980392156863%  {
-    opacity: 1;
-    z-index: 1;
-    visibility: visible;
-    -webkit-transform: translateY(-10px);
-    transform: translateY(-10px);
-  }
-  0.665266106442577%, 15.991400560224092%  {
-    opacity: 1;
-    z-index: 1;
-    visibility: visible;
-    -webkit-transform: translateY(0px);
-    transform: translateY(0px);
-  }
-  17.331932773109244%  {
-    opacity: 0;
-    z-index: 1;
-    visibility: hidden;
-    -webkit-transform: translateY(100px);
-    transform: translateY(100px);
-  }
-  17.341932773109246%, 100%  { z-index: 0; }
-}
-@keyframes cs_descr {
-  0.4656862745098039%, 16.190980392156863%  {
-    opacity: 1;
-    z-index: 1;
-    visibility: visible;
-    -webkit-transform: translateY(-10px);
-    transform: translateY(-10px);
-  }
-  0.665266106442577%, 15.991400560224092%  {
-    opacity: 1;
-    z-index: 1;
-    visibility: visible;
-    -webkit-transform: translateY(0px);
-    transform: translateY(0px);
-  }
-  17.331932773109244%  {
-    opacity: 0;
-    z-index: 1;
-    visibility: hidden;
-    -webkit-transform: translateY(100px);
-    transform: translateY(100px);
-  }
-  17.341932773109246%, 100%  { z-index: 0; }
-}
 
 
 .csslider1 > #cs_play1:checked ~ .cs_description > .num0  > .cs_title {
-  -webkit-animation: cs_title 71400ms infinite -1400ms ease;
-  animation: cs_title 71400ms infinite -1400ms ease;
+  -webkit-animation: cs_title 28200ms infinite -909.9999999999999ms ease;
+  animation: cs_title 28200ms infinite -909.9999999999999ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num1  > .cs_title {
-  -webkit-animation: cs_title 71400ms infinite 10500ms ease;
-  animation: cs_title 71400ms infinite 10500ms ease;
+  -webkit-animation: cs_title 28200ms infinite 3790ms ease;
+  animation: cs_title 28200ms infinite 3790ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num2  > .cs_title {
-  -webkit-animation: cs_title 71400ms infinite 22400ms ease;
-  animation: cs_title 71400ms infinite 22400ms ease;
+  -webkit-animation: cs_title 28200ms infinite 8490ms ease;
+  animation: cs_title 28200ms infinite 8490ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num3  > .cs_title {
-  -webkit-animation: cs_title 71400ms infinite 34300ms ease;
-  animation: cs_title 71400ms infinite 34300ms ease;
+  -webkit-animation: cs_title 28200ms infinite 13190ms ease;
+  animation: cs_title 28200ms infinite 13190ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num4  > .cs_title {
-  -webkit-animation: cs_title 71400ms infinite 46200ms ease;
-  animation: cs_title 71400ms infinite 46200ms ease;
+  -webkit-animation: cs_title 28200ms infinite 17890ms ease;
+  animation: cs_title 28200ms infinite 17890ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num5  > .cs_title {
-  -webkit-animation: cs_title 71400ms infinite 58100ms ease;
-  animation: cs_title 71400ms infinite 58100ms ease;
+  -webkit-animation: cs_title 28200ms infinite 22590ms ease;
+  animation: cs_title 28200ms infinite 22590ms ease;
 }
 
 
 .csslider1 > #cs_play1:checked ~ .cs_description > .num0  > .cs_descr {
-  -webkit-animation: cs_descr 71400ms infinite -1150ms ease;
-  animation: cs_descr 71400ms infinite -1150ms ease;
+  -webkit-animation: cs_descr 28200ms infinite -659.9999999999999ms ease;
+  animation: cs_descr 28200ms infinite -659.9999999999999ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num1  > .cs_descr {
-  -webkit-animation: cs_descr 71400ms infinite 10750ms ease;
-  animation: cs_descr 71400ms infinite 10750ms ease;
+  -webkit-animation: cs_descr 28200ms infinite 4040ms ease;
+  animation: cs_descr 28200ms infinite 4040ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num2  > .cs_descr {
-  -webkit-animation: cs_descr 71400ms infinite 22650ms ease;
-  animation: cs_descr 71400ms infinite 22650ms ease;
+  -webkit-animation: cs_descr 28200ms infinite 8740ms ease;
+  animation: cs_descr 28200ms infinite 8740ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num3  > .cs_descr {
-  -webkit-animation: cs_descr 71400ms infinite 34550ms ease;
-  animation: cs_descr 71400ms infinite 34550ms ease;
+  -webkit-animation: cs_descr 28200ms infinite 13440ms ease;
+  animation: cs_descr 28200ms infinite 13440ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num4  > .cs_descr {
-  -webkit-animation: cs_descr 71400ms infinite 46450ms ease;
-  animation: cs_descr 71400ms infinite 46450ms ease;
+  -webkit-animation: cs_descr 28200ms infinite 18140ms ease;
+  animation: cs_descr 28200ms infinite 18140ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num5  > .cs_descr {
-  -webkit-animation: cs_descr 71400ms infinite 58350ms ease;
-  animation: cs_descr 71400ms infinite 58350ms ease;
+  -webkit-animation: cs_descr 28200ms infinite 22840ms ease;
+  animation: cs_descr 28200ms infinite 22840ms ease;
 }
 
 
 
 
 @-webkit-keyframes cs_title_text {
-  0.4656862745098039%, 16.190980392156863%  {
+  1.179078014184397%, 15.47758865248227%  {
     opacity: 1;
-    -webkit-transform: translateY(10px);
-    transform: translateY(10px);
   }
-  0.665266106442577%, 15.991400560224092%  {
+  1.6843971631205674%, 14.9722695035461%  {
     opacity: 1;
-    -webkit-transform: translateY(0px);
-    transform: translateY(0px);
   }
-  17.331932773109244%  {
+  18.351063829787236%  {
     opacity: 0;
-    -webkit-transform: translateY(-100px);
-    transform: translateY(-100px);
   }
 }
 @keyframes cs_title_text {
-  0.4656862745098039%, 16.190980392156863%  {
+  1.179078014184397%, 15.47758865248227%  {
     opacity: 1;
-    -webkit-transform: translateY(10px);
-    transform: translateY(10px);
   }
-  0.665266106442577%, 15.991400560224092%  {
+  1.6843971631205674%, 14.9722695035461%  {
     opacity: 1;
-    -webkit-transform: translateY(0px);
-    transform: translateY(0px);
   }
-  17.331932773109244%  {
+  18.351063829787236%  {
     opacity: 0;
-    -webkit-transform: translateY(-100px);
-    transform: translateY(-100px);
   }
 }
 
 
-@-webkit-keyframes cs_descr_text {
-  0.4656862745098039%, 16.190980392156863%  {
-    opacity: 1;
-    -webkit-transform: translateY(-10px);
-    transform: translateY(-10px);
-  }
-  0.665266106442577%, 15.991400560224092%  {
-    opacity: 1;
-    -webkit-transform: translateY(0px);
-    transform: translateY(0px);
-  }
-  17.331932773109244%  {
-    opacity: 0;
-    -webkit-transform: translateY(100px);
-    transform: translateY(100px);
-  }
-}
-@keyframes cs_descr_text {
-  0.4656862745098039%, 16.190980392156863%  {
-    opacity: 1;
-    -webkit-transform: translateY(-10px);
-    transform: translateY(-10px);
-  }
-  0.665266106442577%, 15.991400560224092%  {
-    opacity: 1;
-    -webkit-transform: translateY(0px);
-    transform: translateY(0px);
-  }
-  17.331932773109244%  {
-    opacity: 0;
-    -webkit-transform: translateY(100px);
-    transform: translateY(100px);
-  }
-}
+
 
 
 .csslider1 > #cs_play1:checked ~ .cs_description > .num0 .cs_title > .cs_wrapper {
-  -webkit-animation: cs_title_text 71400ms infinite -1250ms ease;
-  animation: cs_title_text 71400ms infinite -1250ms ease;
+  -webkit-animation: cs_title_text 28200ms infinite -759.9999999999999ms ease;
+  animation: cs_title_text 28200ms infinite -759.9999999999999ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num1 .cs_title > .cs_wrapper {
-  -webkit-animation: cs_title_text 71400ms infinite 10650ms ease;
-  animation: cs_title_text 71400ms infinite 10650ms ease;
+  -webkit-animation: cs_title_text 28200ms infinite 3940ms ease;
+  animation: cs_title_text 28200ms infinite 3940ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num2 .cs_title > .cs_wrapper {
-  -webkit-animation: cs_title_text 71400ms infinite 22550ms ease;
-  animation: cs_title_text 71400ms infinite 22550ms ease;
+  -webkit-animation: cs_title_text 28200ms infinite 8640ms ease;
+  animation: cs_title_text 28200ms infinite 8640ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num3 .cs_title > .cs_wrapper {
-  -webkit-animation: cs_title_text 71400ms infinite 34450ms ease;
-  animation: cs_title_text 71400ms infinite 34450ms ease;
+  -webkit-animation: cs_title_text 28200ms infinite 13340ms ease;
+  animation: cs_title_text 28200ms infinite 13340ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num4 .cs_title > .cs_wrapper {
-  -webkit-animation: cs_title_text 71400ms infinite 46350ms ease;
-  animation: cs_title_text 71400ms infinite 46350ms ease;
+  -webkit-animation: cs_title_text 28200ms infinite 18040ms ease;
+  animation: cs_title_text 28200ms infinite 18040ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num5 .cs_title > .cs_wrapper {
-  -webkit-animation: cs_title_text 71400ms infinite 58250ms ease;
-  animation: cs_title_text 71400ms infinite 58250ms ease;
+  -webkit-animation: cs_title_text 28200ms infinite 22740ms ease;
+  animation: cs_title_text 28200ms infinite 22740ms ease;
 }
 
 
 .csslider1 > #cs_play1:checked ~ .cs_description > .num0 .cs_descr > .cs_wrapper {
-  -webkit-animation: cs_descr_text 71400ms infinite -1000ms ease;
-  animation: cs_descr_text 71400ms infinite -1000ms ease;
+  -webkit-animation: cs_descr_text 28200ms infinite -509.9999999999999ms ease;
+  animation: cs_descr_text 28200ms infinite -509.9999999999999ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num1 .cs_descr > .cs_wrapper {
-  -webkit-animation: cs_descr_text 71400ms infinite 10900ms ease;
-  animation: cs_descr_text 71400ms infinite 10900ms ease;
+  -webkit-animation: cs_descr_text 28200ms infinite 4190ms ease;
+  animation: cs_descr_text 28200ms infinite 4190ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num2 .cs_descr > .cs_wrapper {
-  -webkit-animation: cs_descr_text 71400ms infinite 22800ms ease;
-  animation: cs_descr_text 71400ms infinite 22800ms ease;
+  -webkit-animation: cs_descr_text 28200ms infinite 8890ms ease;
+  animation: cs_descr_text 28200ms infinite 8890ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num3 .cs_descr > .cs_wrapper {
-  -webkit-animation: cs_descr_text 71400ms infinite 34700ms ease;
-  animation: cs_descr_text 71400ms infinite 34700ms ease;
+  -webkit-animation: cs_descr_text 28200ms infinite 13590ms ease;
+  animation: cs_descr_text 28200ms infinite 13590ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num4 .cs_descr > .cs_wrapper {
-  -webkit-animation: cs_descr_text 71400ms infinite 46600ms ease;
-  animation: cs_descr_text 71400ms infinite 46600ms ease;
+  -webkit-animation: cs_descr_text 28200ms infinite 18290ms ease;
+  animation: cs_descr_text 28200ms infinite 18290ms ease;
 }
 .csslider1 > #cs_play1:checked ~ .cs_description > .num5 .cs_descr > .cs_wrapper {
-  -webkit-animation: cs_descr_text 71400ms infinite 58500ms ease;
-  animation: cs_descr_text 71400ms infinite 58500ms ease;
+  -webkit-animation: cs_descr_text 28200ms infinite 22990ms ease;
+  animation: cs_descr_text 28200ms infinite 22990ms ease;
 }
 
 
@@ -1314,12 +1113,5 @@ only screen and (                max-resolution: 2dppx)  and (max-width: 480px) 
   .csslider1 > .cs_description,
   .csslider1 > .cs_bullets {
     display: none;
-  }
-}
-
-@media only screen and (max-width: 1200px) {
-  .csslider1,
-  .csslider1 > ul {
-    height: auto;
   }
 }

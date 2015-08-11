@@ -67,11 +67,6 @@ header.carousel .fill {
     font-style: italic;
 }
 
-/* Footer Styles */
-
-footer {
-    margin: 50px 0;
-}
 
 /* Responsive Styles */
 
@@ -128,7 +123,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000033', end
 /* Set image Size default*/
  #logo>img{
 width:100px;
-height: auto;
+height: 100px;
 }
 
 
@@ -164,6 +159,7 @@ height: auto;
     }
     #logo>img{
         width:75px;
+		height:75px;
     }
 
 
@@ -200,6 +196,7 @@ height: auto;
 
     #logo>img{
         width:50px;
+		height:50px;
     }
 
     #company_name{
