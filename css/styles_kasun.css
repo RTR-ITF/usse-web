@@ -68,7 +68,8 @@ td {
 }
 
 #footer{
-  position:relative;
+    position: relative;
+    margin-top: 40px;
 }
 
 #footer.nav-bar{

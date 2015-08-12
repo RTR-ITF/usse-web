@@ -38,4 +38,13 @@
         interval: 5000 //changes the speed
     });
 	
+
+  // $(this).find(".panel-body").css("height", "");
 	
+$(".panel").hover(function(){
+
+   Messi.showdialog($(this)[0].outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left: $(this).offset().left-50+"px"}});
+
+    }, function(){
+});
+
