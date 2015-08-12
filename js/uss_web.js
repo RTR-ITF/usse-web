@@ -41,9 +41,13 @@
 
   // $(this).find(".panel-body").css("height", "");
 	
-$(".panel").hover(function(){
-
-   Messi.showdialog($(this)[0].outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left: $(this).offset().left-50+"px"}});
+$(".zoom").hover(function(){
+	
+	var div = document.createElement('div');
+	div.innerHTML = $(this)[0].innerHTML;
+	div.setAttribute('class', 'panel panel-default text-center '); 
+//console.log(div.outerHTML);
+   Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left: $(this).offset().left-70+"px"}});
 
     }, function(){
 });

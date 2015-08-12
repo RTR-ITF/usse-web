@@ -34,7 +34,7 @@
                 <h2 class="page-header">The Products</h2>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -70,7 +70,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -88,7 +88,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -110,7 +110,7 @@
                 <h2 class="page-header">Services</h2>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -130,7 +130,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -148,7 +148,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -164,7 +164,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -181,7 +181,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -199,7 +199,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -217,7 +217,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -242,7 +242,7 @@
                 <h2 class="page-header">Import & Supplies</h2>
             </div>
              <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -260,7 +260,7 @@
             </div>
             
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -278,7 +278,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -297,7 +297,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -315,7 +315,7 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center">
+                <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
                         <span class="fa-stack fa-5x">
                               <i class="fa fa-circle fa-stack-2x text-primary"></i>

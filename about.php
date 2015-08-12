@@ -118,7 +118,6 @@
                     <div class="thumbnail">
                         <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                         <div class="caption">
-                            <div class="caption">
                                 <h3>Mr. R.M.Gunasekara<br>
                                     <small>ACA,BA,DPFM,FMAAT,Attorney-at-Law</small>
                                     <small>Director (Finance)</small>
@@ -155,10 +154,13 @@
                             </div>
                         </div>
                     </div>
-
-                </div>
-            <div class="col-lg-12">
+					
+					
+			<div class="col-lg-12">
                 <h2 class="page-header">Consultants</h2>
+            </div>
+
+
                 <div class="col-md-4 text-center">
                     <div class="thumbnail">
                         <img class="img-responsive" src="http://placehold.it/750x450" alt="">
@@ -180,7 +182,7 @@
                     </div>
                 </div>
         </div>
-        </div>
+
 
 
         <?php include "includes/footer.php" ?>

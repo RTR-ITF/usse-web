@@ -20,7 +20,7 @@
                 </h1>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-default short-description">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i> We Engineer your future</h4>
                     </div>
@@ -31,7 +31,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-default short-description">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>Our Potential</h4>
                     </div>
@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-default short-description">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i> What have we done</h4>
                     </div>
@@ -55,7 +55,6 @@
         </div>
        
 
-        <hr>
 
         <!-- Call to Action Section -->
         <?php include "includes/footer.php" ?>
