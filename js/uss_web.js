@@ -6,7 +6,7 @@
 		$(document).ready(function () {
 
 		$(window).scroll(function () {
-				if ($(this).scrollTop() > 100) {
+				if ($(this).scrollTop() > 200) {
 					$('.scrollup').fadeIn();
 				} else {
 					$('.scrollup').fadeOut();

@@ -28,10 +28,7 @@
                         <a href="news-events.php">News & Events</a>
                     </li>
                     <li>
-<<<<<<< HEAD
                         <a href="clients.php">Clients</a>
-=======
-                        <a href="principal-clients.php">Clients</a>
 						<ul style="display: block; height: 1px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
 									<li>
 										<a href="#">Slim Menu 1.1</a>
@@ -49,7 +46,6 @@
 									<li><a href="#">Slim Menu 1.2</a></li>
 								</ul>
 								<span class="sub-collapser expanded"><i></i></span>
->>>>>>> b0173e57ed6a67ee863148fe90c5425f13b4f3d5
                     </li>
                     <li>
                         <a href="services.php">Product & Services</a>
