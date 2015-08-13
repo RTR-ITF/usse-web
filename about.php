@@ -23,8 +23,11 @@
                 <img class="img-responsive" src="http://placehold.it/750x450" alt="">
             </div>
             <div class="col-md-6">
-                <h2>About Modern Business</h2>
+                <h2>About us</h2>
                 <p>History and descriptive paragraph about the Company.</p>
+				
+							<br>
+							<h4><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS Engineering company profile.pdf" target="_BLANK"> Company Profile</a></h4>
             </div>
         </div>
         <!-- /.row -->

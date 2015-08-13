@@ -72,13 +72,13 @@
 					<div class="col-md-6 widget">
 						<h3 class="widget-title">U.S.S. Engineering (PVT) LTD </h3>
 						<div class="widget-body">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, dolores, quibusdam architecto voluptatem amet fugiat nesciunt placeat provident cumque accusamus itaque voluptate modi 
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, dolores, quibusdam architecto voluptatem amet fugiat nesciunt  modi 
 quidem dolore optio velit hic iusto vero praesentium repellat commodi ad id expedita cupiditate repellendus possimus unde?</p>
 							<p>Eius consequatur nihil quibusdam! Laborum, rerum, quis, inventore ipsa autem repellat provident assumenda labore soluta minima alias temporibus facere distinctio quas adipisci nam sunt 
 explicabo officia tenetur at ea quos doloribus dolorum voluptate reprehenderit architecto sint libero illo et hic.</p>
 
-							<br><br>
-							<h4><i class="fa fa-download fa-2"></i><a href="files/USS Engineering company profile.pdf" target="_BLANK">Company Profile</a></h4>
+							<br>
+							<h4><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS Engineering company profile.pdf" target="_BLANK"> Company Profile</a></h4>
 						</div>
 					</div>
 
@@ -94,11 +94,11 @@ explicabo officia tenetur at ea quos doloribus dolorum voluptate reprehenderit a
 						<div class="widget-body">
 							<p class="simplenav">
 								<a href="index.php">Home</a> | 
-								<a href="about.html">About Us</a> |
-								<a href="about.html">Product & Services</a> |
-								<a href="sidebar-right.html">Clients</a> |
-								<a href="contact.html">News & Events</a> |
-								<b><a href="signup.html">Contact us</a></b>
+								<a href="about.php">About Us</a> |
+								<a href="services.php">Product & Services</a> |
+								<a href="clients.php">Clients</a> |
+								<a href="news-events.php">News & Events</a> |
+								<b><a href="contact.php">Contact us</a></b>
 							</p>
 						</div>
 					</div>
