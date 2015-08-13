@@ -138,22 +138,7 @@
                     <p> Renovation & Interior Work at Head office/Renovation & Interior Work at Rathnapura Branch </p>
                   </ul>
                 </div>
-                <div class="col-md-2">
-                  <a role="button" data-toggle="collapse" href="#client1" aria-expanded="false"
-                   aria-controls="client1"> 
-                   <img src="clientLogos/SriLankan.jpg"></a>
-                  <ul class="collapse" id="client1">
-                    <p> Construction of Computer Laboratory </p>
-                  </ul>
-                </div>
-                <div class="col-md-2">
-                  <a role="button" data-toggle="collapse" href="#client1" aria-expanded="false"
-                   aria-controls="client1"> 
-                   <img src="clientLogos/SriLankan.jpg"></a>
-                  <ul class="collapse" id="client1">
-                    <p> Construction of Perimeter Fence </p>
-                  </ul>
-                </div>
+
         </div>
         <div class="row" id="telecom">
                 <h1 class="page-header"> Telecommunication </h1>
@@ -231,14 +216,6 @@
                   <ul class="collapse" id="koreatelcom">
                     <p> Civil work, cable pulling and new connections Huawei Mobitel stage III Turnkey Project Pallewela, Bemmulla, 
                     Amithirigala, Hunnasgiriya and Diyagama </p>
-                  </ul>
-                </div>
-                <div class="col-md-2">
-                  <a role="button" data-toggle="collapse" href="#slt2" aria-expanded="false"
-                   aria-controls="slt2"> 
-                   <img src="clientLogos/slt2.png"></a>
-                  <ul class="collapse" id="slt2">
-                    <p> Civil work with Aerial cable pulling </p>
                   </ul>
                 </div>
         </div>
@@ -343,23 +320,7 @@
                   <ul class="collapse" id="ministryfish">
                     <p> Upgrading of Boat Yard at Mattakkuliya, to provide boat repairing facility </p>
                   </ul>
-                </div>
-                <div class="col-md-2">
-                  <a role="button" data-toggle="collapse" href="#client1" aria-expanded="false"
-                   aria-controls="client1"> 
-                   <img src="clientLogos/slt.png"></a>
-                  <ul class="collapse" id="client1">
-                    <p> A very SImple description on the project </p>
-                  </ul>
-                </div>
-                <div class="col-md-2">
-                  <a role="button" data-toggle="collapse" href="#client1" aria-expanded="false"
-                   aria-controls="client1"> 
-                   <img src="clientLogos/slt.png"></a>
-                  <ul class="collapse" id="client1">
-                    <p> A very SImple description on the project </p>
-                  </ul>
-                </div>
+                </div> 
         </div>
         <!-- /.row -->
         </div>
