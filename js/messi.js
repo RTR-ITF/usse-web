@@ -116,7 +116,7 @@ Messi.prototype = {
     if (!this.visible) return;
     var _this = this;
     
-    this.messi.animate({opacity: 0}, 300, function() {
+    this.messi.animate({opacity: 0}, 200, function() {
       if(_this.options.modal && _this.modal != null) _this.modal.remove();
       _this.messi.css({display: 'none'}).remove();
       // reactivamos el scroll

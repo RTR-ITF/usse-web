@@ -76,6 +76,9 @@
 quidem dolore optio velit hic iusto vero praesentium repellat commodi ad id expedita cupiditate repellendus possimus unde?</p>
 							<p>Eius consequatur nihil quibusdam! Laborum, rerum, quis, inventore ipsa autem repellat provident assumenda labore soluta minima alias temporibus facere distinctio quas adipisci nam sunt 
 explicabo officia tenetur at ea quos doloribus dolorum voluptate reprehenderit architecto sint libero illo et hic.</p>
+
+							<br><br>
+							<h4><i class="fa fa-download fa-2"></i><a href="files/USS Engineering company profile.pdf" target="_BLANK">Company Profile</a></h4>
 						</div>
 					</div>
 
