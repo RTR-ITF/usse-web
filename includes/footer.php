@@ -60,10 +60,10 @@
 						<h3 class="widget-title">Get in touch with us</h3>
 						<div class="widget-body">
 							<p class="follow-me-icons">
-								<a href=""><i class="fa fa-facebook fa-2"></i></a>
-								<a href=""><i class="fa fa-linkedin fa-2"></i></a>
-								<a href=""><i class="fa fa-twitter fa-2"></i></a>
-								<a href=""><i class="fa fa-google-plus fa-2"></i></a>
+								<a href=""><i class="fa fa-facebook "></i></a>
+								<a href=""><i class="fa fa-linkedin "></i></a>
+								<a href=""><i class="fa fa-twitter "></i></a>
+								<a href=""><i class="fa fa-google-plus"></i></a>
 							</p>
 							<br>							
 						</div>

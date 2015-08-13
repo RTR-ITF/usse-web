@@ -6,7 +6,7 @@
         <!--[if lte IE 9]><script type="text/javascript" src="cssslider_files/csss_engine1/ie.js"></script><![endif]-->
 <div id="loading" class="loader">Loading...</div>
 
-		<script type="text/javascript" src="cssslider_files/csss_engine1/gestures.js"></script> <div id='slider' class='csslider1 autoplay '>
+		<script type="text/javascript" src="cssslider_files/csss_engine1/gestures.js"></script> <div id='slider' class='csslider1 autoplay' style="display:none">
 		<input name="cs_anchor1" id='cs_slide1_0' type="radio" class='cs_anchor slide' >
 		<input name="cs_anchor1" id='cs_slide1_1' type="radio" class='cs_anchor slide' >
 		<input name="cs_anchor1" id='cs_slide1_2' type="radio" class='cs_anchor slide' >
