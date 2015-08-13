@@ -125,7 +125,6 @@
                             fully geared to take on the requirements of our clients, with integrity, passion for architecture and high standards, in 
                             order to realize their projects' potential. 
                         </p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -143,7 +142,6 @@
                             Earth work, Structural work - Culverts, Bridges, Line drains, Causeways, Irrigation structures
                             Asphalt Laying, DBST Laying, Road Making and Installation of Sign Boards etc.
                         </p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -273,7 +271,6 @@
                         Transformers, Surge Arrestors, Porcelain Insulators, Electrical overload  protection accessories
                         Cut-outs, Connectors, Pin connectors, Solar Panels, Fuses are major supplies which are imported.
                         </p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -292,7 +289,6 @@
                         ,Filters, Gun metal ferrules, Water Meter Test Bench, Chlorine gas,GI pipes are the supplied under water treatment 
                         items division.
                         </p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -310,7 +306,6 @@
                         We supply steel for Steel Towers, GI pipes, Clamps and Brackets, Plastics Security seals, Electricity meter Seals,
                         Telephone Units, Ladder, Bolt Seals, Sealing Straps.
                         </p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -328,7 +323,6 @@
                         High/Low voltage underground or power cables, ACSR (Lynx, Racoon), AAC & AAAC conductors, Multi pair telephone cables,
                         Co-axial xables and Fiber opticals are imported and supplied Islandwide.
                         </p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
