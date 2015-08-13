@@ -2,14 +2,14 @@
 /* ------------- General ------------- */
 @import url(https://fonts.googleapis.com/css?family=Roboto&subset=latin,cyrillic-ext,latin-ext,cyrillic,greek-ext,greek,vietnamese);
 @font-face {
-	font-family: "cs-ctrl-basic";
-	src: url("cs-ctrl-basic.eot");
-	src: url("cs-ctrl-basic.eot#iefix") format("embedded-opentype"),
-			url("cs-ctrl-basic.woff") format("woff"),
-			url("cs-ctrl-basic.ttf") format("truetype"),
-			url("cs-ctrl-basic.svg#basic") format("svg");
-	font-weight: normal;
-	font-style: normal;
+  font-family: "cs-ctrl-basic";
+  src: url("cs-ctrl-basic.eot");
+  src: url("cs-ctrl-basic.eot#iefix") format("embedded-opentype"),
+      url("cs-ctrl-basic.woff") format("woff"),
+      url("cs-ctrl-basic.ttf") format("truetype"),
+      url("cs-ctrl-basic.svg#basic") format("svg");
+  font-weight: normal;
+  font-style: normal;
 }
 
 .csslider1 {

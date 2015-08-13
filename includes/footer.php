@@ -72,10 +72,8 @@
 					<div class="col-md-6 widget">
 						<h3 class="widget-title">U.S.S. Engineering (PVT) LTD </h3>
 						<div class="widget-body">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, dolores, quibusdam architecto voluptatem amet fugiat nesciunt  modi 
-quidem dolore optio velit hic iusto vero praesentium repellat commodi ad id expedita cupiditate repellendus possimus unde?</p>
-							<p>Eius consequatur nihil quibusdam! Laborum, rerum, quis, inventore ipsa autem repellat provident assumenda labore soluta minima alias temporibus facere distinctio quas adipisci nam sunt 
-explicabo officia tenetur at ea quos doloribus dolorum voluptate reprehenderit architecto sint libero illo et hic.</p>
+							<p style="text-align: justify;">USS Engineering ( Pvt ) Ltd possesses expertise in a vast range of engineering fields, mainly in the Manufacture, Fabrication and Galvanizing of steel products, Manufacture of reinforced concrete poles, Batching of ready-mix concrete, Construction of highways and commercial buildings, Assembly ( imminently embarking on manufacture ) of water meters, Power transmission and distribution, and in Telecommunication Projects.</p>
+							
 
 							<br>
 							<h4><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS Engineering company profile.pdf" target="_BLANK"> Company Profile</a></h4>
