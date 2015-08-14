@@ -37,8 +37,8 @@
 				technological advances.</p><p><a href="about.php" ><b>Read more..</b></a></p></span></span></label>
 			<label class='num2'></label>
 			<label class='num3'><span class="cs_title"><span class="cs_wrapper"><h4>The Products</h4><p>Steel Hardware Products</p><p>Steel Fabrication</p><p>Concrete Products</p><p><a href="services.php#products" ><b>Read more..</b></a></p></span></span></label>
-			<label class='num4'><span class="cs_title"><span class="cs_wrapper"><h4>Services</h4><p>Buildings</p><p>Power Transmission Lines</p><p>Highways</p><p><a href="services.php" ><b>Read more..</b></a></p></span></span></label>
-			<label class='num5'><span class="cs_title"><span class="cs_wrapper"><h4>Import & Supplies</h4><p>Railway Items</p><p>Electrical Accessories</p><p>Water Treatment and Supplies</p><p><a href="services.php" ><b>Read more..</b></a></p></span></span></label>
+			<label class='num4'><span class="cs_title"><span class="cs_wrapper"><h4>Services</h4><p>Buildings</p><p>Power Transmission Lines</p><p>Highways</p><p><a href="services.php#services" ><b>Read more..</b></a></p></span></span></label>
+			<label class='num5'><span class="cs_title"><span class="cs_wrapper"><h4>Import & Supplies</h4><p>Railway Items</p><p>Electrical Accessories</p><p>Water Treatment and Supplies</p><p><a href="services.php#imports" ><b>Read more..</b></a></p></span></span></label>
 			
 		</div>
 		

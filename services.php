@@ -105,7 +105,7 @@
                 </div>
             </div>
             
-        </div> <div class="row">
+        </div> <div class="row" id="services">
             <div class="col-lg-12">
                 <h2 class="page-header">Services</h2>
             </div>
@@ -235,7 +235,7 @@
             </div>
            
         </div>
-        <div class="row">
+        <div class="row" id="imports">
             <div class="col-lg-12">
                 <h2 class="page-header">Import & Supplies</h2>
             </div>
