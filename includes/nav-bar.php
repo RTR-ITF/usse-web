@@ -29,10 +29,10 @@
                     </li>
                     <li>
                         <a href="clients.php">Clients</a>
-						<ul style="display: block; height: 1px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
-									<li>
-										<a href="#">Slim Menu 1.1</a>
-										<ul style="display: none; height: 90px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+						<ul style="display: none; height: 1px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+									<li style="width:200px">
+										<a href="clients.php#civil">Civil Engineering</a>
+<!-- 										<ul style="display: none; height: 90px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
 											<li><a href="#">Slim Menu 1.1.1</a></li>
 											<li>
 												<a href="#">Slim Menu 1.1.2</a>
@@ -42,13 +42,25 @@
 												</ul>
 											<span class="sub-collapser"><i></i></span></li>
 										</ul>
-									<span class="sub-collapser"><i></i></span></li>
-									<li><a href="#">Slim Menu 1.2</a></li>
+									<span class="sub-collapser"><i></i></span> --></li>
+                                    <li style="width:200px"><a href="clients.php#telecom">Telecommunication</a></li>
+                                    <li style="width:200px"><a href="clients.php#elec">Electrical</a></li>
+                                    <li style="width:200px"><a href="clients.php#elec">Water Supply</a></li>
+                                    <li style="width:200px"><a href="clients.php#elec">Highways</a></li>
+									<li style="width:200px"><a href="clients.php#steel">Steel Fabrication</a></li>
 								</ul>
 								<span class="sub-collapser expanded"><i></i></span>
                     </li>
                     <li>
                         <a href="services.php">Product & Services</a>
+
+                        <ul style="display: none; height: 1px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+
+                                    <li style="width:200px"><a href="services.php#products">Products</a></li>
+                                    <li style="width:200px"><a href="services.php#services">Services</a></li>
+                                    <li style="width:200px"><a href="services.php#imports">Import & Supplies</a></li>
+                                </ul>
+                                <span class="sub-collapser expanded"><i></i></span>
                     </li>
                     <li >
                         <a href="about.php">About us</a>									

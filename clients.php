@@ -8,33 +8,7 @@
     <!-- Page Content -->
     <div class="container">
 
-        <!-- Page Heading/Breadcrumbs -->
 
-        <div class="row"> 
-            <ul  class="page-header list-group">
-                <li class="list-group-item">
-                <!-- These shuould scroll to the relevent client field -->
-                    <a  role="button" data-toggle="collapse" href="#civil" aria-expanded="false" aria-controls="collapseExample">
-                      Civil Engineering 
-                    </a>
-                </li>
-                <li class="list-group-item">
-                    <a  role="button" data-toggle="collapse" href="#telecom" aria-expanded="false" aria-controls="telecom">
-                      Telecommunication
-                    </a>
-                </li> 
-                <li class="list-group-item">
-                    <a  role="button" data-toggle="collapse" href="#elec" aria-expanded="false" aria-controls="collapseExample">
-                      Electrical Water Supply and Highways
-                    </a>
-                </li>      
-                 <li class="list-group-item">
-                    <a  role="button" data-toggle="collapse" href="#steel" aria-expanded="false" aria-controls="collapseExample">
-                      Steel Fabrication
-                    </a>
-                </li>              
-            </ul>
-        </div>
         <div class="row" id="civil" >
                 <h1 class="page-header"> Civil Engineering Clients </h1>
                 <div class="col-md-2">
