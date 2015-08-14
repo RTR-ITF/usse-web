@@ -11,38 +11,135 @@
 
         <div class="row" id="civil" >
                 <h1 class="page-header"> Civil Engineering Clients </h1>
-                <div class="col-md-2">
-                  <a role="button" data-toggle="collapse" href="#publicministry" aria-expanded="false"
-                   aria-controls="publicministry"> 
-                   <img src="clientLogos/publicministry.png"></a>
-                  <ul class="collapse" id="publicministry">
-                    <p> Construction of the three stories building for the archiving centre.</p>
-                  </ul>
+
+
+                <!-- client 1 -->
+                 <div class="col-md-2 client_logo view third-effect">
+
+                                  <ul class="grid cs-style-5">
+                                  <li>
+                                    <figure>            
+                                    <!-- link to the image        -->
+                                   <img src="clientLogos/publicministry.png">   
+
+                                        <figcaption>
+                                          <h4>Projects done</h4>
+                                        </figcaption>
+                                      </figure>
+                                    </li>
+                                  </ul>
+                                  
+                                  <div class="client_projects" style="display:none;">
+                                    <div class="thumbnail">
+                                      <!-- project image -->
+                                        <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                                        <div class="caption">
+                                          <!-- project title -->
+                                                <h4>Project title</h4>
+                                                <!-- project desription -->
+                                                <p> Construction of the three stories building for the archiving centre.</p>
+                                            </div>
+                                        </div>
+                                  </div>
                 </div>
-                <div class="col-md-2">
-                  <a role="button" data-toggle="collapse" href="#healthmin" aria-expanded="false"
-                   aria-controls="healthmin"> 
-                   <img src="clientLogos/healthmin.png"></a>
-                  <ul class="collapse" id="healthmin">
-                    <p> Construction of three story building for Family Health Bureau and Ant-HIV/AIDS Campaign office. </p>
-                  </ul>
+
+
+                <!-- client 2 -->
+                 <div class="col-md-2 client_logo view third-effect">
+
+                                  <ul class="grid cs-style-5">
+                                  <li>
+                                    <figure>            
+                                    <!-- link to the image        -->
+                                   <img src="clientLogos/healthmin.png">   
+
+                                        <figcaption>
+                                          <h4>Projects done</h4>
+                                        </figcaption>
+                                      </figure>
+                                    </li>
+                                  </ul>
+                                  
+                                  <div class="client_projects" style="display:none;">
+                                    <div class="thumbnail">
+                                      <!-- project image -->
+                                        <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                                        <div class="caption">
+                                          <!-- project title -->
+                                                <h4>Project title</h4>
+                                                <!-- project desription -->
+                                                <p> Construction of three story building for Family Health Bureau and Ant-HIV/AIDS Campaign office.</p>
+                                            </div>
+                                        </div>
+                                  </div>
                 </div>
-                <div class="col-md-2">
-                  <a role="button" data-toggle="collapse" href="#parliment" aria-expanded="false"
-                   aria-controls="parliment"> 
-                   <img src="clientLogos/parliment.png"></a>
-                  <ul class="collapse" id="parliment">
-                    <p> Construction of Observation Platform of the Parliment </p>
-                  </ul>
+
+
+                <!-- client 3 -->
+                 <div class="col-md-2 client_logo view third-effect">
+
+                                  <ul class="grid cs-style-5">
+                                  <li>
+                                    <figure>            
+                                    <!-- link to the image        -->
+                                   <img src="clientLogos/parliment.png">   
+
+                                        <figcaption>
+                                          <h4>Projects done</h4>
+                                        </figcaption>
+                                      </figure>
+                                    </li>
+                                  </ul>
+                                  
+                                  <div class="client_projects" style="display:none;">
+                                    <div class="thumbnail">
+                                      <!-- project image -->
+                                        <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                                        <div class="caption">
+                                          <!-- project title -->
+                                                <h4>Project title</h4>
+                                                <!-- project desription -->
+                                                <p> Construction of Observation Platform of the Parliment</p>
+                                            </div>
+                                        </div>
+                                  </div>
                 </div>
-                <div class="col-md-2">
-                  <a role="button" data-toggle="collapse" href="#kandy" aria-expanded="false"
-                   aria-controls="kandy"> 
-                   <img src="clientLogos/kandy.png"></a>
-                  <ul class="collapse" id="kandy">
-                    <p> Construction of Shopping complex and Office Building.</p>
-                  </ul>
+
+
+
+
+                <!-- client 4 -->
+                 <div class="col-md-2 client_logo view third-effect">
+
+                                  <ul class="grid cs-style-5">
+                                  <li>
+                                    <figure>            
+                                    <!-- link to the image        -->
+                                   <img src="clientLogos/kandy.png">   
+
+                                        <figcaption>
+                                          <h4>Projects done</h4>
+                                        </figcaption>
+                                      </figure>
+                                    </li>
+                                  </ul>
+                                  
+                                  <div class="client_projects" style="display:none;">
+                                    <div class="thumbnail">
+                                      <!-- project image -->
+                                        <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                                        <div class="caption">
+                                          <!-- project title -->
+                                                <h4>Project title</h4>
+                                                <!-- project desription -->
+                                                <p> Construction of Shopping complex and Office Building</p>
+                                            </div>
+                                        </div>
+                                  </div>
                 </div>
+
+
+
                 <div class="col-md-2">
                   <a role="button" data-toggle="collapse" href="#aqua" aria-expanded="false"
                    aria-controls="aqua"> 

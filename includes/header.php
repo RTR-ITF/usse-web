@@ -20,11 +20,16 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/slimmenu.css" type="text/css">
 	<link rel="stylesheet" href="css/messi.css" />
-    
+
         <link rel="stylesheet" href="cssslider_files/csss_engine1/style.css">
     <!-- Custom CSS -->
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="css/styles_kasun.css" rel="stylesheet">
+
+        <link rel="stylesheet" type="text/css" href="css/default.css" />
+        <link rel="stylesheet" type="text/css" href="css/component.css" />
+        
+        <script src="js/modernizr.custom.js"></script>
 	<!-- <link rel="stylesheet" href="http://css-spinners.com/css/spinner/throbber.css" type="text/css">-->
 
     <!-- Custom Fonts -->

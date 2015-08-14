@@ -53,3 +53,11 @@ $(".zoom").hover(function(){
     }, function(){
 });
 
+$(".client_logo").click(function(){
+	var div = document.createElement('div');
+	div.innerHTML = $(this).find(".client_projects")[0].innerHTML;
+	
+
+   Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left: $(this).offset().left-70+"px"}});
+
+	    });
