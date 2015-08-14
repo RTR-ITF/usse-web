@@ -9,9 +9,9 @@
                  <img src="company-logo/logo_new.png">
                   </div> 
 				  <div id="company_name">
-                      <h3 style="padding : right"> U.S.S. Engineering </h3>
-                      <h4>(PVT) LTD</h4>
-                  </div>
+                      <h3 > U.S.S. Engineering </h3></div>
+                    <div id="company_name_ltd">  <h5>(PVT) LTD</h5></div>
+                  
 
                  </a>
             <!-- Collect the nav links, forms, and other content for toggling -->
