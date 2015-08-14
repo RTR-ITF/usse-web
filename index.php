@@ -14,11 +14,7 @@
 
         <!-- Marketing Icons Section -->
         <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header">
-                	Constructions ( A quotation a simple message)
-                </h1>
-            </div>
+            <div class="col-md-12"><h3></h3></div>
             <div class="col-md-4">
                 <div class="panel panel-default short-description">
                     <div class="panel-heading">

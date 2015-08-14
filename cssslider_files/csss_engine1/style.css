@@ -15,11 +15,10 @@
 .csslider1 {
   display: inline-block;
   position: relative;
+  padding-top: 1%;
   max-width: 1366px;
-  
-  
-
-  width: 100%;
+  width: 80%;
+  left: 10%
 }
 .csslider1,
 .csslider1 *,

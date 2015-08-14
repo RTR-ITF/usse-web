@@ -20,6 +20,8 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/slimmenu.css" type="text/css">
 	<link rel="stylesheet" href="css/messi.css" />
+    
+        <link rel="stylesheet" href="cssslider_files/csss_engine1/style.css">
     <!-- Custom CSS -->
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="css/styles_kasun.css" rel="stylesheet">
