@@ -29,7 +29,7 @@
 
         <!-- Service Panels -->
         <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
-        <div class="row">
+        <div class="row"  id="products">
             <div class="col-lg-12">
                 <h2 class="page-header">The Products</h2>
             </div>
