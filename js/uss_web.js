@@ -25,7 +25,7 @@
 		
 		$('#navigation').slimmenu(
 		{
-			resizeWidth: '1000',
+			resizeWidth: '992',
 			collapserTitle: '',
 			animSpeed: 'medium',
 			easingEffect: 'linear',
@@ -46,9 +46,14 @@ $(".zoom").hover(function(){
 	var div = document.createElement('div');
 	div.innerHTML = $(this)[0].innerHTML;
 	div.setAttribute('class', 'panel panel-default text-center '); 
-	
+   
+	if($(window).width()<767){
+   Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left:($(window).width()/2)-200 +"px"}});
+
+	}else{
 
    Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left: $(this).offset().left-70+"px"}});
+	   }
 
     }, function(){
 });
@@ -57,7 +62,11 @@ $(".client_logo").click(function(){
 	var div = document.createElement('div');
 	div.innerHTML = $(this).find(".client_projects")[0].innerHTML;
 	
+	if($(window).width()<992){
+   Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left:($(window).width()/2)-200 +"px"}});
 
-   Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left: $(this).offset().left-70+"px"}});
+	}else{
 
+   Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left: $(this).offset().left-100+"px"}});
+	   }
 	    });

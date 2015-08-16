@@ -824,7 +824,7 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_arrownext > label span:after {
 
 .csslider1 > .cs_description > label {
   font-family: "Roboto",sans-serif;
-  line-height: normal;
+  line-height: 20px;
   text-align: right;
   bottom: 50px;
   right: 10px;

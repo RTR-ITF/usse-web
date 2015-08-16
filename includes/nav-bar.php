@@ -2,15 +2,15 @@
         <div >
             <!-- Brand and toggle get grouped for better mobile display -->
 
-            <a class="navbar-brand" href="index.php">
+            <a class="navbar-brand" href="index.php" >
 
 
-                    <div id="logo">
+                    <div id="logo" style="z-index:100000;">
                  <img src="company-logo/logo_new.png">
                   </div> 
-				  <div id="company_name">
+				  <div id="company_name" style="z-index:100000;" >
                       <h3 > U.S.S. Engineering </h3></div>
-                    <div id="company_name_ltd">  <h5>(PVT) LTD</h5></div>
+                    <div id="company_name_ltd"  style="z-index:100000;">  <h5>(PVT) LTD</h5></div>
                   
 
                  </a>
