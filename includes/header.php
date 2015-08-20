@@ -30,6 +30,7 @@
         <link rel="stylesheet" type="text/css" href="css/component.css" />
         
         <script src="js/modernizr.custom.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<!-- <link rel="stylesheet" href="http://css-spinners.com/css/spinner/throbber.css" type="text/css">-->
 
     <!-- Custom Fonts -->

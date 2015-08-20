@@ -5,12 +5,12 @@
             <a class="navbar-brand" href="index.php">
 
 
-                    <div id="logo">
-                 <img src="company-logo/logo_new.png">
-                  </div> 
-				  <div id="company_name">
-                      <h3 > U.S.S. Engineering </h3></div>
-                    <div id="company_name_ltd">  <h5>(PVT) LTD</h5></div>
+                <div id="logo">
+                    <img src="company-logo/logo_new.png">
+                </div> 
+				<div id="company_name">
+                    <h3 > U.S.S. Engineering </h3></div>
+                <div id="company_name_ltd">  <h5>(PVT) LTD</h5></div>
                   
 
                  </a>
@@ -29,25 +29,14 @@
                     </li>
                     <li>
                         <a href="clients.php">Clients</a>
-						<ul style="display: none; height: 1px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
-									<li style="width:200px">
-										<a href="clients.php#civil">Civil Engineering</a>
-<!-- 										<ul style="display: none; height: 90px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
-											<li><a href="#">Slim Menu 1.1.1</a></li>
-											<li>
-												<a href="#">Slim Menu 1.1.2</a>
-												<ul style="display: none;">
-													<li><a href="#">Slim Menu </a></li>
-													<li><a href="#">Slim Menu </a></li>
-												</ul>
-											<span class="sub-collapser"><i></i></span></li>
-										</ul>
-									<span class="sub-collapser"><i></i></span> --></li>
-                                    <li style="width:200px"><a href="clients.php#telecom">Telecommunication</a></li>
-                                    <li style="width:200px"><a href="clients.php#elec">Electrical</a></li>
-                                    <li style="width:200px"><a href="clients.php#elec">Water Supply</a></li>
-                                    <li style="width:200px"><a href="clients.php#elec">Highways</a></li>
-									<li style="width:200px"><a href="clients.php#steel">Steel Fabrication</a></li>
+ 						<ul style="display: none; height: 1px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
+									
+                                    <li style="width:200px"><a  href="clients.php#Civil">Civil Engineering</a></li>
+                                    <li style="width:200px"><a  href="clients.php#Telecom">Telecommunication</a></li>
+                                    <li style="width:200px"><a  href="clients.php#Electrical">Electrical</a></li>
+                                    <li style="width:200px"><a  href="clients.php#Electrical">Water Supply</a></li>
+                                    <li style="width:200px"><a  href="clients.php#Electrical">Highways</a></li>
+									<li style="width:200px"><a  href="clients.php#Steel">Steel Fabrication</a></li>
 								</ul>
 								<span class="sub-collapser expanded"><i></i></span>
                     </li>

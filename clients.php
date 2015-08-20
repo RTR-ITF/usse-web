@@ -8,12 +8,9 @@
     <!-- Page Content -->
     <div class="container">
 
-
+        <section id="Civil">
         <div class="row" id="civil" >
                 <h1 class="page-header"> Civil Engineering Clients </h1>
-
-
-                <!-- client 1 -->
                  <div class="col-md-2 client_logo view third-effect">
 
                                   <ul class="grid cs-style-5">
@@ -42,9 +39,6 @@
                                         </div>
                                   </div>
                 </div>
-
-
-                <!-- client 2 -->
                  <div class="col-md-2 client_logo view third-effect">
 
                                   <ul class="grid cs-style-5">
@@ -73,9 +67,6 @@
                                         </div>
                                   </div>
                 </div>
-
-
-                <!-- client 3 -->
                  <div class="col-md-2 client_logo view third-effect">
 
                                   <ul class="grid cs-style-5">
@@ -104,11 +95,6 @@
                                         </div>
                                   </div>
                 </div>
-
-
-
-
-                <!-- client 4 -->
                  <div class="col-md-2 client_logo view third-effect">
 
                                   <ul class="grid cs-style-5">
@@ -358,11 +344,9 @@
                                         </div>
                                   </div>
                   </div>
-                
-                
-                
-
         </div>
+        </section>
+        <section id="Telecom">
         <div class="row" id="telecom">
                 <h1 class="page-header"> Telecommunication </h1>
                  <div class="col-md-2 client_logo view third-effect">
@@ -419,7 +403,7 @@
 
                     </p> -->
 
-                <div class="col-md-2 client_logo view third-effect">
+                  <div class="col-md-2 client_logo view third-effect">
 
                                   <ul class="grid cs-style-5">
                                   <li>
@@ -555,9 +539,9 @@
                                         </div>
                                   </div>
                   </div>
-                
-                
         </div>
+        </section>
+        <section id="Electrical">
         <div class="row" id = "elec">
                 <h1 class="page-header"> Electrical, Water Supply and Highways </h1>
                 <div class="col-md-2 client_logo view third-effect">
@@ -615,6 +599,8 @@
                                   </div>
                 </div>
         </div>
+        </section>
+        <section id="Steel">
         <div class="row" id = "steel">
                 <h1 class="page-header"> Steel Fabrication </h1>
                 <div class="col-md-2 client_logo view third-effect">
@@ -889,6 +875,7 @@
                                   </div>
                 </div>
         </div>
+        </section>
         <!-- /.row -->
         </div>
 
