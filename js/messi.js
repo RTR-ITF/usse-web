@@ -19,7 +19,15 @@ function Messi(data, options) {
   _this.messi = jQuery(_this.template);
   _this.setContent(data);
   
-
+    if(_this.options.closeButton) {
+      var close = jQuery('<span class="messi-closebtn"></span>');
+      close.bind('click', function() {
+        _this.hide();
+      });
+      
+      jQuery('.messi-content', this.messi).prepend(close);
+      
+    };
   
   // ajustamos el ancho
   if(_this.options.width != null) 

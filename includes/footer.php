@@ -9,7 +9,7 @@
 			
 			
 			<div class="footer1">
-			<div class="container">
+			<div class="container" style="margin-top:0;">
 				<div class="row">
 					
 					<div class="col-md-3 widget">
@@ -85,7 +85,7 @@
 		</div>
 			
 			<div class="footer2">
-			<div class="container">
+			<div class="container"  style="margin-top: 0;">
 				<div class="row">
 
 					<div class="col-md-6 widget">

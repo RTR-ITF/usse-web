@@ -138,8 +138,8 @@ height: 100px;
 
     #company_name_ltd{
       position: fixed;
-        top:18px;
-        left:350px;
+        top:19px;
+        left:315px;
     }
 
     /*client logo*/
@@ -149,6 +149,9 @@ height: 100px;
     width: 96%;
     height: 96%;
 }
+    .grid figure {
+    border-radius: 10%;
+    }
 }
 
 
@@ -174,8 +177,17 @@ height: 100px;
     }
     #company_name_ltd{
       position: fixed;
-        top:18px;
-        left:250px;
+        top:19px;
+        left:288px;
+    }
+
+
+    .col-md-2 {
+    width: 32.333333%;
+    float: left;
+}
+    .grid figure {
+    border-radius: 10%;
     }
 }
 
@@ -216,9 +228,21 @@ height: 100px;
 
     #company_name_ltd{
       position: fixed;
-        top:18px;
-        left:280px;
+        top:19px;
+        left:260px;
     }
+
+    .col-md-2 {
+    width: 100%;
+    float: left;
+    padding: 0;
+    }
+
+        .grid figure {
+    border-radius: 0;
+    }
+
+
 }
 <<<<<<< HEAD
 
