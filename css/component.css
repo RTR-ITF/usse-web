@@ -6,7 +6,7 @@
 	list-style: none;
 	text-align: center;
 
-    cursor:pointer;
+    /*cursor:pointer;*/
 }
 
 .grid li {
@@ -47,8 +47,8 @@
     position: absolute;
     bottom: 2%;
     right: 16%;
-    background-color: rgb(0, 0, 51);
-    box-shadow: 0 0 2px 0 rgb(0, 0, 51);
+    /*background-color: rgb(0, 0, 51);
+    box-shadow: 0 0 2px 0 rgb(0, 0, 51);*/
     padding: 2px;
     padding-left: 5px;
     padding-right: 5px;
@@ -71,10 +71,10 @@
 
 .no-touch .cs-style-5 figure:hover img,
 .cs-style-5 figure.cs-hover img {
-	-webkit-transform: translateY(-10px) scale(0.7);
-	-moz-transform: translateY(-10px) scale(0.7);
-	-ms-transform: translateY(-10px) scale(0.7);
-	transform: translateY(-10px) scale(0.7);
+	-webkit-transform: scale(0.9);
+	-moz-transform: scale(0.9);
+	-ms-transform:  scale(0.9);
+	transform: scale(0.9);
 }
 
 .no-touch .cs-style-5 figure:hover,

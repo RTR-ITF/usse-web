@@ -58,15 +58,15 @@ $(".zoom").hover(function(){
     }, function(){
 });
 
-$(".client_logo").click(function(){
-	var div = document.createElement('div');
-	div.innerHTML = $(this).find(".client_projects")[0].innerHTML;
+// $(".client_logo").click(function(){
+// 	var div = document.createElement('div');
+// 	div.innerHTML = $(this).find(".client_projects")[0].innerHTML;
 	
-	if($(window).width()<992){
-   Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left:($(window).width()/2)-200 +"px"}});
+// 	if($(window).width()<992){
+//    Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left:($(window).width()/2)-200 +"px"}});
 
-	}else{
+// 	}else{
 
-   Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left: $(this).offset().left-100+"px"}});
-	   }
-	    });
+//    Messi.showdialog(div.outerHTML,{autoclose:20000,viewport:{top: $(this).offset().top-25+"px",left: $(this).offset().left-100+"px"}});
+// 	   }
+// 	    });
