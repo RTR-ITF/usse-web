@@ -18,10 +18,11 @@
             <div class="col-md-4">
                 <div class="panel panel-default short-description">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-check"></i> We Engineer your future</h4>
+                        <h4><i class="fa fa-fw fa-check"></i> Need to know Who are We ?</h4>
                     </div>
                     <div class="panel-body">
-                        <p> A summary of the company profile is here and More button lead to the about us page </p> 
+                        <p> USS Engineering ( Pvt ) Ltd possesses expertise in a vast range of engineering fields, mainly in 
+                        the Manufacture, Fabrication and Galvanizing of steel products </p> 
                         <a href="about.php" class="btn btn-default">Need to know  Further ?</a>
                     </div>
                 </div>
@@ -32,7 +33,7 @@
                         <h4><i class="fa fa-fw fa-check"></i>Our Potential</h4>
                     </div>
                     <div class="panel-body">
-                        <p> What are the key fields that the compnay is involved in (We are not only a single purpose company, Our potential is diversed</p>
+                        <p> We are not only a single purpose company, Our potential is diversed. Click below for our Products</p>
                         <a href="services.php" class="btn btn-default">Our Services</a>
                     </div>
                 </div>

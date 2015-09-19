@@ -18,6 +18,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/storyindex.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/slimmenu.css" type="text/css">
 	<link rel="stylesheet" href="css/messi.css" />
 
@@ -29,12 +30,9 @@
         <link rel="stylesheet" type="text/css" href="css/default.css" />
         <link rel="stylesheet" type="text/css" href="css/component.css" />
         
-<<<<<<< HEAD
         <script src="js/modernizr.custom.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-=======
          <script src="js/modernizr.custom.js"></script>
->>>>>>> 38a4f52da52ac22e45fdb87df924441777171708
 	<!-- <link rel="stylesheet" href="http://css-spinners.com/css/spinner/throbber.css" type="text/css">-->
 
     <!-- Custom Fonts -->

@@ -11,7 +11,7 @@
         <section id="Civil">
         <div class="row" id="civil" >
                 <h1 class="page-header"> Civil Engineering Clients </h1>
-                 <div class="col-md-2 client_logo view third-effect">
+                 <!-- <div class="col-md-2 client_logo view third-effect"> -->
 
                                   <ul class="grid cs-style-5">
                                   <li>
@@ -38,8 +38,8 @@
                                             </div>
                                         </div>
                                   </div>
-                </div>
-                 <div class="col-md-2 client_logo view third-effect">
+                <!-- </div> -->
+                 <!-- <div class="col-md-2 client_logo view third-effect"> -->
 
                                   <ul class="grid cs-style-5">
                                   <li>
@@ -66,7 +66,7 @@
                                             </div>
                                         </div>
                                   </div>
-                </div>
+                <!-- </div> -->
                  <div class="col-md-2 client_logo view third-effect">
 
                                   <ul class="grid cs-style-5">

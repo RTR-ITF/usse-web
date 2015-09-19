@@ -13,8 +13,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">Our Work for the Nation
-                    <small>Subheading</small>
-                </h1>
+`                </h1>
             </div>
         </div>
         <!-- /.row -->
@@ -36,10 +35,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                        </span>
+                      <img src="servicesphoto/steel hardware products.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Steel Hardware Products</h4>
@@ -53,10 +49,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-car fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/steel fabrication.JPG" style="width:100%">   
                     </div>
                     <div class="panel-body">
                         <h4>Steel Fabrication</h4>
@@ -72,10 +65,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                        </span>
+                       <img src="servicesphoto/concrete products.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Concrete Products</h4>
@@ -131,10 +121,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-car fa-stack-1x fa-inverse"></i>
-                        </span>
+                       <img src="servicesphoto/highways.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Highways</h4>
@@ -148,10 +135,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/highways.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Power Transmission Lines</h4>
@@ -164,10 +148,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/highways.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Water Supply & Drainage</h4>
@@ -181,10 +162,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/Tel. Eng. construction work.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Telecommunication Engineering & Construction Work</h4>
@@ -199,10 +177,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/highways.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Electrical Engieering & Construction</h4>
@@ -217,10 +192,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/highways.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Design and Consultancy Services</h4>
@@ -242,10 +214,7 @@
              <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-support fa-stack-1x fa-inverse"></i>
-                        </span>
+                       <img src="servicesphoto/highways.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Railway Items</h4>
@@ -260,10 +229,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/highways.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Electrical Accessories</h4>
@@ -277,10 +243,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/highways.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Water Treatment and Supplies</h4>
@@ -295,10 +258,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/steel hardware items.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Steel Items</h4>
@@ -312,10 +272,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/elec. tel. cables.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Electrical & Telecom Cables</h4>
