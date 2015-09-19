@@ -30,9 +30,18 @@
         <link rel="stylesheet" type="text/css" href="css/default.css" />
         <link rel="stylesheet" type="text/css" href="css/component.css" />
         
+<<<<<<< HEAD
         <script src="js/modernizr.custom.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
          <script src="js/modernizr.custom.js"></script>
+=======
+
+        <script src="js/modernizr.custom.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+         <script src="js/modernizr.custom.js"></script>
+
+>>>>>>> e245f8b7d9e237a258d8f90f821cec6e917a1474
 	<!-- <link rel="stylesheet" href="http://css-spinners.com/css/spinner/throbber.css" type="text/css">-->
 
     <!-- Custom Fonts -->
