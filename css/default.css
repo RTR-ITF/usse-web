@@ -20,8 +20,12 @@
 .clearfix:after { clear: both; }
 
 body {
-	font-family: 'Lato', Calibri, Arial, sans-serif;
+	font-family: "Helvetica Neue",Helvetica;
 	background: #f9f9f9;
+	background-image: url("../images/back.png");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 
 a {

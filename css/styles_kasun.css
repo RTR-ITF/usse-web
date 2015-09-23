@@ -65,6 +65,13 @@ td {
     overflow: hidden;
 }
 
+.zoom>.panel-heading{
+  height: 180px;
+  overflow: hidden;
+  display: flex;
+
+}
+
 /* products and services fixing height */
 .short-description>.panel-body {
     height: 150px;
@@ -200,3 +207,10 @@ td {
 }
 
 
+/* stories and neews*/
+
+.story-item{
+  margin: 20px 80px; 
+  padding: 0 30px 40px 20px;
+  box-shadow: 0 0 10px rgba(2, 7, 86, 0.4);
+}

@@ -139,7 +139,7 @@ height: 100px;
     #company_name_ltd{
       position: fixed;
         top:19px;
-        left:315px;
+        left:340px;
     }
 
     /*client logo*/
@@ -152,6 +152,12 @@ height: 100px;
     .grid figure {
     border-radius: 10%;
     }
+    .zoom>.panel-heading{
+  height: auto;
+  overflow: hidden;
+  display: flex;
+
+}
 }
 
 
@@ -178,7 +184,7 @@ height: 100px;
     #company_name_ltd{
       position: fixed;
         top:19px;
-        left:288px;
+        left:310px;
     }
 
 
@@ -189,6 +195,18 @@ height: 100px;
     .grid figure {
     border-radius: 10%;
     }
+    .zoom>.panel-heading{
+  height: 180px;
+  overflow: hidden;
+  display: flex;
+
+}
+    .zoom>.panel-heading{
+  height: 220px;
+  overflow: hidden;
+  display: flex;
+
+}
 }
 
 
@@ -229,7 +247,7 @@ height: 100px;
     #company_name_ltd{
       position: fixed;
         top:19px;
-        left:260px;
+        left:280px;
     }
 
     .col-md-2 {
@@ -244,7 +262,4 @@ height: 100px;
 
 
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> d782ba5412da31d42c6fcb3454e7da3202dc002e
