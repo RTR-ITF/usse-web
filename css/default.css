@@ -23,6 +23,12 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@font-face {
+	font-family: 'header_font';
+	src:url('../fonts/CooperHewitt-Book.otf');
+	font-weight: normal;
+	font-style: normal;
+}
 
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
