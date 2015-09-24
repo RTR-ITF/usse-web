@@ -116,6 +116,8 @@
   cursor: pointer;
   opacity: 0;
   z-index: -1;
+  max-width: none;
+  background-color: rgba(170, 196, 226, 0.4);
 }
 .csslider1 > .cs_arrowprev {
   left: 0;

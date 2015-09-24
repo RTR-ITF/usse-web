@@ -16,7 +16,7 @@
 						<h3 class="widget-title">Contact</h3>
 						<div class="widget-body">
 						<table>
-							<tr>
+							<tr title="Address">
 								<td align="top">
 										<i class="fa fa-map-marker"></i>
 								</td>
@@ -24,7 +24,7 @@
 											397, Galahitiyawa <br>South Ganemulla, Sri Lanka
 							</tr>
 							
-							<tr>
+							<tr title="Hotline">
 								<td>
 										<i class="fa fa-phone"></i>
 								</td>
@@ -33,16 +33,16 @@
 								</td>
 							</tr>
 							
-							<tr>
+							<tr title="Fax">
 								<td>
 										<i class="fa fa-fax"></i>
 								</td>
-								<td>
+								<td >
 											+94 (0)332260321
 								</td>
 							</tr>
 							
-							<tr>
+							<tr title="email">
 								<td>
 										<i class="fa fa-envelope"></i>
 								</td>
@@ -60,10 +60,10 @@
 						<h3 class="widget-title">Get in touch with us</h3>
 						<div class="widget-body">
 							<p class="follow-me-icons">
-								<a href=""><i class="fa fa-facebook "></i></a>
-								<a href=""><i class="fa fa-linkedin "></i></a>
-								<a href=""><i class="fa fa-twitter "></i></a>
-								<a href=""><i class="fa fa-google-plus"></i></a>
+								<a href=""><i >&#xf09a</i></a> <!-- facebook -->
+								<a  href=""><i >&#xf08c</i></a>	<!-- linked in -->
+								<a  href=""><i >&#xf099</i></a>	<!-- twitter -->
+								<a  href=""><i >&#xf0d5</i></a>	<!-- google plus -->
 							</p>
 							<br>							
 						</div>
@@ -76,7 +76,7 @@
 							
 
 							<br>
-							<h4><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS Engineering company profile.pdf" target="_BLANK"> Company Profile</a></h4>
+							<h4 title="Download company profile"><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS Engineering company profile.pdf" target="_BLANK"> Company Profile</a></h4>
 						</div>
 					</div>
 
