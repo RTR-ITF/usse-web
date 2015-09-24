@@ -152,12 +152,6 @@ height: 100px;
     .grid figure {
     border-radius: 10%;
     }
-    .zoom>.panel-heading{
-  height: auto;
-  overflow: hidden;
-  display: flex;
-
-}
 }
 
 
@@ -195,18 +189,6 @@ height: 100px;
     .grid figure {
     border-radius: 10%;
     }
-    .zoom>.panel-heading{
-  height: 180px;
-  overflow: hidden;
-  display: flex;
-
-}
-    .zoom>.panel-heading{
-  height: 220px;
-  overflow: hidden;
-  display: flex;
-
-}
 }
 
 

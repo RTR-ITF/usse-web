@@ -11,6 +11,18 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@font-face {
+	font-family: 'brand_font';
+	src:url('../fonts/FiraSans-Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'nav_bar_font';
+	src:url('../fonts/CooperHewitt-Light.otf');
+	font-weight: normal;
+	font-style: normal;
+}
 
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 

@@ -9,8 +9,8 @@
                     <img src="company-logo/logo_new.png">
                 </div> 
 				<div id="company_name">
-                    <h3 > U.S.S. Engineering </h3></div>
-                <div id="company_name_ltd">  <h5>(PVT) LTD</h5></div>
+                    <h3 style='    font-family: "brand_font";'> U.S.S. Engineering </h3></div>
+                <div id="company_name_ltd">  <h5 style='  font-family: "brand_font";'>(PVT) LTD</h5></div>
                   
 
                  </a>
