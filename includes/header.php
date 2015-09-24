@@ -10,8 +10,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" href="/company-logo/favicon.ico">
     <meta name="description" content="">
     <meta name="author" content="">
+
+
 
     <title>U.S.S. ENGINEERING (Pvt) Ltd. </title>
 	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
