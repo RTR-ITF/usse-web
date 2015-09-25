@@ -96,7 +96,7 @@
 								<a href="services.php">Product & Services</a> |
 								<a href="clients.php">Clients</a> |
 								<a href="news-events.php">News & Events</a> |
-								<b><a href="contact.php">Contact us</a></b>
+								<a href="contact.php">Contact us</a>
 							</p>
 						</div>
 					</div>
