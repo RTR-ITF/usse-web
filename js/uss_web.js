@@ -25,7 +25,7 @@
 		
 		$('#navigation').slimmenu(
 		{
-			resizeWidth: '992',
+			resizeWidth: '900',
 			collapserTitle: '',
 			animSpeed: 'medium',
 			easingEffect: 'linear',

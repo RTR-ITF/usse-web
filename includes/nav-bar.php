@@ -21,39 +21,11 @@
 
 
                 <ul id="navigation" class="slimmenu right-to-left">
-                     <li>
-                        <a href="contact.php">Contact us</a>
-                    </li>
-                    <li>
-                        <a href="news-events.php">News & Events</a>
-                    </li>
-                    <li>
-                        <a href="clients.php">Clients</a>
- 						<ul style="display: none; height: 1px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
-									
-                                    <li style="width:200px"><a  href="clients.php#Civil">Civil Engineering</a></li>
-                                    <li style="width:200px"><a  href="clients.php#Telecom">Telecommunication</a></li>
-                                    <li style="width:200px"><a  href="clients.php#Electrical">Electrical</a></li>
-                                    <li style="width:200px"><a  href="clients.php#Electrical">Water Supply</a></li>
-                                    <li style="width:200px"><a  href="clients.php#Electrical">Highways</a></li>
-									<li style="width:200px"><a  href="clients.php#Steel">Steel Fabrication</a></li>
-								</ul>
-								<span class="sub-collapser expanded"><i></i></span>
-                    </li>
-                    <li>
-                        <a href="services.php">Product & Services</a>
-
-                        <ul style="display: none; height: 1px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
-
-                                    <li style="width:200px"><a href="services.php#products">Products</a></li>
-                                    <li style="width:200px"><a href="services.php#services">Services</a></li>
-                                    <li style="width:200px"><a href="services.php#imports">Import & Supplies</a></li>
-                                </ul>
-                                <span class="sub-collapser expanded"><i></i></span>
-                    </li>
-                    <li >
-                        <a href="about.php">About us</a>									
-                    </li>
+                    <li ><a href="about.php">About us<span class="menu-highlight"></a></li>
+                    <li><a href="services.php">Product & Services<span class="menu-highlight"></a></li>
+                    <li><a href="clients.php">Clients<span class="menu-highlight"></a></li>
+                    <li><a href="news-events.php">News & Events<span class="menu-highlight"></span></a></li>
+                    <li><a href="contact.php">Contact us <span class="menu-highlight"></span> </a></li>
 
                 </ul>
 

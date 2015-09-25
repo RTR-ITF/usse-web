@@ -220,3 +220,26 @@ td {
   box-shadow: 0 0 10px rgba(2, 7, 86, 0.4);
 }
 
+
+
+.menu-highlight {
+      background-color: #BFE7F5;;
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    background: #BFE7F5;;
+    height: 2px;
+    width: 0%;
+-moz-transition: all 0.12s ease-in-out;
+    -webkit-transition: all  0.12s ease-in-out;
+    transition: all  0.12s ease-in-out;
+}
+
+
+.slimmenu>li>a:hover .menu-highlight {
+left: 3%;
+width: 94%;
+    -moz-transition: all 0.12s ease-in-out;
+    -webkit-transition: all  0.12s ease-in-out;
+    transition: all  0.12s ease-in-out;
+}
