@@ -45,19 +45,19 @@
                             <h3>Mr. K.A.U. Thalangama<br>
                                 <small>Chariman/Director</small>
                             </h3>
-                            
+                            <a style="color: rgba(31,31,31,1);" href="mailto:emailaddress@usse.com"><p><i class="fa fa-envelope"></i> : emailaddress@usse.com</p></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 text-center">
                     <div class="thumbnail">
                         <div class="caption">
-                            <div class="caption">
+
                                 <h3>Mrs. A.B.C.P. Thalangama<br>
                                     <small>Director</small>
                                 </h3>
-                                
-                            </div>
+                          <a style="color: rgba(31,31,31,1);" href="mailto:emailaddress@usse.com"><p><i class="fa fa-envelope"></i> : emailaddress@usse.com</p></a>      
+
                         </div>
                     </div>
 
@@ -69,7 +69,7 @@
                             <h3>Mr. Vinal Thalagala<br>
                                 <small>Director (Administration)</small>
                             </h3>
-                            
+                           <a style="color: rgba(31,31,31,1);" href="mailto:emailaddress@usse.com"><p><i class="fa fa-envelope"></i> : emailaddress@usse.com</p></a> 
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                             <h3>Mr. P.A. Wimalasiri<br>
                                 <small>Director</small>
                             </h3>
-                           
+                           <a style="color: rgba(31,31,31,1);" href="mailto:emailaddress@usse.com"><p><i class="fa fa-envelope"></i> : emailaddress@usse.com</p></a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                                     <small>ACA,BA,DPFM,FMAAT,Attorney-at-Law</small>
                                     <small>Director (Finance)</small>
                                 </h3>
-                                
+                              <a style="color: rgba(31,31,31,1);" href="mailto:emailaddress@usse.com"><p><i class="fa fa-envelope"></i> : emailaddress@usse.com</p></a>  
                             </div>
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                                     <small>BSc.(Eng),PhD in Eng., C.Eng</small>
                                     <small>Director (Technical)</small>
                                 </h3>
-                                
+                              <a style="color: rgba(31,31,31,1);" href="mailto:emailaddress@usse.com"><p><i class="fa fa-envelope"></i> : emailaddress@usse.com</p></a>  
                             </div>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
                                 <small>BSc.(Eng.)Hons,MBA,FIE(SL),MIE(Aust),C.Eng</small>
                                 <small>Business and Technical Advisor</small>
                             </h3>
-                            
+                           <a style="color: rgba(31,31,31,1);" href="mailto:emailaddress@usse.com"><p><i class="fa fa-envelope"></i> : emailaddress@usse.com</p></a> 
                         </div>
                     </div>
                 </div>
