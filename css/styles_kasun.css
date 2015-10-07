@@ -218,6 +218,7 @@ td {
   margin: 20px 80px; 
   padding: 0 30px 40px 20px;
   box-shadow: 0 0 10px rgba(2, 7, 86, 0.4);
+  background-color: rgba(255,255,255,0.4);
 }
 
 

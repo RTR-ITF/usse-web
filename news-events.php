@@ -33,8 +33,10 @@
                                 
                                 </strong>
                                     
-                                    Steven Smith is prepared to shelve his attacking mindset and "bore" the batsmen out if that is what is needed to succeed in his first full series as Australia's Test captain, in Bangladesh in October
-                                    </p>
+                                    The company has installed a concrete batching plant at Imbulgoda in May 2011. Now the company has the capacity to supply 1000 m3 of concrete per month from a range of grades from G15 - G40.
+
+                                    The company is capable of catering towards the concrete demand of clients in Gampaha and Colombo districts. 
+                                </p>
                             </div>
              </div>
      </article> 
@@ -61,8 +63,10 @@
                                 
                                 </strong>
                                     
-                                    Steven Smith is prepared to shelve his attacking mindset and "bore" the batsmen out if that is what is needed to succeed in his first full series as Australia's Test captain, in Bangladesh in October
-                                    </p>
+                                    The company has installed a concrete batching plant at Imbulgoda in May 2011. Now the company has the capacity to supply 1000 m3 of concrete per month from a range of grades from G15 - G40.
+
+                                    The company is capable of catering towards the concrete demand of clients in Gampaha and Colombo districts. 
+                                </p>
                             </div>
              </div>
      </article>

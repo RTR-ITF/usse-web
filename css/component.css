@@ -43,7 +43,7 @@
 .grid figcaption h4 {
     margin: 0;
     padding: 0;
-    color: #F9F7F7;
+    color: rgba(0,0,0,0);
     position: absolute;
     bottom: 2%;
     right: 16%;
