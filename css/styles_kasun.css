@@ -79,6 +79,25 @@ td {
 .short-description>.panel-body {
     height: 150px;
     overflow: hidden;
+      
+}
+
+.short-description>.panel-heading{
+  border-color: rgba(22,22,22,0.2);
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#30b3f4+0,ffffff+100&amp;0.7+0,0.72+100 */
+background: -moz-linear-gradient(-45deg,  rgba(48,179,244,0.7) 0%, rgba(255,255,255,0.72) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(48,179,244,0.7)), color-stop(100%,rgba(255,255,255,0.72))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(-45deg,  rgba(48,179,244,0.7) 0%,rgba(255,255,255,0.72) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(-45deg,  rgba(48,179,244,0.7) 0%,rgba(255,255,255,0.72) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(-45deg,  rgba(48,179,244,0.7) 0%,rgba(255,255,255,0.72) 100%); /* IE10+ */
+background: linear-gradient(135deg,  rgba(48,179,244,0.7) 0%,rgba(255,255,255,0.72) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b330b3f4', endColorstr='#b8ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+.short-description{
+      box-shadow: 0 0 10px rgba(1, 7, 43, 0.4);
+      background-color: rgba(255, 255, 255, 0.29);
+      border-radius: 0px;
 }
 
 /* board of directors */
