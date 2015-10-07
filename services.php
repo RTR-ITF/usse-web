@@ -35,7 +35,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                      <img src="servicesphoto/steel hardware products.JPG" style="width:100%">
+                      <img src="servicesphoto/steelhardwareproducts.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Steel Hardware Products</h4>
