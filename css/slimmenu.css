@@ -80,7 +80,7 @@ ul.slimmenu > li:last-child { margin-right: 0 }
 ul.slimmenu li a {
     display: block;
     color: #FFF;
-    padding: 8px 15px 12px 15px;
+    padding: 15px 15px 15px 15px;
     font-family: "nav_bar_font",Helvetica,Arial,sans-serif;
     font-size: 16px;
     font-weight: 500;

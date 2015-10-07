@@ -60,7 +60,7 @@
                                     <abbr title="Phone"> Tel</abbr>:
                                 </div> 
                                 <div style="width: 300px; float:left; height:20px;  margin:0px">
-                                    +94 33 5625555, +94 33 5628911-3
+                                    +94 33 5625555, +94 33 2260066
                                 </div>
                                     <br>
                                 <div style="width: 70px; float:left; height:20px;  margin:0px">
@@ -86,7 +86,9 @@
                                 </div> 
                                 <div style="width: 300px; float:left; height:20px;  margin:0px">
                                     +94 63 2246220
+
                                 </div>
+                                <br>
                                     208, Ponnimankulam, Galkulama, Anuradapura.<br>
                                 <div style="width: 70px; float:left; height:20px;  margin:0px">
                                     <abbr title="Phone">  Tel       </abbr>:
@@ -95,7 +97,7 @@
                                 +94 25 5624888
                                 </div>
                             </p>
-                    </div>
+                        </div>
                     <div class= contact-item style="width: 400px; float:left; height:50px; margin:0px">
                                 
                     </div> 
