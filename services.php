@@ -80,10 +80,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                        </span>
+                        <img src="servicesphoto/tomal.JPG">
                     </div>
                     <div class="panel-body">
                         <h4>LED Bulbs</h4>
@@ -102,10 +99,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <span class="fa-stack fa-5x">
-                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                              <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                        </span>
+                       <img src="servicesphoto/buildings.BMP" style="width:100%">                        
                     </div>
                     <div class="panel-body">
                         <h4>Buildings</h4>
@@ -135,7 +129,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/highways.JPG" style="width:100%">
+                        <img src="servicesphoto/powertransmissionlines.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Power Transmission Lines</h4>
@@ -148,7 +142,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/highways.JPG" style="width:100%">
+                        <img src="servicesphoto/watersupply.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Water Supply & Drainage</h4>
@@ -177,7 +171,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/highways.JPG" style="width:100%">
+                        <img src="servicesphoto/electicalconstruction.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Electrical Engieering & Construction</h4>
@@ -192,7 +186,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/highways.JPG" style="width:100%">
+                        <img src="servicesphoto/designandconsultancy1.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Design and Consultancy Services</h4>
@@ -214,7 +208,7 @@
              <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                       <img src="servicesphoto/highways.JPG" style="width:100%">
+                       <img src="servicesphoto/railway2.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Railway Items</h4>
@@ -229,7 +223,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/highways.JPG" style="width:100%">
+                        <img src="servicesphoto/electricalaccessories.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Electrical Accessories</h4>
@@ -243,7 +237,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/highways.JPG" style="width:100%">
+                        <img src="servicesphoto/watertreatment.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Water Treatment and Supplies</h4>
