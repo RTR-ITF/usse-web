@@ -16,7 +16,7 @@
   display: inline-block;
   position: relative;
   padding-top: 1%;
-  max-width: 1366px;
+  max-width: none;
   width: 80%;
   left: 10%
 }
