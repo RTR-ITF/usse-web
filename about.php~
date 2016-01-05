@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php include "includes/header.php" ?>
 <body>
 
@@ -22,7 +21,7 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-5">
-                <img class="img-responsive" src="images/group.jpg">
+                <img class="img-responsive" src="images/office.jpg">
             </div>
             <div class="col-md-7">
                 <p style="text-align: justify;">U.S.S Engineering (Pvt)Ltd. commenced industrial operations in 1980, and ventured into diverse engineering fields over the past 35 years.</p>                
