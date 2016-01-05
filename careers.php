@@ -17,7 +17,7 @@
                 <h1 class="page-header">Our Team </h1>
             </div>
             <div class="panel-heading">
-            	<img src="careersphoto/1.JPG" style="width:100%">
+            	<img src="images/carees.png" style="width:100%">
             </div>
             <div class="panel-body">
             	<h4>
