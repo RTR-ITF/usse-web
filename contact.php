@@ -19,9 +19,7 @@
         <!-- /.row -->
 
         <!-- Content Row -->
-        <div class="row">
-        <img class="img-responsive" src="http://placehold.it/1300x150" alt="">
-        </div>
+       
         <div class="row">
             <div class="col-lg-12">
             <h2>24, Rosmead Place, Colombo 07, Sri Lanka.</h2>

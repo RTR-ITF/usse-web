@@ -39,7 +39,7 @@
                 <h2 class="page-header">Board of Directors</h2>
             </div>
 
-            <div class="col-md-4 text-center">
+                <div class="col-md-4 text-center">
                     <div class="thumbnail">
                         <div class="caption">
                             <h3>Mr. K.A.U. Thalangama<br>
