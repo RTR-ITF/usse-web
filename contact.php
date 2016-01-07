@@ -10,10 +10,10 @@
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Contact Us
-                    <img src="images\contact.JPG">
-                </h1>
-                
+                <h1 class="page-header">Contact Us</h1>
+                <div class="panel-heading">
+            	<img src="images/contact.jpg" style="width:100%">
+            </div>
             </div>
         </div>
         <!-- /.row -->
