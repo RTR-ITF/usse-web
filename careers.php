@@ -14,10 +14,9 @@
         </div>	
         <div class="row"  id="products">
             <div class="col-lg-12">
-                <h1 class="page-header">Our Team </h1>
             </div>
             <div class="panel-heading">
-            	<img src="careersphoto/1.JPG" style="width:100%">
+            	<img src="images/careers.PNG" style="width:100%">
             </div>
             <div class="panel-body">
             	<h4>
@@ -28,51 +27,53 @@
             </div>
             
             <div class="container">
-                <div class="col-md-3" id="CE">
-                    <h2 class="page-header"> Civil Engineer </h2>
-                        <div class="panel-heading" id="CEPhoto">
-                            <img src="">
-                        </div>
-                        <div class="panel-body" id="CEdesc">
-                            <p style="text-align: initial">Candidates should have a Bachelor’s Degree or equivalent in Civil Engineering.</p> 
-                        </div>
-                </div>
-                <div class="col-md-3" id="QS">
-                    <h2 class="page-header"> Quantity Surveyor </h2>
-                     <div class="panel-heading" id="QSPhoto">
-                            <img src="">
-                        </div>
-                        <div class="panel-body" id="QSdesc">
-                            <p style="text-align: initial">Candidates should have NCT Diploma or equivalent  in Quantity Surveying.</p> 
-                        </div>
-                </div>
-                <div class="col-md-3" id="TO">
-                    <h2 class="page-header"> Technical Officer </h2>
-                     <div class="panel-heading" id="TOPhoto">
-                            <img src="">
-                        </div>
-                        <div class="panel-body" id="TOdesc">
-                            <p style="text-align: initial">Candidates should have Certificate or Diploma (NDT/HNDE/NDES or Similar) in Civil Engineering or any relevant Technical stream.</p> 
-                        </div>
-                </div>
-                <div class="col-md-3" id="SK">
-                    <h2 class="page-header"> Store Keeper </h2>
-                    <div class="panel-heading" id="SKPhoto">
-                            <img src="">
-                    </div>
-                    <div class="panel-body" id="SKdesc">
-                        <p style="text-align: initial">Candidates should have Full/Part qualification in Supply/Material/Stores Management.</p> 
+                <div class="col-md-4 text-center">
+                    <div class="thumbnail">
+                        <button class="caption" data-toggle="modal" data-target = "#ceModal">
+                            <h3>Civil Engineer<br>
+                                <small>Candidates should have a Bachelor’s Degree or equivalent in Civil Engineering.</small>
+                            </h3>
+                        </button>
                     </div>
                 </div>
-                <div class="col-md-3" id="SV">
-                    <h2 class="page-header"> Supervisor </h2>
-                     <div class="panel-heading" id="SVPhoto">
-                            <img src="">
-                        </div>
-                        <div class="panel-body" id="SVdesc">
-                        <p style="text-align: initial">Candidates should have Certificate/Diploma or Similar in Civil Engineering.                                                                          </p> 
-                        </div>
+                <div class="col-md-4 text-center">
+                    <div class="thumbnail">
+                        <button class="caption" data-toggle="modal" data-target = "#qsModal">
+                            <h3>Quantity Surveyor<br>
+                                <small>Candidates should have NCT Diploma or equivalent  in Quantity Surveying.</small>
+                            </h3>
+                        </button>
+                    </div>
                 </div>
+                <div class="col-md-4 text-center">
+                    <div class="thumbnail">
+                        <button class="caption" data-toggle="modal" data-target = "#toModal">
+                            <h3>Technical Officer<br>
+                                <small>Candidates should have Certificate or Diploma (NDT/HNDE/NDES or Similar) in Civil Engineering or any relevant Technical stream.</small>
+                            </h3>
+                        </button>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <div class="thumbnail">
+                        <button class="caption" data-toggle="modal" data-target = "#svModal">
+                            <h3>Supervisor<br>
+                                <small>Candidates should have Certificate/Diploma or Similar in Civil Engineering.</small>
+                            </h3>
+                        </button>
+                    </div>
+                </div>
+                <div class="col-md-4 text-center">
+                    <div class="thumbnail">
+                        <button class="caption" data-toggle="modal" data-target = "#skModal">
+                            <h3>Store Keeper <br>
+                                <small>Candidates should have Full/Part qualification in Supply/Material/Stores Management.</small>
+                            </h3>
+                        </button>
+                    </div>
+                </div>
+               
+               
                 
                 
             </div>
@@ -112,6 +113,114 @@
             </div> -->
 
     	</div>
+        <!-- Civil Engineer -->
+        <div class="modal fade" id="ceModal" role = "dialog">
+            <div class="modal-dialog">
+                <!-- Modal Content -->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss = "modal">&times;</button>
+                        <h4 class="modal-title"> Civil Engineer</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p> Selected candidate will be responsible for the overall management of the civil engineering arm of the company, who should,</p>
+                        <ul>
+                            <li> Plan and guide the operations of the Division as per the requirements of clients.</li>
+                            <li> Should develop & expand the Division’s operations.</li>
+                            <li> Have keen business acumen with the ability to implement initiatives to win business.</li>
+                        </ul>
+                        <p>
+                            <b> Eligibility Criteria.</b>
+                            <ul>
+                            <li>B.Sc. Degree in Civil Engineering (Chartered Engineers are preferable)</li>
+                            <li>Additional  qualification in Marketing and/or Business Management  would be an added advantage </li>
+                            <li>Age – below 45 years</li>
+                            <li>Should have at least 15 years’ extensive and progressive experience in Building/ Road/ Water Projects, and multi – functional roles, with minimum 5 years in a Senior Management position in a well reputed company, preferably in engineering sector.</li>
+                        </ul> 
+                        </p>
+                        <p>An attractive salary with other fringe benefits to commensurate with qualifications and experience will be on offer to the selected candidate.</p>
+                        <p>Candidates domiciled in Gampaha/Kadawatha/Kiribathgoda/Kandana/Negombo/Wattala/Ragama/J-Ela are preferable. Please indicate the post applied for on the top left hand corner of the envelope or the subject line of the e-mail.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <p>Email: hrd@ussengineering.com</p>
+                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Quantity Survayor -->
+        <div class="modal fade" id="qsModal" role = "dialog">
+            <div class="modal-dialog">
+                <!-- Modal Content -->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss = "modal">&times;</button>
+                        <h4 class="modal-title"> Whatever Engineer</h4>
+                    </div>
+                    <div class="modal-body">
+                        Bugs
+                    </div>
+                    <div class="modal-footer">
+                        <p>Email: hrd@ussengineering.com</p>
+                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Technical Officer -->
+        <div class="modal fade" id="toModal" role = "dialog">
+            <div class="modal-dialog">
+                <!-- Modal Content -->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss = "modal">&times;</button>
+                        <h4 class="modal-title"> Whatever Engineer</h4>
+                    </div>
+                    <div class="modal-body">
+                        Bugs
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Supervisor -->
+        <div class="modal fade" id="svModal" role = "dialog">
+            <div class="modal-dialog">
+                <!-- Modal Content -->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss = "modal">&times;</button>
+                        <h4 class="modal-title"> Whatever Engineer</h4>
+                    </div>
+                    <div class="modal-body">
+                        Bugs
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Store Keeper -->
+        <div class="modal fade" id="skModal" role = "dialog">
+            <div class="modal-dialog">
+                <!-- Modal Content -->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss = "modal">&times;</button>
+                        <h4 class="modal-title"> Whatever Engineer</h4>
+                    </div>
+                    <div class="modal-body">
+                        Bugs
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Call to Action Section -->
         <?php include "includes/footer.php" ?>
 </body>

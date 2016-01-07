@@ -21,7 +21,7 @@
         <!-- Intro Content -->
         <div class="row">
             <div class="col-md-5">
-                <img class="img-responsive" src="images/group.jpg">
+                <img class="img-responsive" src="images/about.jpg">
             </div>
             <div class="col-md-7">
                 <p style="text-align: justify;">U.S.S Engineering (Pvt)Ltd. commenced industrial operations in 1980, and ventured into diverse engineering fields over the past 35 years.</p>                
@@ -39,7 +39,7 @@
                 <h2 class="page-header">Board of Directors</h2>
             </div>
 
-            <div class="col-md-4 text-center">
+                <div class="col-md-4 text-center">
                     <div class="thumbnail">
                         <div class="caption">
                             <h3>Mr. K.A.U. Thalangama<br>

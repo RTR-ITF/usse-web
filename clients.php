@@ -355,7 +355,7 @@
                                   <li>
                                     <figure>            
                                     <!-- link to the image        -->
-                                   <img src="clientLogos/slt2.png">   
+                                   <img src="clientLogos/slt.png">   
 
                                         <figcaption>
                                           <h4>Projects done</h4>
