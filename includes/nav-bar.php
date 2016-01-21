@@ -13,7 +13,7 @@
             <div class="span8">
                 <ul id="navigation" class="slimmenu right-to-left">
                     <li ><a href="about.php">About us<span class="menu-highlight"></a></li>
-                    <li><a href="services.php">Product & Services<span class="menu-highlight"></a></li>
+                    <li><a href="services.php">Products & Services<span class="menu-highlight"></a></li>
                     <li><a href="clients.php">Clients<span class="menu-highlight"></a></li>
                     <li><a href="news-events.php">News & Events<span class="menu-highlight"></span></a></li>
                     <li><a href="careers.php">Careers<span class="menu-highlight"></span></a></li>
@@ -23,8 +23,11 @@
 
           </div>
             <!-- /.navbar-collapse -->
-    </nav>
-    
+            <div class="bfh-selectbox bfh-fonts">
+            <h4 style='margin-left: 10%; padding-top:40px; padding-left:100px; font-family:"Brush Script MT"; color:white;' ><b>We Engineer Your Future ...</b></h4>
+        </div> 
+        </nav>
+            
         <!-- /.container -->
 
 </div>

@@ -21,7 +21,7 @@
             <div class="panel-body">
             	<h4>
                 	<p style="text-align: initial">
-                	 U.S.S. Engineering (Pvt.) Ltd., is an ISO 9001:2008 certified, ICTAD EM1 & C2 graded company, engaged in the Engineering industry for over 30 years. As part of the company’s expansion programme, we are looking for well experienced and passionate individuals, for the following positions.
+                	 U.S.S. Engineering (Pvt.) Ltd., is an ISO 9001:2008 certified, CIDA(ICTAD) EM1 & C2 graded company, engaged in the Engineering industry for over 30 years. As part of the company’s expansion programme, we are looking for well experienced and passionate individuals, for the following positions.
            			</p>
            		</h4>
             </div>
@@ -40,7 +40,7 @@
                     <div class="thumbnail">
                         <button class="caption" data-toggle="modal" data-target = "#qsModal">
                             <h3>Quantity Surveyor<br>
-                                <small>Candidates should have NCT Diploma or equivalent  in Quantity Surveying.</small>
+                                <small>Candidates should have NCT/Diploma or equivalent  in Quantity Surveying.</small>
                             </h3>
                         </button>
                     </div>
@@ -79,7 +79,7 @@
             </div>
             <div class="container">
                     <h3> Candidates for all categories above, should meet the following General Eligibility Requirements. </h3>
-                    <ul>
+                    <ul class="" style="padding-left: 30px">
                     <li>5 years’ experience in Buildings & Water Projects</li>
                     <li>Age below 50 years</li>
                     <li>Planning / Communication skills with high sense of responsibility</li>
@@ -90,7 +90,7 @@
 
             </div>
             <div>
-                <p> <b>Please send your CVs to the email – <i> hrd@ussengineering.com </i></b></p>
+                <p> <b>Please send your CVs to the email : <i> hrd@ussengineering.com / info@ussengineering.com </i></b></p>
 
            <!--  <div id="php_form">
                 <form method="POST" name="email_form_with_php"
@@ -118,20 +118,20 @@
             <div class="modal-dialog">
                 <!-- Modal Content -->
                 <div class="modal-content">
-                    <div class="modal-header">
+                    <div class="modal-header"style="background-color:#58ACFA">
                         <button type="button" class="close" data-dismiss = "modal">&times;</button>
-                        <h4 class="modal-title"> Civil Engineer</h4>
+                        <h4 class="modal-title" > Civil Engineer</h4>
                     </div>
                     <div class="modal-body">
                         <p> Selected candidate will be responsible for the overall management of the civil engineering arm of the company, who should,</p>
-                        <ul>
+                        <ul style="padding-left:10px;">
                             <li> Plan and guide the operations of the Division as per the requirements of clients.</li>
                             <li> Should develop & expand the Division’s operations.</li>
                             <li> Have keen business acumen with the ability to implement initiatives to win business.</li>
                         </ul>
                         <p>
                             <b> Eligibility Criteria.</b>
-                            <ul>
+                        <ul style="padding-left:10px" >
                             <li>B.Sc. Degree in Civil Engineering (Chartered Engineers are preferable)</li>
                             <li>Additional  qualification in Marketing and/or Business Management  would be an added advantage </li>
                             <li>Age – below 45 years</li>
@@ -141,9 +141,14 @@
                         <p>An attractive salary with other fringe benefits to commensurate with qualifications and experience will be on offer to the selected candidate.</p>
                         <p>Candidates domiciled in Gampaha/Kadawatha/Kiribathgoda/Kandana/Negombo/Wattala/Ragama/J-Ela are preferable. Please indicate the post applied for on the top left hand corner of the envelope or the subject line of the e-mail.</p>
                     </div>
-                    <div class="modal-footer">
-                        <p>Email: hrd@ussengineering.com</p>
-                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                    <div class="modal-footer ">
+                        <div class="col-md-3">
+                            <img src="company-logo/logo-careers.png">
+                        </div>
+                        <div class="col-md-9" style="padding-top:10px;">
+                            <p>Email: hrd@ussengineering.com</p>                            
+                            <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                        </div>
                     </div>
                 </div>
             </div>

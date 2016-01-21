@@ -13,7 +13,7 @@
 				<div class="row">
 					
 					<div class="col-md-3 widget">
-						<h3 class="widget-title">Contact</h3>
+						<h3 class="widget-title">City Office</h3>
 						<div class="widget-body">
 						<table>
 							<tr title="Address">
@@ -21,7 +21,50 @@
 										<i class="fa fa-map-marker"></i>
 								</td>
 								<td>
-											397, Galahitiyawa <br>South Ganemulla, Sri Lanka
+											24, Rosmead Place, <br>Colombo 7.
+							</tr>
+							
+							<tr title="Hotline">
+								<td>
+										<i class="fa fa-phone"></i>
+								</td>
+								<td>
+											+94 (0)112 696455
+								</td>
+							</tr>
+							
+							<tr title="Fax">
+								<td>
+										<i class="fa fa-fax"></i>
+								</td>
+								<td >
+											+94 (0)112 683455
+								</td>
+							</tr>
+							
+							<tr title="email">
+								<td>
+										<i class="fa fa-envelope"></i>
+								</td>
+								<td>
+											<a href="mailto:info@ussengineering.com?Subject=Enquiry from U.S.S Engineering web site" class="email">info@ussengineering.com</a>
+								</td>
+							</tr>
+						</table>
+
+
+						</div>
+					</div>
+					<div class="col-md-3 widget">
+						<h3 class="widget-title">Head Office & Factory</h3>
+						<div class="widget-body">
+						<table>
+							<tr title="Address">
+								<td align="top">
+										<i class="fa fa-map-marker"></i>
+								</td>
+								<td>
+											397, Galahitiyawa South,<br> Ganemulla, Sri Lanka
 							</tr>
 							
 							<tr title="Hotline">
@@ -72,11 +115,24 @@
 					<div class="col-md-6 widget">
 						<h3 class="widget-title">U.S.S. Engineering (PVT) LTD </h3>
 						<div class="widget-body">
-							<p style="text-align: justify;">USS Engineering ( Pvt ) Ltd possesses expertise in a vast range of engineering fields, mainly in the Manufacture, Fabrication and Galvanizing of steel products, Manufacture of reinforced concrete poles, Batching of ready-mix concrete, Construction of highways and commercial buildings, Assembly ( imminently embarking on manufacture ) of water meters, Power transmission and distribution, and in Telecommunication Projects.</p>
-							
+							<!-- <p style="text-align: justify;">
+							USS Engineering ( Pvt ) Ltd possesses expertise in a vast range of engineering fields, mainly in the Manufacture,
+							 Fabrication and Galvanizing of steel products, Manufacture of reinforced concrete poles, Batching of ready-mix concrete,
+							  Construction of highways and commercial buildings, Assembly ( imminently embarking on manufacture ) of water meters,
+							   Power transmission and distribution, and in Telecommunication Projects.</p> -->
+							   <h6>
+							   <ul>
+							   	<li> Construction Contractors of Highways, Buildings, Water Supply Schemes, Power Transmission Lines, Grid Sub-stations & Telecommunication Services.</li>
+							   	<li> Designers & Suppliers of Pre-fabricated Steel Structures.</li>
+							   	<li> Manufacturers of R.C Poles & Concrete Products such as Septic tanks, Sockage pits, Man holes etc.</li>
+							   	<li> Manufacturers of Galvanized/Ungalvanized Steel Accessories for Transmission of Power and Telecommunication.</li>
+							   	<li> Importers and Suppliers to Sri Lanka Railways, Ceylon Electricity Board, Sri Lanka Telecom & National Water Supply & Drainage Board.</li>
+							   	<li> Providers of Engineering Designs and Consultancy Services</li>
+							   </ul>
+								</h6>
 
 							<br>
-							<h4 title="Download company profile"><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS Engineering company profile.pdf" target="_BLANK"> Company Profile</a></h4>
+							<h4 title="Download company profile"><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS_profile.pdf" target="_BLANK"> Company Profile</a></h4>
 						</div>
 					</div>
 

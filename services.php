@@ -70,19 +70,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="panel panel-default text-center zoom">
-                    <div class="panel-heading">
-                        <img src="servicesphoto/tomal.JPG">
-                    </div>
-                    <div class="panel-body">
-                        <h4>LED Bulbs</h4>
-                        <p style="text-align: initial">
-                            “TOMA LIGHT” is  our new product for Sri Lanka. This LED tube light is currently produced in Japan, and we are the sole agent and distributor of this product in Sri Lanka. Also, we plan to install a manufacturing plant for this product in Sri lanka,in the near future.                           
-                        </p>
-                    </div>
-                </div>
-            </div>
+            
             
         </div> <div class="row" id="services">
             <div class="col-lg-12">
@@ -157,7 +145,7 @@ We have effectively made our contribution towards achieving the Government’s o
                         <img src="servicesphoto/electicalconstruction.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
-                        <h4>Electrical Engieering & Construction</h4>
+                        <h4>Electrical Engieering Work</h4>
                         <p style="text-align: initial">
                         With the guidance of experienced professionals, our organization has engineered a variety of notable projects for the Government and the Private Sector. We undertake any project, upon careful assessment of the client's requirement, in order to deliver the best solution.
                         </p>
@@ -247,6 +235,19 @@ We have effectively made our contribution towards achieving the Government’s o
                         <p style="text-align: initial">
                         High/Low voltage underground or power cables, ACSR (Lynx, Racoon), AAC & AAAC conductors, Multi pair telephone cables,
                         Co-axial xables and Fiber opticals are imported and supplied Islandwide.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center zoom">
+                    <div class="panel-heading">
+                        <img src="servicesphoto/tomal.JPG">
+                    </div>
+                    <div class="panel-body">
+                        <h4>LED Bulbs</h4>
+                        <p style="text-align: initial">
+                            “TOMA LIGHT” is  our new product for Sri Lanka. This LED tube light is currently produced in Japan, and we are the sole agent and distributor of this product in Sri Lanka. Also, we plan to install a manufacturing plant for this product in Sri lanka,in the near future.                           
                         </p>
                     </div>
                 </div>

@@ -53,7 +53,7 @@
                         <h3>Careers</h3>
                     </div>
                     <div class="panel-body">
-                        <p>Careers at U.S.S ENgineering. </p>                
+                        <p>Careers at U.S.S Engineering. </p>                
                         <a href="careers.php" ><h4> More...</h4></a>
                     </div>
                 </div>
