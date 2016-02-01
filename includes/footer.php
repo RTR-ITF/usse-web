@@ -103,9 +103,9 @@
 						<h3 class="widget-title">Get in touch with us</h3>
 						<div class="widget-body">
 							<p class="follow-me-icons">
-								<a href=""><i >&#xf09a</i></a> <!-- facebook -->
-								<a  href=""><i >&#xf08c</i></a>	<!-- linked in -->
-								<a  href=""><i >&#xf099</i></a>	<!-- twitter -->
+								<a href="https://www.facebook.com/usse.srilanka"><i >&#xf09a</i></a> <!-- facebook -->
+								<a  href="https://lk.linkedin.com/in/usse-sri-lanka-622645113"><i >&#xf08c</i></a>	<!-- linked in -->
+								<a  href="https://twitter.com/InfoUsse"><i >&#xf099</i></a>	<!-- twitter -->
 
 							</p>
 							<br>							
