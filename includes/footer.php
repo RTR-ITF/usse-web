@@ -106,7 +106,7 @@
 								<a href=""><i >&#xf09a</i></a> <!-- facebook -->
 								<a  href=""><i >&#xf08c</i></a>	<!-- linked in -->
 								<a  href=""><i >&#xf099</i></a>	<!-- twitter -->
-								<a  href=""><i >&#xf0d5</i></a>	<!-- google plus -->
+
 							</p>
 							<br>							
 						</div>
