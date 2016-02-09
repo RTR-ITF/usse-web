@@ -23,7 +23,7 @@
         <div class="row">
             <div class="col-lg-12">
             <h2>24, Rosmead Place, Colombo 07, Sri Lanka.</h2>
-            <h4> <i class="fa fa-phone"></i> &nbsp<abbr title="Phone">Hotline</abbr>: +94 77 358 18 92, +94 77 226 00 67  &nbsp | &nbsp 
+            <h4> <i class="fa fa-phone"></i> &nbsp<abbr title="Phone">Hotline</abbr>: +94 77 358 18 92, +94 70 226 00 67  &nbsp | &nbsp
                             <i class="fa fa-envelope-o"></i> &nbsp
                                 <abbr title="Email">Email </abbr>: <a href="mailto:info@ussengineering.com">info@ussengineering.com<br></a>
                             </h4>

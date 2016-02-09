@@ -118,12 +118,13 @@
             <div class="modal-dialog">
                 <!-- Modal Content -->
                 <div class="modal-content">
-                    <div class="modal-header"style="background-color:#58ACFA">
+                    <div class="modal-header" style="background-color:#58ACFA">
                         <button type="button" class="close" data-dismiss = "modal">&times;</button>
                         <h4 class="modal-title" > Civil Engineer</h4>
                     </div>
                     <div class="modal-body">
-                        <p> Selected candidate will be responsible for the overall management of the civil engineering arm of the company, who should,</p>
+                        <p> Selected candidate will be
+                            responsible for the overall management of the civil engineering arm of the company, who should,</p>
                         <ul style="padding-left:10px;">
                             <li> Plan and guide the operations of the Division as per the requirements of clients.</li>
                             <li> Should develop & expand the Division’s operations.</li>
@@ -131,12 +132,12 @@
                         </ul>
                         <p>
                             <b> Eligibility Criteria.</b>
-                        <ul style="padding-left:10px" >
-                            <li>B.Sc. Degree in Civil Engineering (Chartered Engineers are preferable)</li>
-                            <li>Additional  qualification in Marketing and/or Business Management  would be an added advantage </li>
-                            <li>Age – below 45 years</li>
-                            <li>Should have at least 15 years’ extensive and progressive experience in Building/ Road/ Water Projects, and multi – functional roles, with minimum 5 years in a Senior Management position in a well reputed company, preferably in engineering sector.</li>
-                        </ul> 
+                            <ul style="padding-left:10px" >
+                                <li>B.Sc. Degree in Civil Engineering (Chartered Engineers are preferable)</li>
+                                <li>Additional  qualification in Marketing and/or Business Management  would be an added advantage </li>
+                                <li>Age – below 45 years</li>
+                                <li>Should have at least 15 years’ extensive and progressive experience in Building/ Road/ Water Projects, and multi – functional roles, with minimum 5 years in a Senior Management position in a well reputed company, preferably in engineering sector.</li>
+                            </ul>
                         </p>
                         <p>An attractive salary with other fringe benefits to commensurate with qualifications and experience will be on offer to the selected candidate.</p>
                         <p>Candidates domiciled in Gampaha/Kadawatha/Kiribathgoda/Kandana/Negombo/Wattala/Ragama/J-Ela are preferable. Please indicate the post applied for on the top left hand corner of the envelope or the subject line of the e-mail.</p>
@@ -158,16 +159,21 @@
             <div class="modal-dialog">
                 <!-- Modal Content -->
                 <div class="modal-content">
-                    <div class="modal-header">
+                    <div class="modal-header" style="background-color:#58ACFA">
                         <button type="button" class="close" data-dismiss = "modal">&times;</button>
-                        <h4 class="modal-title"> Whatever Engineer</h4>
+                        <h4 class="modal-title"> Quantity Surveyor</h4>
                     </div>
                     <div class="modal-body">
-                        Bugs
+                       Vacancy Notice will be published soon
                     </div>
                     <div class="modal-footer">
-                        <p>Email: hrd@ussengineering.com</p>
-                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                        <div class="col-md-3">
+                            <img src="company-logo/logo-careers.png">
+                        </div>
+                        <div class="col-md-9" style="padding-top:10px;">
+                            <p>Email: hrd@ussengineering.com</p>
+                            <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -177,15 +183,21 @@
             <div class="modal-dialog">
                 <!-- Modal Content -->
                 <div class="modal-content">
-                    <div class="modal-header">
+                    <div class="modal-header"style="background-color:#58ACFA">
                         <button type="button" class="close" data-dismiss = "modal">&times;</button>
-                        <h4 class="modal-title"> Whatever Engineer</h4>
+                        <h4 class="modal-title">Technical Officer</h4>
                     </div>
                     <div class="modal-body">
-                        Bugs
+                        Vacancy Notice will be published soon
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                        <div class="col-md-3">
+                            <img src="company-logo/logo-careers.png">
+                        </div>
+                        <div class="col-md-9" style="padding-top:10px;">
+                            <p>Email: hrd@ussengineering.com</p>
+                            <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -195,15 +207,21 @@
             <div class="modal-dialog">
                 <!-- Modal Content -->
                 <div class="modal-content">
-                    <div class="modal-header">
+                    <div class="modal-header"style="background-color:#58ACFA">
                         <button type="button" class="close" data-dismiss = "modal">&times;</button>
-                        <h4 class="modal-title"> Whatever Engineer</h4>
+                        <h4 class="modal-title"> Supervisor</h4>
                     </div>
                     <div class="modal-body">
-                        Bugs
+                        Vacancy Notice will be published soon
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                        <div class="col-md-3">
+                            <img src="company-logo/logo-careers.png">
+                        </div>
+                        <div class="col-md-9" style="padding-top:10px;">
+                            <p>Email: hrd@ussengineering.com</p>
+                            <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -213,15 +231,21 @@
             <div class="modal-dialog">
                 <!-- Modal Content -->
                 <div class="modal-content">
-                    <div class="modal-header">
+                    <div class="modal-header"style="background-color:#58ACFA">
                         <button type="button" class="close" data-dismiss = "modal">&times;</button>
-                        <h4 class="modal-title"> Whatever Engineer</h4>
+                        <h4 class="modal-title"> Store Keeper</h4>
                     </div>
                     <div class="modal-body">
-                        Bugs
+                        Vacancy Notice will be published soon
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                        <div class="col-md-3">
+                            <img src="company-logo/logo-careers.png">
+                        </div>
+                        <div class="col-md-9" style="padding-top:10px;">
+                            <p>Email: hrd@ussengineering.com</p>
+                            <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
+                        </div>
                     </div>
                 </div>
             </div>

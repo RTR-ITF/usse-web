@@ -1,17 +1,10 @@
-            
-</div>
-</div>
-</div>
+
 <a href="#" class="scrollup"><img src="company-logo/top.png"></a>
         <!-- Footer -->
 		<footer id="footer" class="top-space">
-
-			
-			
 			<div class="footer1">
 			<div class="container" style="margin-top:0;">
 				<div class="row">
-					
 					<div class="col-md-3 widget">
 						<h3 class="widget-title">City Office</h3>
 						<div class="widget-body">
@@ -21,9 +14,8 @@
 										<i class="fa fa-map-marker"></i>
 								</td>
 								<td>
-											24, Rosmead Place, <br>Colombo 7.
+									24, Rosmead Place, <br>Colombo 7.
 							</tr>
-							
 							<tr title="Hotline">
 								<td>
 										<i class="fa fa-phone"></i>
@@ -32,7 +24,6 @@
 											+94 (0)112 696455
 								</td>
 							</tr>
-							
 							<tr title="Fax">
 								<td>
 										<i class="fa fa-fax"></i>
@@ -41,7 +32,6 @@
 											+94 (0)112 683455
 								</td>
 							</tr>
-							
 							<tr title="email">
 								<td>
 										<i class="fa fa-envelope"></i>
@@ -51,8 +41,6 @@
 								</td>
 							</tr>
 						</table>
-
-
 						</div>
 					</div>
 					<div class="col-md-3 widget">
@@ -104,8 +92,8 @@
 						<div class="widget-body">
 							<p class="follow-me-icons">
 								<a href="https://www.facebook.com/usse.srilanka"><i >&#xf09a</i></a> <!-- facebook -->
-								<a  href="https://lk.linkedin.com/in/usse-sri-lanka-622645113"><i >&#xf08c</i></a>	<!-- linked in -->
-								<a  href="https://twitter.com/InfoUsse"><i >&#xf099</i></a>	<!-- twitter -->
+								<a  href="https://lk.linkedin.com/in/ussengineering"><i >&#xf08c</i></a>	<!-- linked in -->
+								<a  href="https://twitter.com/uss_engineering"><i >&#xf099</i></a>	<!-- twitter -->
 
 							</p>
 							<br>							
@@ -141,7 +129,7 @@
 		</div>
 			
 			<div class="footer2">
-			<div class="container"  style="margin-top: 0;">
+			<div class="container"  style="margin-bottom: 0;">
 				<div class="row">
 
 					<div class="col-md-6 widget">

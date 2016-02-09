@@ -7,7 +7,8 @@
                 </div> 
 				<div id="company_name">
                     <h3 style='    font-family: "brand_font";'> U.S.S. Engineering </h3></div>
-                <div id="company_name_ltd">  <h5 style='  font-family: "brand_font";'>(PVT) LTD</h5></div>
+                <div id="company_name_ltd">  <h5 style='  font-family: "brand_font";'>(PVT) LTD. since 1980 </h5>
+                                             </div>
              </a>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="span8">
@@ -23,11 +24,10 @@
 
           </div>
             <!-- /.navbar-collapse -->
-            <div class="bfh-selectbox bfh-fonts">
-            <h4 style='margin-left: 10%; padding-top:40px; padding-left:100px; font-family:"Brush Script MT"; color:white;' ><b>We Engineer Your Future ...</b></h4>
-        </div> 
+            <div class=" bfh-selectbox bfh-fonts row" style="width:850px;">
+            <h4 class="col-md-8 future"  ><b>We Engineer Your Future ...</b></h4>
+            </div> 
         </nav>
             
         <!-- /.container -->
 
-</div>
