@@ -79,7 +79,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                       <img src="servicesphoto/buildings.BMP" style="width:100%">                        
+                       <img src="servicesphoto/buildings.PNG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Buildings</h4>

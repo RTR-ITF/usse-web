@@ -1,7 +1,6 @@
-
-<a href="#" class="scrollup"><img src="company-logo/top.png"></a>
+	<a href="#" class="scrollup"><img src="company-logo/top.png"></a>
         <!-- Footer -->
-		<footer id="footer" class="top-space">
+		<footer id="footer" style="width:inherit;">
 			<div class="footer1">
 			<div class="container" style="margin-top:0;">
 				<div class="row">
@@ -157,8 +156,7 @@
 			</div>
 		</div>
 
-		</footer>
-
+	</footer>
     <!-- /.container -->
 
     <!-- jQuery -->
@@ -170,6 +168,7 @@
 	
 	<script src="js/messi.js"></script>
 	<script src="js/uss_web.js"></script>
+
 
 
 

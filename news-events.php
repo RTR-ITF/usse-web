@@ -40,7 +40,7 @@
      </article> 
     <article class="story-item row">
         <h2 class="story-title" >
-        <a href="news2.php">Sewerage Plant at <b>Water Board</b> </a></h2>
+        <a href="news2.php">Sewerage Plant at <b>Sripadasthanaya</b> </a></h2>
 
          <div class="story-body">
 

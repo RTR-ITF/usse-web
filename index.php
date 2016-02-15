@@ -1,5 +1,5 @@
 <?php include "includes/header.php" ?>
-<body>
+<body style="width: 100%;">
 
     <!-- Navigation -->
     
@@ -7,14 +7,12 @@
     <?php include "includes/slider-home.php" ?>
 
 
-
     <!-- Page Content -->
-    <div class="container">
+    <div>
 	
-
+        <div class="container">
         <!-- Marketing Icons Section -->
         <div class="row">
-            <div class="col-md-12"><h3></h3></div>
             <div class="col-md-3">
                 <div class="panel panel-default short-description">
                     <div class="panel-heading">
@@ -58,6 +56,7 @@
                     </div>
                 </div>
             </div>
+        </div>
         </div>
        
 
