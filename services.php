@@ -35,7 +35,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                      <img src="servicesphoto/steelhardwareproducts.JPG" style="width:100%">
+                      <img src="servicesphoto/steelhardwareproducts.jpg" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Steel Hardware Products</h4>
@@ -47,7 +47,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/steel fabrication.JPG" style="width:100%">   
+                        <img src="servicesphoto/steelfabrication.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Steel Fabrication</h4>
@@ -60,18 +60,18 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                       <img src="servicesphoto/concrete products.JPG" style="width:100%">
+                       <img src="servicesphoto/concreteproducts.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Concrete Products</h4>
                         <p style="text-align: initial">
-                        Our reinforced Concrete Poles Manufacturing unit is playing a major role. We are the first choice of CEB, LECO and SLT. During the  past 2 decades, we have delivered concrete poles with superior quality,and we have our own manufacturing yards islandwide. All our concrete poles are customized and made to order,with attractive prices. 
+                        Our reinforced Concrete Poles Manufacturing unit is playing a major role. We are the first choice of CEB, LECO and SLT. During the  past 2 decades, we have delivered concrete poles with superior quality,and we have our own manufacturing yards islandwide. All our concrete poles are customized and made to order,with attractive prices.
                         </p>
                     </div>
                 </div>
             </div>
-            
-            
+
+
         </div> <div class="row" id="services">
             <div class="col-lg-12">
                 <h2 class="page-header">Services</h2>
@@ -84,7 +84,7 @@
                     <div class="panel-body">
                         <h4>Buildings</h4>
                         <p style="text-align: initial">
-                           We construct sophisticated, elegant structures to the highest standards. Our emphasis is on accuracy, quality and customer satisfaction. Since our past services to the building construction, have been excellent, today we are highly respected by our clientele. We are fully geared to take on the requirements of our clients, with integrity, passion for architecture and high standards, in order to realize their projects' potential. 
+                           We construct sophisticated, elegant structures to the highest standards. Our emphasis is on accuracy, quality and customer satisfaction. Since our past services to the building construction, have been excellent, today we are highly respected by our clientele. We are fully geared to take on the requirements of our clients, with integrity, passion for architecture and high standards, in order to realize their projects' potential.
                         </p>
                     </div>
                 </div>
@@ -97,7 +97,7 @@
                     <div class="panel-body">
                         <h4>Highways</h4>
                         <p style="text-align: initial">
-                            Over the past several years,we have successfully accomplished projects involving Earth work, Structural work, Culverts, Bridges, Line drains, Causeways, Irrigation structures, Asphalt Laying, DBST Laying, Road Making and Installation of Sign Boards. 
+                            Over the past several years,we have successfully accomplished projects involving Earth work, Structural work, Culverts, Bridges, Line drains, Causeways, Irrigation structures, Asphalt Laying, DBST Laying, Road Making and Installation of Sign Boards.
                         </p>
                     </div>
                 </div>
@@ -129,7 +129,7 @@ We have effectively made our contribution towards achieving the Government’s o
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/Tel. Eng. construction work.JPG" style="width:100%">
+                        <img src="servicesphoto/Tel.Eng.constructionwork.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Telecommunication Engineering & Construction Work</h4>
@@ -165,7 +165,7 @@ We have effectively made our contribution towards achieving the Government’s o
                     </div>
                 </div>
             </div>
-           
+
         </div>
         <div class="row" id="imports">
             <div class="col-lg-12">
@@ -184,7 +184,7 @@ We have effectively made our contribution towards achieving the Government’s o
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
@@ -214,7 +214,7 @@ We have effectively made our contribution towards achieving the Government’s o
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/steel hardware items.JPG" style="width:100%">
+                        <img src="servicesphoto/steelhardwareitems.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Steel Items</h4>
@@ -228,7 +228,7 @@ We have effectively made our contribution towards achieving the Government’s o
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center zoom">
                     <div class="panel-heading">
-                        <img src="servicesphoto/elec. tel. cables.JPG" style="width:100%">
+                        <img src="servicesphoto/elec.tel.cables.JPG" style="width:100%">
                     </div>
                     <div class="panel-body">
                         <h4>Electrical & Telecom Cables</h4>
@@ -247,12 +247,12 @@ We have effectively made our contribution towards achieving the Government’s o
                     <div class="panel-body">
                         <h4>LED Bulbs</h4>
                         <p style="text-align: initial">
-                            “TOMA LIGHT” is  our new product for Sri Lanka. This LED tube light is currently produced in Japan, and we are the sole agent and distributor of this product in Sri Lanka. Also, we plan to install a manufacturing plant for this product in Sri lanka,in the near future.                           
+                            “TOMA LIGHT” is  our new product for Sri Lanka. This LED tube light is currently produced in Japan, and we are the sole agent and distributor of this product in Sri Lanka. Also, we plan to install a manufacturing plant for this product in Sri lanka,in the near future.
                         </p>
                     </div>
                 </div>
             </div>
-            
+
         </div>
         <!-- Service Tabs -->
 

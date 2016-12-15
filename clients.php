@@ -108,7 +108,7 @@
                         <ul class="grid cs-style-5">
                             <li>
                                 <figure>
-                                    <img src="clientLogos/ceb.png">
+                                    <img src="clientLogos/CEB.png">
                                 </figure>
 
                             </li>
@@ -306,7 +306,7 @@
                     <ul class="grid cs-style-5">
                         <li>
                             <figure>
-                                <img src="clientLogos/leco.png">
+                                <img src="clientLogos/leco.PNG">
 
                         </li>
                     </ul>
@@ -317,7 +317,7 @@
                     <ul class="grid cs-style-5">
                         <li>
                             <figure>
-                                <img src="clientLogos/ceb.png">
+                                <img src="clientLogos/CEB.png">
 
                         </li>
                     </ul>
@@ -395,7 +395,7 @@
 
                     <ul class="grid cs-style-5">
                         <li>
-                            <figure>                                   <img src="clientLogos/boi.png">
+                            <figure>                                   <img src="clientLogos/BOI.png">
 
                         </li>
                     </ul>
@@ -461,7 +461,7 @@
                     <ul class="grid cs-style-5">
                         <li>
                             <figure>
-                                <img src="clientLogos/dhl.png">
+                                <img src="clientLogos/DHL.png">
                         </li>
                     </ul>
 

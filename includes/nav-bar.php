@@ -4,7 +4,7 @@
             <a class="navbar-brand" href="index.php" style="width: 100px; height: 80px;">
                 <div id="logo" class="col-md-3">
                     <img src="company-logo/logo_new.png">
-                </div> 
+                </div>
 				<div id="company_name" class="col-md-6">
                     <h3 style='    font-family: "brand_font";'> U.S.S. Engineering </h3>
                 </div>
@@ -37,19 +37,7 @@
             </div>
 
           </div>
-            <!-- /.navbar-collapse -->
-     <script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
-     <div id="SkypeButton_Call_farniza.fathi1_1"class="pull-right" style="padding-top: 30px;">
-         <script type="text/javascript">
-             Skype.ui({
-                 "name": "dropdown",
-                 "element": "SkypeButton_Call_farniza.fathi1_1",
-                 "participants": ["farniza.fathi1"],
-                 "imageSize": 16
-             });
-         </script>
-     </div>
+      
         </nav>
-            
-        <!-- /.container -->
 
+        <!-- /.container -->

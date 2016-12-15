@@ -1,83 +1,84 @@
 <?php include "includes/header.php" ?>
 <body>
-	
+
 	    <!-- Navigation -->
-    
+
     	<?php include "includes/nav-bar.php" ?>
 
     	<div class="container">
-    	<div class="row" style="margin-top: 50px;">
+    	  <div class="row" style="margin-top: 50px;">
             <div class="col-lg-12">
                 <h1>You are Welcome !</h1>
-               
+
             </div>
-        </div>	
+        </div>
         <div class="row"  id="products">
-            <div class="col-lg-12">
-            </div>
-            <div class="panel-heading">
-            	<img src="images/careers.PNG" style="width:100%">
-            </div>
-            <div class="panel-body">
-            	<h4>
-                	<p style="text-align: initial">
-                	 U.S.S. Engineering (Pvt.) Ltd., is an ISO 9001:2008 certified, CIDA(ICTAD) EM1 & C2 graded company, engaged in the Engineering industry for over 30 years. As part of the company’s expansion programme, we are looking for well experienced and passionate individuals, for the following positions.
-           			</p>
-           		</h4>
-            </div>
-            
-            <div class="container">
-                <div class="col-md-4 text-center">
-                    <div class="thumbnail">
-                        <button class="caption" data-toggle="modal" data-target = "#ceModal">
-                            <h3>Civil Engineer<br>
-                                <small>Candidates should have a Bachelor’s Degree or equivalent in Civil Engineering.</small>
-                            </h3>
-                        </button>
-                    </div>
-                </div>
-                <div class="col-md-4 text-center">
-                    <div class="thumbnail">
-                        <button class="caption" data-toggle="modal" data-target = "#qsModal">
-                            <h3>Quantity Surveyor<br>
-                                <small>Candidates should have NCT/Diploma or equivalent  in Quantity Surveying.</small>
-                            </h3>
-                        </button>
-                    </div>
-                </div>
-                <div class="col-md-4 text-center">
-                    <div class="thumbnail">
-                        <button class="caption" data-toggle="modal" data-target = "#toModal">
-                            <h3>Technical Officer<br>
-                                <small>Candidates should have Certificate or Diploma (NDT/HNDE/NDES or Similar) in Civil Engineering or any relevant Technical stream.</small>
-                            </h3>
-                        </button>
-                    </div>
-                </div>
-                <div class="col-md-4 text-center">
-                    <div class="thumbnail">
-                        <button class="caption" data-toggle="modal" data-target = "#svModal">
-                            <h3>Supervisor<br>
-                                <small>Candidates should have Certificate/Diploma or Similar in Civil Engineering.</small>
-                            </h3>
-                        </button>
-                    </div>
-                </div>
-                <div class="col-md-4 text-center">
-                    <div class="thumbnail">
-                        <button class="caption" data-toggle="modal" data-target = "#skModal">
-                            <h3>Store Keeper <br>
-                                <small>Candidates should have Full/Part qualification in Supply/Material/Stores Management.</small>
-                            </h3>
-                        </button>
-                    </div>
-                </div>
-               
-               
-                
-                
-            </div>
-            <div class="container">
+	        <div class="col-lg-12">
+	        </div>
+	        <div class="panel-heading">
+	            	<img src="images/careers.png" style="width:100%">
+	        </div>
+	        <div class="panel-body">
+	            	<h4>
+	                	<p style="text-align: initial">
+	                	 U.S.S. Engineering (Pvt.) Ltd., is an ISO 9001:2008 certified, CIDA(ICTAD) EM1 & C2 graded company, engaged in the Engineering industry for over 30 years. As part of the company’s expansion programme, we are looking for well experienced and passionate individuals, for the following positions.
+	           			</p>
+	           		</h4>
+	            </div>
+
+	        <div class="container">
+	          <div class="col-md-4 text-center">
+	              <div class="thumbnail">
+	                  <button class="caption" data-toggle="modal" data-target = "#ceModal">
+	                      <h3>Civil Engineer<br>
+	                          <small>Candidates should have a Bachelor’s Degree or equivalent in Civil Engineering.</small>
+	                      </h3>
+	                  </button>
+	              </div>
+	          </div>
+		        <div class="col-md-4 text-center">
+		                    <div class="thumbnail">
+		                        <button class="caption" data-toggle="modal" data-target = "#qsModal">
+		                            <h3>Quantity Surveyor<br>
+		                                <small>Candidates should have NCT/Diploma or equivalent  in Quantity Surveying.</small>
+		                            </h3>
+		                        </button>
+		                    </div>
+		                </div>
+		        <div class="col-md-4 text-center">
+		                    <div class="thumbnail">
+		                        <button class="caption" data-toggle="modal" data-target = "#toModal">
+		                            <h3>Technical Officer<br>
+		                                <small>Candidates should have Certificate or Diploma (NDT/HNDE/NDES or Similar) in Civil Engineering or any relevant Technical stream.</small>
+		                            </h3>
+		                        </button>
+		                    </div>
+		                </div>
+		        <div class="col-md-4 text-center">
+		                    <div class="thumbnail">
+		                        <button class="caption" data-toggle="modal" data-target = "#svModal">
+		                            <h3>Supervisor<br>
+		                                <small>Candidates should have Certificate/Diploma or Similar in Civil Engineering.</small>
+		                            </h3>
+		                        </button>
+		                    </div>
+		                </div>
+		        <div class="col-md-4 text-center">
+	                    <div class="thumbnail">
+	                        <button class="caption" data-toggle="modal" data-target = "#skModal">
+	                            <h3>Store Keeper <br>
+	                                <small>Candidates should have Full/Part qualification in Supply/Material/Stores Management.</small>
+	                            </h3>
+	                        </button>
+	                    </div>
+	                </div>
+					</div>
+
+
+
+
+        </div>
+        <div class="container">
                     <h3> Candidates for all categories above, should meet the following General Eligibility Requirements. </h3>
                     <ul class="" style="padding-left: 30px">
                     <li>5 years’ experience in Buildings & Water Projects</li>
@@ -85,34 +86,10 @@
                     <li>Planning / Communication skills with high sense of responsibility</li>
                     <li>Should be a team player with good inter-personnel skills</li>
                     </ul>
-                    
-
-
-            </div>
-            <div>
+        </div>
+        <div>
                 <p> <b>Please send your CVs to the email : <i> hrd@ussengineering.com / info@ussengineering.com </i></b></p>
-
-           <!--  <div id="php_form">
-                <form method="POST" name="email_form_with_php"
-                action="php-form-action.php" enctype="multipart/form-data"> 
-                 
-                    <label for='name'>Name: </label>
-                    <input type="text" name="name" >
-                     
-                    <label for='email'>Email: </label>
-                    <input type="text" name="email" >
-                     
-                    <label for='message'>Message:</label>
-                    <textarea name="message"></textarea>
-                     
-                    <label for='uploaded_file'>Select A File To Upload:</label>
-                    <input type="file" name="uploaded_file">
-                     
-                    <input type="submit" value="Submit" name='submit'>
-                </form>
-            </div> -->
-
-    	</div>
+    		</div>
         <!-- Civil Engineer -->
         <div class="modal fade" id="ceModal" role = "dialog">
             <div class="modal-dialog">
@@ -147,7 +124,7 @@
                             <img src="company-logo/logo-careers.png">
                         </div>
                         <div class="col-md-9" style="padding-top:10px;">
-                            <p>Email: hrd@ussengineering.com</p>                            
+                            <p>Email: hrd@ussengineering.com</p>
                             <button type="button" class="btn btn-default" data-dismiss = "modal">Close</button>
                         </div>
                     </div>
@@ -251,6 +228,8 @@
             </div>
         </div>
         <!-- Call to Action Section -->
+			</div>
         <?php include "includes/footer.php" ?>
+
 </body>
 </html>
