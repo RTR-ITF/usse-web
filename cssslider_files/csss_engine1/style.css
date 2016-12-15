@@ -687,12 +687,12 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_arrownext > label span:after {
   border-radius: 50%;
   margin: 0 5px;
   padding: 9px;
-  background: #000033;
+  background: #717176;
 }
 
 
 .csslider1 > .cs_bullets > label > .cs_thumb {
-  border: 3px solid #000033;
+  border: 3px solid #717176;
   margin-top: -150%;
   margin-left: 3px;
   -moz-transition: all 0.3s;
@@ -710,7 +710,7 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_arrownext > label span:after {
   border-left: 7px solid transparent;
   border-right: 7px solid transparent;
   
-  border-top: 7px solid #000033;
+  border-top: 7px solid #717176;
 }
 .csslider1 > .cs_bullets > label:hover > .cs_thumb {
   margin-top: -12px;
@@ -745,7 +745,7 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_arrownext > label span:after {
 .csslider1 > #cs_pause1_4:checked ~ .cs_bullets > label.num4 > .cs_point,
 .csslider1 > #cs_slide1_5:checked ~ .cs_bullets > label.num5 > .cs_point,
 .csslider1 > #cs_pause1_5:checked ~ .cs_bullets > label.num5 > .cs_point {
-  background: #3A4A5A;
+  background: #d3d3dd;
 }
 
 
@@ -901,7 +901,7 @@ _:-ms-input-placeholder, :root .csslider1 > .cs_arrownext > label span:after {
 font-weight: 100;
 }
 .csslider1 > .cs_description > label > .cs_title {
-  background-color: rgba(0, 0, 51, 0.5);
+  background-color: rgba(122, 122, 127, 0.5);
   margin: -5px 10px;
   opacity: 0;
   visibility: hidden;

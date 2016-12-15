@@ -92,7 +92,7 @@ ul.slimmenu li a {
 ul.slimmenu li a:hover {
     /*background-color: rgba(5,150,250,0.2);*/
     font-weight: 900;
-    color: #BFE7F5;;
+    color: #dda213;
     text-decoration: none;
     transition: all 0.12s ;
     -o-transition: all 0.12s ;

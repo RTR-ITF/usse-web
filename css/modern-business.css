@@ -108,12 +108,15 @@ header.carousel .fill {
     z-index: 5;
     top : 0px;
 }
-
-/* Set image Size default*/
- #logo>img{
-width:100px;
-height: 100px;
+#logo {
+    width: 300px;
+    height: 100px;
 }
+/* Set image Size default*/
+/* #logo>img{
+width:300px;
+height: 200px;
+}*/
 
 
 
@@ -165,7 +168,7 @@ height: 100px;
         left:15px;
     }
     #logo>img{
-        width:75px;
+        width:150px;
 		height:75px;
     }
 
@@ -216,7 +219,7 @@ height: 100px;
     }
 
     #logo>img{
-        width:50px;
+        width:100px;
 		height:50px;
     }
 

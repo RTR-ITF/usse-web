@@ -4,6 +4,7 @@
     <!-- Navigation -->
     
     <?php include "includes/nav-bar.php" ?>
+    <br><br><br><br><br>
     <?php include "includes/slider-home.php" ?>
 
 

@@ -36,7 +36,7 @@
 										<i class="fa fa-envelope"></i>
 								</td>
 								<td>
-											<a href="mailto:info@ussengineering.com?Subject=Enquiry from U.S.S Engineering web site" class="email">info@ussengineering.com</a>
+											<a href="mailto:info@ussengineering.com?Subject=Enquiry from U.S.S Engineering web site" style="color:#f2b82e;">info@ussengineering.com</a>
 								</td>
 							</tr>
 						</table>
@@ -77,7 +77,7 @@
 										<i class="fa fa-envelope"></i>
 								</td>
 								<td>
-											<a href="mailto:info@ussengineering.com?Subject=Enquiry from U.S.S Engineering web site" class="email">info@ussengineering.com</a>
+											<a href="mailto:info@ussengineering.com?Subject=Enquiry from U.S.S Engineering web site" style="color:#f2b82e;">info@ussengineering.com</a>
 								</td>
 							</tr>
 						</table>
@@ -90,9 +90,9 @@
 						<h3 class="widget-title">Get in touch with us</h3>
 						<div class="widget-body">
 							<p class="follow-me-icons">
-								<a href="https://www.facebook.com/usse.srilanka"><i >&#xf09a</i></a> <!-- facebook -->
-								<a  href="https://lk.linkedin.com/in/ussengineering"><i >&#xf08c</i></a>	<!-- linked in -->
-								<a  href="https://twitter.com/uss_engineering"><i >&#xf099</i></a>	<!-- twitter -->
+								<a style="color:#f2b82e;" href="https://www.facebook.com/usse.srilanka"><i >&#xf09a</i></a> <!-- facebook -->
+								<a style="color:#f2b82e;" href="https://lk.linkedin.com/in/ussengineering"><i >&#xf08c</i></a>	<!-- linked in -->
+								<a style="color:#f2b82e;" href="https://twitter.com/uss_engineering"><i >&#xf099</i></a>	<!-- twitter -->
 
 							</p>
 							<br>							
@@ -119,7 +119,7 @@
 								</h6>
 
 							<br>
-							<h4 title="Download company profile"><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS_profile.pdf" target="_BLANK"> Company Profile</a></h4>
+							<h4 title="Download company profile"><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS_profile.pdf" target="_BLANK" style="color:#f2b82e;"> Company Profile</a></h4>
 						</div>
 					</div>
 
