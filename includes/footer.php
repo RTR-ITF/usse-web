@@ -122,6 +122,7 @@
 							<h4 title="Download company profile"><i class="fa fa-download fa-2"></i>&nbsp<a href="files/USS_profile.pdf" target="_BLANK" style="color:#f2b82e;"> Company Profile</a></h4>
 						</div>
 					</div>
+					
 
 				</div> <!-- /row of widgets -->
 			</div>
