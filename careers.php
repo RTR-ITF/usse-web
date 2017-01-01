@@ -16,7 +16,7 @@
 	        <div class="col-lg-12">
 	        </div>
 	        <div class="panel-heading">
-	            	<img src="images/careers.png" style="width:100%">
+	            	<img src="images/careers.jpg" style="width:100%">
 	        </div>
 	        <div class="panel-body">
 	            	<h4>
