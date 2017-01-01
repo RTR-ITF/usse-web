@@ -1,14 +1,12 @@
- <nav class=" navbar-inverse navbar-fixed-top" role="navigation">
+ <nav class=" navbar-inverse navbar-fixed-top" style="margin-left:0px;" role="navigation">
         
         <div >
             <!-- Brand and toggle get grouped for better mobile display -->
-            <a class="navbar-brand" href="index.php" style="width: 100px; height: 80px;">
+            <a class="navbar-brand" href="index.php" style=" width: 100px; height: 80px;">
                 <div id="logo" class="col-md-10">
-                    <img style="width:300px;height:120px" src="company-logo/logo_new.png">
+                    <img style=" padding-top:0px;margin-top: -10px; width:300px;height:120px" src="company-logo/logo_new.jpg">
                 </div>
-				<div id="company_name" class="col-md-6">
-                    <!-- <h3 style='    font-family: "brand_font";'> U.S.S. Engineering </h3> -->
-                </div>
+				
                 
              </a>
             <!-- Collect the nav links, forms, and other content for toggling -->
