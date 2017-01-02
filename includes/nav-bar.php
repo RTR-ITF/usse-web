@@ -1,10 +1,10 @@
- <nav class=" navbar-inverse navbar-fixed-top" style="margin-left:0px;" role="navigation">
+ <nav class=" navbar-inverse navbar-fixed-top" style="margin-left:330px;" role="navigation">
         
         <div >
             <!-- Brand and toggle get grouped for better mobile display -->
             <a class="navbar-brand" href="index.php" style=" width: 100px; height: 80px;">
                 <div id="logo" class="col-md-10">
-                    <img style=" padding-top:0px;margin-top: -10px; width:300px;height:120px" src="company-logo/logo_new.jpg">
+                    <img style=" padding-top:0px;margin-top: -10px; width:300px;height:120px" src="company-logo/logo_new.png">
                 </div>
 				
                 
